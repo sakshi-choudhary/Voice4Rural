@@ -3,7 +3,7 @@ import { Switch, Route, BrowserRouter as Router } from "react-router-dom";
 import Jobs from "./Pages/Jobs/Jobs";
 import GithubJobs from "./Pages/Jobs/GithubJobs";
 import Market from "./Pages/Market";
-import Home from "./Pages//Home";
+import Home from "./Pages/Home";
 import { ChakraProvider } from "@chakra-ui/react";
 
 function App() {

@@ -1,25 +1,20 @@
 import React from "react";
-import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
-import CssBaseline from "@material-ui/core/CssBaseline";
 import TextField from "@material-ui/core/TextField";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { Card, Badge, Collapse, Row, Col, Nav, Navbar } from "react-bootstrap";
-import Navbarr from "../../UI/Navbar";
 import axios from "axios";
 import { Component } from "react";
 
-export default class FormJob extends Component {
+export default class FormMarket extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      organisation: "",
-      designation: "",
-      basesalary: "",
+      seller: "",
+      name: "",
+      phone: "",
+      price: "",
       location: "",
-      workhours: "",
-      contactNo: "",
     };
   }
 
@@ -29,55 +24,34 @@ export default class FormJob extends Component {
 
   onSubmit = (e) => {
     e.preventDefault();
-    const {
-      organisation,
-      designation,
-      basesalary,
-      location,
-      workhours,
-      contactNo,
-    } = this.state;
+    const { seller, name, phone, price, location } = this.state;
 
-    axios.post("https://voice4rural.herokuapp.com/jobs", {
-      organisation,
-      designation,
-      basesalary,
+    axios.post("https://voice4rural.herokuapp.com/market", {
+      seller,
+      name,
+      phone,
+      price,
       location,
-      workhours,
-      contactNo,
     });
     const notify = () =>
-      toast.success("Thanks! you posted the Job successfully");
+      toast.success("Thanks! you posted the item succesfully");
     notify();
   };
 
   render() {
-    const {
-      organisation,
-      designation,
-      basesalary,
-      location,
-      workhours,
-      contactNo,
-    } = this.state;
+    const { seller, name, phone, price, location } = this.state;
 
     return (
-      <form
-        noValidate
-        onSubmit={this.onSubmit}
-        style={{
-          width: "100%",
-        }}
-      >
+      <form style={{ width: "100%" }} noValidate onSubmit={this.onSubmit}>
         <TextField
           variant="outlined"
           margin="normal"
           required
           fullWidth
           id="item"
-          label="Company Name"
-          value={organisation}
-          name="organisation"
+          label="Item Name"
+          name="name"
+          value={name}
           type="text"
           autoComplete="item"
           autoFocus
@@ -88,9 +62,9 @@ export default class FormJob extends Component {
           margin="normal"
           halfWidth
           required
-          value={designation}
-          name="designation"
-          label="Job Role"
+          name="seller"
+          value={seller}
+          label="Your Name"
           type="text"
           id="margin-normal"
           autoComplete="number"
@@ -102,63 +76,57 @@ export default class FormJob extends Component {
           margin="normal"
           required
           halfWidth
-          value={location}
+          name="price"
+          value={price}
+          label="Price"
+          type="text"
+          id="margin-normal"
+          autoComplete="number"
+          className="mr-5"
+          onChange={this.onChange}
+        />
+        <TextField
+          variant="outlined"
+          margin="normal"
+          halfWidth
+          required
+          name="phone"
+          value={phone}
+          label="Your Phone Number"
+          type="number"
+          id="margin-normal"
+          autoComplete="number"
+          onChange={this.onChange}
+        />
+        <TextField
+          variant="outlined"
+          margin="normal"
+          halfWidth
+          required
           name="location"
+          value={location}
           label="Location"
           type="text"
           id="margin-normal"
           autoComplete="number"
-          className="mr-5"
           onChange={this.onChange}
         />
-        <TextField
-          variant="outlined"
-          margin="normal"
-          halfWidth
-          required
-          value={basesalary}
-          name="basesalary"
-          label="Salary"
-          type="number"
-          id="margin-normal"
-          autoComplete="number"
-          onChange={this.onChange}
-        />
-        <TextField
-          variant="outlined"
-          margin="normal"
-          halfWidth
-          required
-          value={workhours}
-          name="workhours"
-          label="Work Hours"
-          type="number"
-          id="margin-normal"
-          autoComplete="number"
-          className="mr-5"
-          onChange={this.onChange}
-        />
-        <TextField
-          variant="outlined"
-          margin="normal"
-          halfWidth
-          required
-          value={contactNo}
-          name="contactNo"
-          label="Contact Number"
-          type="number"
-          id="margin-normal"
-          autoComplete="number"
-          onChange={this.onChange}
-        />
+        {/* <input
+          name="file"
+          type="file"
+          className="file-upload my-3 ml-5 p-2"
+          data-cloudinary-field="image_id"
+          data-form-data="{ 'transformation': {'crop':'limit','tags':'samples','width':3000,'height':2000}}"
+        /> */}
+
         <Button
           type="submit"
           fullWidth
           variant="contained"
           color="primary"
-          className="my-3"
+          className="my-1 "
         >
-          Post
+          Sell
         </Button>
         <ToastContainer />
       </form>

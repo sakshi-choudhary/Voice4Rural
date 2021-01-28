@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
@@ -10,6 +10,8 @@ import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import { Card, Row, Col } from "react-bootstrap";
 import Navbarr from "../UI/Navbar";
+import axios from "axios";
+import FormMarket from "./PostProduct";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -34,17 +36,22 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(1),
     backgroundColor: theme.palette.secondary.main,
   },
-  form: {
-    width: "100%", // Fix IE 11 issue.
-    marginTop: theme.spacing(1),
-  },
-  submit: {
-    margin: theme.spacing(3, 0, 2),
-  },
 }));
 
 export default function Market() {
   const classes = useStyles();
+  const [listings, setListings] = useState([]);
+  useEffect(() => {
+    axios
+      .get("https://voice4rural.herokuapp.com/market")
+      .then((res) => {
+        console.log(res.data.listings);
+        setListings(res.data.listings);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
 
   return (
     <>
@@ -60,252 +67,34 @@ export default function Market() {
           data-spy="scroll"
         >
           <Row>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
+            {listings.map((listing) => (
+              <Col>
+                <Card style={{ width: "18rem" }} className="m-3">
+                  <Card.Img
+                    variant="top"
+                    src="https://source.unsplash.com/1600x900/?chair,furniture"
+                  />
+                  <Card.Body>
+                    <Card.Title>{listing.name}</Card.Title>
+                    <Card.Text>
+                      PRICE : <strong> Rs. {listing.price}</strong>
+                      <br />
+                      Loaction: <strong>{listing.location}</strong>
+                      <br />
+                      Seller Name: <strong>{listing.seller}</strong>
+                      <br />
+                      Seller Contact: <strong>{listing.phone}</strong>
+                    </Card.Text>
                     <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
-            <Col>
-              <Card style={{ width: "18rem" }} className="m-3">
-                <Card.Img
-                  variant="top"
-                  src="https://source.unsplash.com/1600x900/?chair,furniture"
-                />
-                <Card.Body>
-                  <Card.Title>Chair</Card.Title>
-                  <Card.Text>
-                    PRICE : <strong> Rs. 5600</strong>
-                    <br />
-                    Seller Contact: <strong>8648324324</strong>
-                  </Card.Text>
-                  <br />
-                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
-                    <a href="tel:8340527198">Buy</a>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </Col>
+                    <Button
+                      style={{ backgroundColor: "#f50057", color: "#fff" }}
+                    >
+                      <a href={`tel:${listing.phone}`}>Buy</a>
+                    </Button>
+                  </Card.Body>
+                </Card>
+              </Col>
+            ))}
           </Row>
         </Grid>
         <Grid item xs={12} sm={8} md={5} component={Paper} elevation={6} square>
@@ -316,65 +105,7 @@ export default function Market() {
             <Typography component="h1" variant="h5">
               Sell it out!
             </Typography>
-            <form className={classes.form} noValidate>
-              <TextField
-                variant="outlined"
-                margin="normal"
-                required
-                fullWidth
-                id="item"
-                label="Item"
-                name="item"
-                type="text"
-                autoComplete="item"
-                autoFocus
-              />
-              <TextField
-                variant="outlined"
-                margin="normal"
-                halfWidth
-                required
-                name="number"
-                label="Category"
-                type="text"
-                id="margin-normal"
-                autoComplete="number"
-                className="mr-5"
-              />
-              <TextField
-                variant="outlined"
-                margin="normal"
-                required
-                halfWidth
-                name="number"
-                label="Price"
-                type="text"
-                id="margin-normal"
-                autoComplete="number"
-                className="mr-5"
-              />
-              <TextField
-                variant="outlined"
-                margin="normal"
-                halfWidth
-                required
-                name="number"
-                label="Phone Number"
-                type="number"
-                id="margin-normal"
-                autoComplete="number"
-              />
-
-              <Button
-                type="submit"
-                fullWidth
-                variant="contained"
-                color="primary"
-                className={classes.submit}
-              >
-                Sell
-              </Button>
-            </form>
+            <FormMarket />
           </div>
         </Grid>
       </Grid>
