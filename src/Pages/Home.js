@@ -2,6 +2,8 @@ import React from "react";
 import Footer from "../UI/Footer";
 import Navbarr from "../UI/Navbar";
 import "./Home.module.css";
+import farmer from "../assets/Farmer.gif";
+import farmer2 from "../assets/Farmer2.gif";
 function Home() {
   return (
     <>
@@ -51,18 +53,14 @@ function Home() {
               </span>
             </div>
             <div className="col-lg-4 order-1 order-lg-2 hero-img">
-              <img
-                src="https://source.unsplash.com/1600x1600/?random"
-                className="img-fluid my-5 mx-3"
-                alt=""
-              />
+              <img src={farmer2} className="img-fluid my-5 mx-3" alt="" />
             </div>
             <div className="col-lg-12 order-1 order-lg-3 hero-img my-5">
               <h1>How we help?</h1>
               <ol>
                 Booking done in the nearest hospital on basis of available
                 slots. A simple setup to assist people who aren’t much familiar
-                with technology. Another easy to use setup to post the
+                with technology. Another easy tso use setup to post the
                 handmade-items along with the negotiable price and the contact
                 details. This will be a really good step up in turning India
                 atmanirbhar and will also in turn help the needy. Matching jobs

@@ -12,6 +12,7 @@ import Navbarr from "../../UI/Navbar";
 import axios from "axios";
 import { Component } from "react";
 import FormJob from "./PostJob";
+import job from "../../assets/Job.gif";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -114,6 +115,16 @@ export default function Jobs() {
             </Typography>
             <FormJob />
           </div>
+          <Grid
+            item
+            xs={false}
+            sm={4}
+            md={8}
+            className={classes.image}
+            data-spy="scroll"
+          >
+            <img src={job} alt="market" />
+          </Grid>
         </Grid>
       </Grid>
     </>

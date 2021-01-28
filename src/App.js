@@ -4,6 +4,7 @@ import Jobs from "./Pages/Jobs/Jobs";
 import GithubJobs from "./Pages/Jobs/GithubJobs";
 import Market from "./Pages/Market";
 import Home from "./Pages/Home";
+import Vaccine from "./Pages/Vaccine/Vaccine";
 import { ChakraProvider } from "@chakra-ui/react";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
           <Route path="/githubjobs" exact render={() => <GithubJobs />} />
           <Route path="/" exact render={() => <Home />} />
           <Route path="/market" exact render={() => <Market />} />
+          <Route path="/vaccine" exact render={() => <Vaccine />} />
         </Switch>
       </Router>
     </ChakraProvider>

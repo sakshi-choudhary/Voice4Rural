@@ -12,6 +12,7 @@ import { Card, Row, Col } from "react-bootstrap";
 import Navbarr from "../UI/Navbar";
 import axios from "axios";
 import FormMarket from "./PostProduct";
+import market from "../assets/market.gif";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -60,7 +61,7 @@ export default function Market() {
         <CssBaseline />
         <Grid
           item
-          xs={false}
+          xs={7}
           sm={4}
           md={7}
           className={classes.image}
@@ -68,35 +69,32 @@ export default function Market() {
         >
           <Row>
             {listings.map((listing) => (
-              <Col>
-                <Card style={{ width: "18rem" }} className="m-3">
-                  <Card.Img
-                    variant="top"
-                    src="https://source.unsplash.com/1600x900/?chair,furniture"
-                  />
-                  <Card.Body>
-                    <Card.Title>{listing.name}</Card.Title>
-                    <Card.Text>
-                      PRICE : <strong> Rs. {listing.price}</strong>
-                      <br />
-                      Loaction: <strong>{listing.location}</strong>
-                      <br />
-                      Seller Name: <strong>{listing.seller}</strong>
-                      <br />
-                      Seller Contact: <strong>{listing.phone}</strong>
-                    </Card.Text>
+              <Card style={{ width: "18rem" }} className="m-3">
+                <Card.Img
+                  variant="top"
+                  src="https://source.unsplash.com/1600x900/?chair,furniture"
+                />
+                <Card.Body>
+                  <Card.Title>{listing.name}</Card.Title>
+                  <Card.Text>
+                    PRICE : <strong> Rs. {listing.price}</strong>
                     <br />
-                    <Button
-                      style={{ backgroundColor: "#f50057", color: "#fff" }}
-                    >
-                      <a href={`tel:${listing.phone}`}>Buy</a>
-                    </Button>
-                  </Card.Body>
-                </Card>
-              </Col>
+                    Loaction: <strong>{listing.location}</strong>
+                    <br />
+                    Seller Name: <strong>{listing.seller}</strong>
+                    <br />
+                    Seller Contact: <strong>{listing.phone}</strong>
+                  </Card.Text>
+                  <br />
+                  <Button style={{ backgroundColor: "#f50057", color: "#fff" }}>
+                    <a href={`tel:${listing.phone}`}>Buy</a>
+                  </Button>
+                </Card.Body>
+              </Card>
             ))}
           </Row>
         </Grid>
+
         <Grid item xs={12} sm={8} md={5} component={Paper} elevation={6} square>
           <div className={classes.paper}>
             <Avatar className={classes.avatar}>
@@ -107,6 +105,16 @@ export default function Market() {
             </Typography>
             <FormMarket />
           </div>
+          <Grid
+            item
+            xs={false}
+            sm={4}
+            md={8}
+            className={classes.image}
+            data-spy="scroll"
+          >
+            <img src={market} alt="market" />
+          </Grid>
         </Grid>
       </Grid>
     </>
