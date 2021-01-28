@@ -10,7 +10,7 @@ function Copyright() {
     <Typography variant="body2" color="textSecondary">
       {"Copyright © "}
       <Link color="inherit" href="https://material-ui.com/">
-        Team Binary Fetch
+        Team Binary Fetchers
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}
