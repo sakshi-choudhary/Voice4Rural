@@ -6,7 +6,7 @@ from pydantic import BaseModel
 from models import PostJob
 import pymongo
 from pymongo import MongoClient
-import settings
+#import settings
 from bson import ObjectId
 from bson.json_util import loads, dumps
 
@@ -19,7 +19,7 @@ from bson.json_util import loads, dumps
 def parse_json(data):
     return json.loads(dumps(data))
 
-client = MongoClient(settings.mongoconnect)
+client = MongoClient("mongodb+srv://codebreak:codebreak2021@cluster0.t9bjr.mongodb.net/User1?retryWrites=true&w=majority")
 db = client['User1']
 jobs = db['jobs']
 market = db['market']
@@ -33,7 +33,7 @@ app = FastAPI(debug = True,
                 version="1.0")
 
 '''
-JOBS API
+--------JOBS API----------
 '''
 @app.get('/jobs', status_code = 200, name = 'Show all Jobs')
 async def showjobs(response: Response):
