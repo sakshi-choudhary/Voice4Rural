@@ -3,7 +3,7 @@ from starlette.status import HTTP_200_OK, HTTP_404_NOT_FOUND
 import uvicorn
 import json, requests
 from pydantic import BaseModel
-from models import PostJob
+from models import PostJob, Market
 import pymongo
 from pymongo import MongoClient
 #import settings
@@ -60,7 +60,7 @@ async def postjobs(pj:PostJob, response: Response):
     return parse_json(pj.__dict__)
 
 
-@app.delete('/jobs/{item_id}', status_code = 200, name = 'Delete all Job')
+@app.delete('/jobs/{item_id}', status_code = 200, name = 'Delete a Job')
 async def deletejobs(item_id: str, response: Response):
     try:
         f = jobs.find_one({"_id": ObjectId(item_id)})
@@ -70,6 +70,41 @@ async def deletejobs(item_id: str, response: Response):
     except Exception:
         return HTTP_404_NOT_FOUND
 
+'''
+--------MARKET API----------
+'''
+@app.get('/market', status_code = 200, name = 'Show all Listed Items')
+async def showitems(response: Response):
+    dictitems = dict()
+    listitems = []
+    count = 0
+    for j in market.find():
+        count+=1
+        listitems.append(j)
+    if count > 0:
+        dictitems['items-count'] = count
+        dictitems['listings'] = listitems
+        response.status_code = status.HTTP_200_OK
+        return parse_json(dictitems)
+
+    response.status_code = status.HTTP_204_NO_CONTENT    
+    return parse_json(dictitems)
+
+@app.post('/market', status_code = 200, name = 'Post an Item for sale')
+async def postitem(m: Market, response: Response):
+    market.insert_one(parse_json(m.__dict__))
+    response.status_code = status.HTTP_202_ACCEPTED
+    return parse_json(m.__dict__)
+
+@app.delete('/market/{item_id}', status_code = 200, name = 'Delete a Listed Item')
+async def deletejobs(item_id: str, response: Response):
+    try:
+        f = market.find_one({"_id": ObjectId(item_id)})
+        market.delete_one({"_id": ObjectId(item_id)})
+        response.status_code = status.HTTP_200_OK
+        return f
+    except Exception:
+        return HTTP_404_NOT_FOUND
 
 if __name__ == "__main__":
     uvicorn.run(app, host="localhost", port=8000)

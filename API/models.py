@@ -7,3 +7,10 @@ class PostJob(BaseModel):
     location : str = None
     workhours : str = None
     contactNo : str = None
+
+class Market(BaseModel):
+    seller: str= None
+    name: str = None
+    phone: str = None
+    price: str = None
+    location: str = None
