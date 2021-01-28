@@ -164,6 +164,10 @@ async def resetslots(response: Response):
     response.status_code = status.HTTP_205_RESET_CONTENT
     return dlist
 
+@app.get('/vaccine/reset',status_code=200, name = "Reset slots")
+async def resetslots(response: Response):
+    pass
+
 if __name__ == "__main__":
     uvicorn.run(app, host="localhost", port=8000)
 
