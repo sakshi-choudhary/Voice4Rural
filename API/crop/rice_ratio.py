@@ -1,5 +1,3 @@
-
-
 import pandas as pd
 import numpy as np
 
@@ -11,11 +9,11 @@ from tensorflow.keras.models import load_model
 
 from sklearn.preprocessing import MinMaxScaler
 
-train_path='datasets/farm_train.csv'
+train_path='crop/datasets/farm_train.csv'
 
 
 
-train_path='datasets/farm_train.csv'
+train_path='crop/datasets/farm_train.csv'
 def get_train_data():
     scaler=MinMaxScaler()
     data = pd.read_csv(train_path,usecols = ['Avg Month Temp'])
@@ -44,10 +42,10 @@ X,y = get_train_data()
 model.fit(X, y, epochs=50, shuffle=False, verbose=1)
 
 
-model.save('rice_ratio_lstm_model.h5')
+model.save('crop/rice_ratio_lstm_model.h5')
 
 def predict_ratio():
-    model = load_model('rice_ratio_lstm_model.h5')
+    model = load_model('crop/rice_ratio_lstm_model.h5')
 
     temp=float(input("Enter the average temperature of your area to predict the ratio :"))  
 

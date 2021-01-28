@@ -1,0 +1,1678 @@
+State,District,Year,Crop,Area,Production,Ratio,Avg Month Temp,annual-min,annual-max,min-temp,max-temp,month,week
+Maharashtra,Ratnagiri,1984,Rice,72022,351721,4.883521702,25.395,15.19,29.83,25.16,25.63,april,four
+Maharashtra,Ratnagiri,1984,Rice,79385,626293,7.889311583,22.26,24.62,15.29,21.4,23.12,may,one 
+Maharashtra,Ratnagiri,1984,Rice,55669,514311,9.238732508,20.915,26.96,17.85,20.86,20.97,may,two 
+Maharashtra,Ratnagiri,1984,Rice,54683,318777,5.829544831,24.795,20.88,22.54,27.31,22.28,may,three
+Maharashtra,Ratnagiri,1984,Rice,88797,274252,3.088527766,16.955,29.1,24.63,17.03,16.88,may,four
+Maharashtra,Ratnagiri,1984,Rice,86828,823688,9.486432948,23.135,28.38,27.02,18.77,27.5,june,one 
+Maharashtra,Ratnagiri,1984,Rice,71118,361732,5.086363509,20.435,16.61,20.99,25.74,15.13,june,two 
+Maharashtra,Ratnagiri,1984,Rice,76917,306295,3.98214959,23.33,16.32,17.5,27.82,18.84,june,three
+Maharashtra,Ratnagiri,1984,Rice,80855,491795,6.082431513,27.17,20.22,20,26.61,27.73,june,four
+Maharashtra,Ratnagiri,1984,Rice,68047,683044,10.0378268,21.605,25.18,17.47,19.8,23.41,july,one 
+Maharashtra,Ratnagiri,1984,Rice,76001,515233,6.779292378,25.005,20.68,15.55,21.09,28.92,july,two 
+Maharashtra,Ratnagiri,1984,Rice,55776,760234,13.63012765,22.225,28.6,21.34,16.1,28.35,july,three
+Maharashtra,Ratnagiri,1984,Rice,64408,541078,8.400788722,20.595,25.21,21.46,18.21,22.98,july,four
+Maharashtra,Ratnagiri,1984,Rice,57932,271285,4.682817786,20.025,19.58,26.79,21.9,18.15,august,one 
+Maharashtra,Ratnagiri,1984,Rice,55697,973978,17.48708189,19.385,28.43,28.16,15.55,23.22,august,two 
+Maharashtra,Ratnagiri,1984,Rice,54726,929630,16.98698973,23.405,26.39,22.67,22.61,24.2,august,three
+Maharashtra,Ratnagiri,1984,Rice,55560,932848,16.78992081,18.09,24.38,16.94,15.53,20.65,august,four
+Maharashtra,Ratnagiri,1984,Rice,99675,504804,5.064499624,27.265,18.85,26.92,28.9,25.63,september,one 
+Maharashtra,Ratnagiri,1984,Rice,64551,997289,15.44962898,19.715,25.13,17.43,16.01,23.42,september,two 
+Maharashtra,Ratnagiri,1984,Rice,83288,808926,9.712395543,19.17,16.85,19.15,19.45,18.89,september,three
+Maharashtra,Ratnagiri,1984,Rice,77225,718639,9.305781806,24.03,28.24,24.26,28.79,19.27,september,four
+Maharashtra,Ratnagiri,1984,Rice,61870,241074,3.89646032,23.02,19.01,27.73,20.12,25.92,october,one 
+Maharashtra,Ratnagiri,1984,Rice,59258,413653,6.980542712,21.64,28.72,25.52,20.69,22.59,october,two 
+Maharashtra,Ratnagiri,1984,Rice,51918,363613,7.003601834,22.56,16.22,17.51,23.9,21.22,october,three
+Maharashtra,Ratnagiri,1984,Rice,84522,208341,2.464932207,23.28,29.12,21.18,21.3,25.26,october,four
+Maharashtra,Ratnagiri,1984,Rice,89715,224894,2.506760296,22.74,29.09,25.45,16.76,28.72,november,one 
+Maharashtra,Ratnagiri,1984,Rice,58495,459266,7.851371912,19.6,28.31,27.02,21.17,18.03,november,two 
+Maharashtra,Ratnagiri,1984,Rice,89189,803510,9.009070625,24.165,18.76,22.36,29.22,19.11,november,three
+Maharashtra,Ratnagiri,1984,Rice,72332,820786,11.34748106,18.705,22.08,27.73,20.89,16.52,november,four
+Maharashtra,Ratnagiri,1984,Rice,81253,788315,9.701980235,23.03,28.28,23.25,29.44,16.62,december,one 
+Maharashtra,Ratnagiri,1984,Rice,69214,947394,13.68789551,25.29,17.22,28.5,23.24,27.34,december,two 
+Maharashtra,Ratnagiri,1984,Rice,58394,465449,7.970836045,18.09,24.78,28.19,20.26,15.92,december,three
+Maharashtra,Ratnagiri,1984,Rice,52448,331716,6.32466443,26.43,19.73,24.49,23.33,29.53,december,four
+Maharashtra,Ratnagiri,1985,Rice,81523,221905,2.721992567,25.17,25.86,29.14,27.51,22.83,january ,one 
+Maharashtra,Ratnagiri,1985,Rice,70770,918541,12.97924262,18.245,15.22,27.36,15.58,20.91,january ,two 
+Maharashtra,Ratnagiri,1985,Rice,65927,562024,8.524944257,21.7,26.83,25.05,18.95,24.45,january ,three
+Maharashtra,Ratnagiri,1985,Rice,79102,493632,6.24044904,27.74,23.57,19.21,26.41,29.07,january ,four
+Maharashtra,Ratnagiri,1985,Rice,77721,944334,12.15030687,24.07,28.68,25.58,24.36,23.78,february ,one 
+Maharashtra,Ratnagiri,1985,Rice,96765,948686,9.804020049,22.73,27.23,20.43,23.71,21.75,february ,two 
+Maharashtra,Ratnagiri,1985,Rice,65167,420256,6.44890819,21.495,17.19,26.82,18.1,24.89,february ,three
+Maharashtra,Ratnagiri,1985,Rice,55612,710719,12.77995756,23.575,27.69,16.59,25.43,21.72,february ,four
+Maharashtra,Ratnagiri,1985,Rice,86339,813643,9.423817742,19.265,29.33,21,16.34,22.19,march ,one 
+Maharashtra,Ratnagiri,1985,Rice,94253,411475,4.365643534,22.525,21.6,21.29,24.4,20.65,march ,two 
+Maharashtra,Ratnagiri,1985,Rice,51243,783402,15.2879808,26.57,18.42,25.37,24.84,28.3,march ,three
+Maharashtra,Ratnagiri,1985,Rice,94001,232352,2.471803491,25.51,27.71,21.7,29.19,21.83,march ,four
+Maharashtra,Ratnagiri,1985,Rice,73620,867466,11.78302092,22.25,23.79,16.78,20.15,24.35,april,one 
+Maharashtra,Ratnagiri,1985,Rice,61370,869526,14.168584,23.06,27.7,26.23,18.08,28.04,april,two 
+Maharashtra,Ratnagiri,1985,Rice,78825,832450,10.56073581,24.33,16.04,15.31,29.12,19.54,april,three
+Maharashtra,Ratnagiri,1985,Rice,87605,607174,6.930814451,22.52,25.19,18.45,26.39,18.65,april,four
+Maharashtra,Ratnagiri,1985,Rice,79451,785419,9.885577274,25.735,25.6,25.73,26.56,24.91,may,one 
+Maharashtra,Ratnagiri,1985,Rice,75387,500431,6.638160426,22.36,24.73,24.15,26.21,18.51,may,two 
+Maharashtra,Ratnagiri,1985,Rice,86294,474590,5.499687116,22.87,15.17,29.02,24.26,21.48,may,three
+Maharashtra,Ratnagiri,1985,Rice,89527,940374,10.50380332,16.555,21.53,18.66,16.24,16.87,may,four
+Maharashtra,Ratnagiri,1985,Rice,77972,227390,2.916303288,21.525,19.74,25.94,18.8,24.25,june,one 
+Maharashtra,Ratnagiri,1985,Rice,87731,825464,9.409034435,20.565,18.51,18.63,20.47,20.66,june,two 
+Maharashtra,Ratnagiri,1985,Rice,64956,407226,6.269259191,20.06,21.3,20,24.99,15.13,june,three
+Maharashtra,Ratnagiri,1985,Rice,90865,417363,4.593220712,17.905,27.96,18.62,16.12,19.69,june,four
+Maharashtra,Ratnagiri,1985,Rice,84438,510877,6.050320946,23.95,16.39,24.95,21.97,25.93,july,one 
+Maharashtra,Ratnagiri,1985,Rice,64882,229441,3.536281249,25.825,28.2,22.22,27.5,24.15,july,two 
+Maharashtra,Ratnagiri,1985,Rice,85438,589560,6.900442426,18.67,28.15,18.83,18.25,19.09,july,three
+Maharashtra,Ratnagiri,1985,Rice,94209,392954,4.171087688,17.96,22.57,27.43,17.59,18.33,july,four
+Maharashtra,Ratnagiri,1985,Rice,70911,641628,9.04835639,23.72,15.72,24.23,17.97,29.47,august,one 
+Maharashtra,Ratnagiri,1985,Rice,51140,916968,17.93054361,22.38,21.7,23.17,17.07,27.69,august,two 
+Maharashtra,Ratnagiri,1985,Rice,92205,523163,5.673911393,25.03,25.87,24.35,29.28,20.78,august,three
+Maharashtra,Ratnagiri,1985,Rice,77907,210640,2.703736506,24.175,29.25,23.96,20.59,27.76,august,four
+Maharashtra,Ratnagiri,1985,Rice,87009,827345,9.508728982,23.15,25,26.47,29.24,17.06,september,one 
+Maharashtra,Ratnagiri,1985,Rice,93375,392241,4.200706827,27.65,21.71,26.55,28.1,27.2,september,two 
+Maharashtra,Ratnagiri,1985,Rice,83040,616286,7.421555877,21.325,26.96,24.8,20.57,22.08,september,three
+Maharashtra,Ratnagiri,1985,Rice,64798,797914,12.31386771,18.95,22.1,23.53,16.65,21.25,september,four
+Maharashtra,Ratnagiri,1985,Rice,84130,979482,11.64248187,16.605,19.92,21.07,15.68,17.53,october,one 
+Maharashtra,Ratnagiri,1985,Rice,68378,733383,10.72542338,24.75,17.94,25.32,20.06,29.44,october,two 
+Maharashtra,Ratnagiri,1985,Rice,67764,237803,3.509282215,22.37,27.04,23.16,16.1,28.64,october,three
+Maharashtra,Ratnagiri,1985,Rice,63709,249182,3.911252727,20.39,20.77,23.56,25.06,15.72,october,four
+Maharashtra,Ratnagiri,1985,Rice,69788,636929,9.126626354,25.33,17.54,25.76,24.21,26.45,november,one 
+Maharashtra,Ratnagiri,1985,Rice,71518,380816,5.324757404,20.59,24.41,19.79,22.59,18.59,november,two 
+Maharashtra,Ratnagiri,1985,Rice,77256,778738,10.0799679,26.965,25.77,20.66,24.21,29.72,november,three
+Maharashtra,Ratnagiri,1985,Rice,61717,549844,8.909117423,26.7,25.24,18.07,27.37,26.03,november,four
+Maharashtra,Ratnagiri,1985,Rice,65636,997685,15.20027119,23.675,17.98,28.99,20.1,27.25,december,one 
+Maharashtra,Ratnagiri,1985,Rice,79086,478092,6.0452166,24.4,18.6,25.18,29.16,19.64,december,two 
+Maharashtra,Ratnagiri,1985,Rice,67497,681070,10.09037439,20.25,29.14,27.28,16.04,24.46,december,three
+Maharashtra,Ratnagiri,1985,Rice,69732,561795,8.056487696,25.72,19.41,23.75,21.67,29.77,december,four
+Maharashtra,Ratnagiri,1986,Rice,72368,553492,7.64829759,27.32,28.92,26.7,26.45,28.19,january ,one 
+Maharashtra,Ratnagiri,1986,Rice,82077,760468,9.265299658,22.59,18.13,17.71,24.99,20.19,january ,two 
+Maharashtra,Ratnagiri,1986,Rice,82278,384023,4.667383748,24.53,16.85,21.8,23.91,25.15,january ,three
+Maharashtra,Ratnagiri,1986,Rice,82379,565508,6.864710667,26.955,21.54,21.83,24.67,29.24,january ,four
+Maharashtra,Ratnagiri,1986,Rice,84560,301631,3.567064806,23.245,15.42,18.04,21.47,25.02,february ,one 
+Maharashtra,Ratnagiri,1986,Rice,77669,637450,8.207264159,25.145,25.29,15.38,27.49,22.8,february ,two 
+Maharashtra,Ratnagiri,1986,Rice,57650,615507,10.67661752,24.78,22.32,23.27,27.88,21.68,february ,three
+Maharashtra,Ratnagiri,1986,Rice,63483,214694,3.381913268,26.91,20.76,19.28,29.43,24.39,february ,four
+Maharashtra,Ratnagiri,1986,Rice,63137,630695,9.989308963,23.755,29.57,20.12,25.06,22.45,march ,one 
+Maharashtra,Ratnagiri,1986,Rice,80423,543496,6.757967248,23.21,20.75,16.31,17.13,29.29,march ,two 
+Maharashtra,Ratnagiri,1986,Rice,56279,523445,9.300893761,17.385,16.67,18.65,16.86,17.91,march ,three
+Maharashtra,Ratnagiri,1986,Rice,74341,471754,6.345811867,24.725,20.15,27.21,20.99,28.46,march ,four
+Maharashtra,Ratnagiri,1986,Rice,53410,570693,10.68513387,22.135,23.87,20.5,15.5,28.77,april,one 
+Maharashtra,Ratnagiri,1986,Rice,90793,366552,4.03722754,21.485,23.25,29.81,19.44,23.53,april,two 
+Maharashtra,Ratnagiri,1986,Rice,89670,478013,5.330801829,20.245,28.31,21.63,20.92,19.57,april,three
+Maharashtra,Ratnagiri,1986,Rice,64710,256482,3.963560501,20.62,23.24,17.12,17.69,23.55,april,four
+Maharashtra,Ratnagiri,1986,Rice,93378,691077,7.400854591,25.3,17.95,22.09,23.16,27.44,may,one 
+Maharashtra,Ratnagiri,1986,Rice,83406,884932,10.60993214,23.825,22.75,23.69,28.08,19.57,may,two 
+Maharashtra,Ratnagiri,1986,Rice,53411,848211,15.88082979,20.225,17.56,18.69,21.4,19.05,may,three
+Maharashtra,Ratnagiri,1986,Rice,89643,363847,4.058844528,28.965,17.55,28.61,28.81,29.12,may,four
+Maharashtra,Ratnagiri,1986,Rice,77129,689754,8.942861959,22.78,28.03,27.36,17.74,27.82,june,one 
+Maharashtra,Ratnagiri,1986,Rice,85102,837753,9.844104721,23.155,25.14,21.1,23.68,22.63,june,two 
+Maharashtra,Ratnagiri,1986,Rice,82214,495392,6.025640402,16.87,26.36,15.04,15.41,18.33,june,three
+Maharashtra,Ratnagiri,1986,Rice,86829,600216,6.912621359,22.53,24.36,20.12,24.3,20.76,june,four
+Maharashtra,Ratnagiri,1986,Rice,79152,713568,9.015160703,21.825,17.29,28.6,17.29,26.36,july,one 
+Maharashtra,Ratnagiri,1986,Rice,55419,506279,9.135477002,18.71,23.89,28.77,16.19,21.23,july,two 
+Maharashtra,Ratnagiri,1986,Rice,87924,325791,3.705370547,20.305,18.99,20.05,17.44,23.17,july,three
+Maharashtra,Ratnagiri,1986,Rice,72179,404104,5.598636723,25.505,19.19,27.8,21.02,29.99,july,four
+Maharashtra,Ratnagiri,1986,Rice,69683,948421,13.61050758,19.35,25.79,23.53,15.49,23.21,august,one 
+Maharashtra,Ratnagiri,1986,Rice,92328,928430,10.0557794,22.25,26.26,24.51,28.9,15.6,august,two 
+Maharashtra,Ratnagiri,1986,Rice,81800,911046,11.13748166,23.6,29.51,21.55,28.14,19.06,august,three
+Maharashtra,Ratnagiri,1986,Rice,60566,726216,11.99048971,17.46,19.88,26.99,15.68,19.24,august,four
+Maharashtra,Ratnagiri,1986,Rice,69346,597454,8.615551005,16.71,22.84,29.58,17.97,15.45,september,one 
+Maharashtra,Ratnagiri,1986,Rice,92612,894003,9.653209087,18.665,22.09,22.02,17.49,19.84,september,two 
+Maharashtra,Ratnagiri,1986,Rice,67416,498344,7.392073098,23.72,28.94,15.68,26.34,21.1,september,three
+Maharashtra,Ratnagiri,1986,Rice,50354,616901,12.25128093,21.335,25.4,15.72,27.34,15.33,september,four
+Maharashtra,Ratnagiri,1986,Rice,53755,801948,14.91857502,18.02,15.69,28.24,16.2,19.84,october,one 
+Maharashtra,Ratnagiri,1986,Rice,87980,455506,5.177381223,27.025,21.19,18.1,26.69,27.36,october,two 
+Maharashtra,Ratnagiri,1986,Rice,52581,861272,16.37990909,22.73,23.37,18.41,26.33,19.13,october,three
+Maharashtra,Ratnagiri,1986,Rice,85369,762757,8.934824116,24.805,27.1,17.6,28.64,20.97,october,four
+Maharashtra,Ratnagiri,1986,Rice,83052,822423,9.902506863,18.845,24.3,29.17,21.61,16.08,november,one 
+Maharashtra,Ratnagiri,1986,Rice,93492,540035,5.776269627,24.38,20.96,29.31,21.72,27.04,november,two 
+Maharashtra,Ratnagiri,1986,Rice,66221,391997,5.919527038,24.315,16.15,17.33,24.61,24.02,november,three
+Maharashtra,Ratnagiri,1986,Rice,56643,879262,15.52287132,23.68,17.03,15.44,19.79,27.57,november,four
+Maharashtra,Ratnagiri,1986,Rice,72145,610340,8.459907131,26.055,28.99,28.3,25.41,26.7,december,one 
+Maharashtra,Ratnagiri,1986,Rice,79492,460534,5.793463493,18.97,15.14,21.25,16.98,20.96,december,two 
+Maharashtra,Ratnagiri,1986,Rice,96960,652008,6.72450495,26.795,26.89,15.22,28.32,25.27,december,three
+Maharashtra,Ratnagiri,1986,Rice,80945,227283,2.807869541,20.01,27.29,18.39,15.9,24.12,december,four
+Maharashtra,Ratnagiri,1987,Rice,50181,424048,8.450369662,21.39,19.81,27.75,20.66,22.12,january ,one 
+Maharashtra,Ratnagiri,1987,Rice,79427,559608,7.045563851,17.815,20.6,29.15,17.15,18.48,january ,two 
+Maharashtra,Ratnagiri,1987,Rice,80644,378540,4.693963593,28.745,27.54,25.53,28.79,28.7,january ,three
+Maharashtra,Ratnagiri,1987,Rice,98127,587624,5.988402784,17.55,17.58,20.82,16.64,18.46,january ,four
+Maharashtra,Ratnagiri,1987,Rice,62371,893856,14.33127575,19.89,20.55,29.22,22.16,17.62,february ,one 
+Maharashtra,Ratnagiri,1987,Rice,83135,744690,8.957599086,26.135,23.9,23.94,28.69,23.58,february ,two 
+Maharashtra,Ratnagiri,1987,Rice,77633,590715,7.609070885,24.23,20.19,22.83,21.08,27.38,february ,three
+Maharashtra,Ratnagiri,1987,Rice,94010,629463,6.695702585,23.22,21.82,20.49,25.06,21.38,february ,four
+Maharashtra,Ratnagiri,1987,Rice,78567,635248,8.08543027,23.26,19.69,18.76,27.44,19.08,march ,one 
+Maharashtra,Ratnagiri,1987,Rice,83283,331976,3.986119616,20.375,27.54,26.72,23.58,17.17,march ,two 
+Maharashtra,Ratnagiri,1987,Rice,77544,358510,4.623310637,28.455,25.77,29.36,29.39,27.52,march ,three
+Maharashtra,Ratnagiri,1987,Rice,98356,960516,9.765708244,26.945,25.72,28.56,24.69,29.2,march ,four
+Maharashtra,Ratnagiri,1987,Rice,66008,705323,10.68541692,20.31,18.16,27.09,16.54,24.08,april,one 
+Maharashtra,Ratnagiri,1987,Rice,70526,915175,12.97642004,23.69,21.82,21.53,20.77,26.61,april,two 
+Maharashtra,Ratnagiri,1987,Rice,91693,393288,4.28918238,23.19,15.79,15.01,25.62,20.76,april,three
+Maharashtra,Ratnagiri,1987,Rice,86851,608533,7.006632048,17.35,16.89,26.92,17.69,17.01,april,four
+Maharashtra,Ratnagiri,1987,Rice,69525,929999,13.3764689,24.275,22.75,28.4,29.89,18.66,may,one 
+Maharashtra,Ratnagiri,1987,Rice,58058,980852,16.89434703,20.865,25.79,28.35,19.74,21.99,may,two 
+Maharashtra,Ratnagiri,1987,Rice,96253,856679,8.900283628,24.15,25.12,24.6,21.91,26.39,may,three
+Maharashtra,Ratnagiri,1987,Rice,57895,973153,16.80892996,20.84,28.38,24.7,18.68,23,may,four
+Maharashtra,Ratnagiri,1987,Rice,52322,906922,17.33347349,25.58,18.38,28.79,24.04,27.12,june,one 
+Maharashtra,Ratnagiri,1987,Rice,61376,571922,9.318332899,25.785,27.84,27.39,26.58,24.99,june,two 
+Maharashtra,Ratnagiri,1987,Rice,63197,473264,7.488709907,28.08,21.02,24.18,27.76,28.4,june,three
+Maharashtra,Ratnagiri,1987,Rice,84587,678361,8.019683876,18.675,22.78,29.52,21.46,15.89,june,four
+Maharashtra,Ratnagiri,1987,Rice,71301,648833,9.099914447,22.48,28.04,16.04,22.55,22.41,july,one 
+Maharashtra,Ratnagiri,1987,Rice,60198,941544,15.64078541,23.5,24.74,20.47,28.01,18.99,july,two 
+Maharashtra,Ratnagiri,1987,Rice,62989,933023,14.81247519,22.175,17.61,22.77,26.85,17.5,july,three
+Maharashtra,Ratnagiri,1987,Rice,64421,950989,14.76209621,21.665,27.89,28.21,17.5,25.83,july,four
+Maharashtra,Ratnagiri,1987,Rice,58846,872751,14.83110152,25.72,29,15.44,27.21,24.23,august,one 
+Maharashtra,Ratnagiri,1987,Rice,74557,519525,6.96815859,21.375,17.63,18.19,21.88,20.87,august,two 
+Maharashtra,Ratnagiri,1987,Rice,97651,371825,3.807692702,25.73,18.46,27.11,27.55,23.91,august,three
+Maharashtra,Ratnagiri,1987,Rice,78076,218795,2.802333624,27.23,26.59,18,28.34,26.12,august,four
+Maharashtra,Ratnagiri,1987,Rice,54042,251376,4.651493283,23.525,25.16,17.46,27.08,19.97,september,one 
+Maharashtra,Ratnagiri,1987,Rice,83493,885754,10.60872169,22.2,27.12,18.71,23.74,20.66,september,two 
+Maharashtra,Ratnagiri,1987,Rice,67309,356716,5.299677606,23.295,24.62,24.31,27.26,19.33,september,three
+Maharashtra,Ratnagiri,1987,Rice,51732,238351,4.607419006,28.18,24.06,22.29,28.75,27.61,september,four
+Maharashtra,Ratnagiri,1987,Rice,78549,970440,12.35458122,22.225,29.56,24.25,27.94,16.51,october,one 
+Maharashtra,Ratnagiri,1987,Rice,97893,682489,6.971785521,17.145,28.17,29.46,17.32,16.97,october,two 
+Maharashtra,Ratnagiri,1987,Rice,83757,451601,5.391800088,20.715,19.63,25.02,25.05,16.38,october,three
+Maharashtra,Ratnagiri,1987,Rice,93362,447987,4.798386924,23.04,24.18,23.21,28.09,17.99,october,four
+Maharashtra,Ratnagiri,1987,Rice,73789,428732,5.810242719,25.56,25.81,27.52,25.99,25.13,november,one 
+Maharashtra,Ratnagiri,1987,Rice,90765,671763,7.401123781,24.15,26.53,17.23,23.73,24.57,november,two 
+Maharashtra,Ratnagiri,1987,Rice,69453,455788,6.562538695,17.005,23.54,25.83,18.05,15.96,november,three
+Maharashtra,Ratnagiri,1987,Rice,60636,776152,12.80018471,21.4,28.04,29.67,16.21,26.59,november,four
+Maharashtra,Ratnagiri,1987,Rice,81887,564746,6.896650262,23.975,19.89,24.69,21.93,26.02,december,one 
+Maharashtra,Ratnagiri,1987,Rice,89409,351622,3.932736078,24.925,22.81,18.2,26.46,23.39,december,two 
+Maharashtra,Ratnagiri,1987,Rice,95477,366982,3.843669156,27.475,18.59,19.2,26.73,28.22,december,three
+Maharashtra,Ratnagiri,1987,Rice,77742,673822,8.667412724,23.025,20.82,28.35,16.64,29.41,december,four
+Maharashtra,Ratnagiri,1988,Rice,94294,638017,6.76625236,27.295,24.84,19.04,28.24,26.35,january ,one 
+Maharashtra,Ratnagiri,1988,Rice,88640,448027,5.054456227,19.46,17.74,22.13,16.03,22.89,january ,two 
+Maharashtra,Ratnagiri,1988,Rice,89955,838268,9.318748263,21.85,16.52,22.71,27.9,15.8,january ,three
+Maharashtra,Ratnagiri,1988,Rice,80314,211359,2.631658241,23.16,16.35,17.41,18.61,27.71,january ,four
+Maharashtra,Ratnagiri,1988,Rice,62348,224525,3.601158016,26.66,24.02,15.64,23.78,29.54,february ,one 
+Maharashtra,Ratnagiri,1988,Rice,93760,388488,4.143430034,26.92,20.15,24.24,28.74,25.1,february ,two 
+Maharashtra,Ratnagiri,1988,Rice,66839,204937,3.066129056,18.78,20.07,22.08,16.2,21.36,february ,three
+Maharashtra,Ratnagiri,1988,Rice,65220,654166,10.03014413,26.9,23.97,27.59,29.01,24.79,february ,four
+Maharashtra,Ratnagiri,1988,Rice,93777,234368,2.499205562,23.57,26.83,16.24,17.35,29.79,march ,one 
+Maharashtra,Ratnagiri,1988,Rice,86868,922395,10.61835198,20.84,17.94,17.23,26.44,15.24,march ,two 
+Maharashtra,Ratnagiri,1988,Rice,82251,459692,5.588892536,22.615,16.06,25.31,17.95,27.28,march ,three
+Maharashtra,Ratnagiri,1988,Rice,73387,240182,3.272813986,25.155,29.91,25.3,23.27,27.04,march ,four
+Maharashtra,Ratnagiri,1988,Rice,66999,621352,9.274048866,23.61,24.94,24.66,19.6,27.62,april,one 
+Maharashtra,Ratnagiri,1988,Rice,53931,687402,12.74595316,23.535,17.21,28.55,28.76,18.31,april,two 
+Maharashtra,Ratnagiri,1988,Rice,99315,978749,9.854996728,22.065,15.85,16.69,24.19,19.94,april,three
+Maharashtra,Ratnagiri,1988,Rice,74825,622172,8.3150284,24.505,25.04,18.7,24.14,24.87,april,four
+Maharashtra,Ratnagiri,1988,Rice,72604,999337,13.76421409,26.71,20.69,22.63,27.59,25.83,may,one 
+Maharashtra,Ratnagiri,1988,Rice,85407,832063,9.742327912,22.255,28.45,25.91,20.9,23.61,may,two 
+Maharashtra,Ratnagiri,1988,Rice,98938,714779,7.224514342,22.48,21.59,15.66,15.49,29.47,may,three
+Maharashtra,Ratnagiri,1988,Rice,71741,220814,3.077933121,28.395,23.63,22.26,29.39,27.4,may,four
+Maharashtra,Ratnagiri,1988,Rice,58971,827719,14.03603466,28.07,26.02,16.02,27.82,28.32,june,one 
+Maharashtra,Ratnagiri,1988,Rice,78160,876203,11.21037615,18.195,24.3,26.35,17.38,19.01,june,two 
+Maharashtra,Ratnagiri,1988,Rice,60161,447931,7.445537807,24.715,20.71,20.81,22.98,26.45,june,three
+Maharashtra,Ratnagiri,1988,Rice,60722,633443,10.43185336,23.01,27.85,28.38,21.57,24.45,june,four
+Maharashtra,Ratnagiri,1988,Rice,89781,949986,10.58114746,23.05,15.87,17.56,17.17,28.93,july,one 
+Maharashtra,Ratnagiri,1988,Rice,90313,868453,9.616035344,26.95,16.12,20.13,27.27,26.63,july,two 
+Maharashtra,Ratnagiri,1988,Rice,59456,298555,5.021444429,21.86,19.15,24.8,27.19,16.53,july,three
+Maharashtra,Ratnagiri,1988,Rice,98081,309703,3.15762482,23.9,21.85,26.39,28.87,18.93,july,four
+Maharashtra,Ratnagiri,1988,Rice,56892,858401,15.08825494,21.835,24.65,24.55,16.52,27.15,august,one 
+Maharashtra,Ratnagiri,1988,Rice,50767,507837,10.00328954,24.61,19.6,29.5,29.3,19.92,august,two 
+Maharashtra,Ratnagiri,1988,Rice,59744,470885,7.881711971,17.675,25.16,16.72,16.9,18.45,august,three
+Maharashtra,Ratnagiri,1988,Rice,95201,407492,4.28033319,18.175,28.76,24.78,19.79,16.56,august,four
+Maharashtra,Ratnagiri,1988,Rice,58632,660727,11.26905103,22.905,22.92,15.32,27.42,18.39,september,one 
+Maharashtra,Ratnagiri,1988,Rice,87748,434144,4.947622738,28.945,28.04,26.94,28.94,28.95,september,two 
+Maharashtra,Ratnagiri,1988,Rice,53854,531671,9.872451443,26.41,19.36,24.42,23.08,29.74,september,three
+Maharashtra,Ratnagiri,1988,Rice,57934,520205,8.979269514,22.99,25.35,16.32,22.99,22.99,september,four
+Maharashtra,Ratnagiri,1988,Rice,88947,298496,3.355886089,25.8,29.35,28.06,28.43,23.17,october,one 
+Maharashtra,Ratnagiri,1988,Rice,63106,527271,8.35532279,16.4,25.85,15.98,15.44,17.36,october,two 
+Maharashtra,Ratnagiri,1988,Rice,94611,228056,2.410459672,23.1,17.4,19.75,22.71,23.49,october,three
+Maharashtra,Ratnagiri,1988,Rice,79607,629250,7.904455638,22.625,18.53,16.87,19.37,25.88,october,four
+Maharashtra,Ratnagiri,1988,Rice,98170,316811,3.227167159,28.555,18.73,27.97,27.41,29.7,november,one 
+Maharashtra,Ratnagiri,1988,Rice,75878,893780,11.77917183,22.635,26.42,15.47,23.61,21.66,november,two 
+Maharashtra,Ratnagiri,1988,Rice,92825,795170,8.5663345,25.065,25.1,17.82,20.37,29.76,november,three
+Maharashtra,Ratnagiri,1988,Rice,94666,878534,9.280354087,19.88,20.76,18.64,19.12,20.64,november,four
+Maharashtra,Ratnagiri,1988,Rice,60393,454260,7.521732651,22.47,26.13,17.17,21.88,23.06,december,one 
+Maharashtra,Ratnagiri,1988,Rice,70251,326946,4.653969339,24.79,27.76,25.54,26.35,23.23,december,two 
+Maharashtra,Ratnagiri,1988,Rice,63344,346639,5.472325714,24.42,24.11,26.08,26.64,22.2,december,three
+Maharashtra,Ratnagiri,1988,Rice,62470,273210,4.37345926,18.75,22.33,17.11,17.54,19.96,december,four
+Maharashtra,Ratnagiri,1989,Rice,51406,792096,15.40862934,22.15,29.77,20.63,18.85,25.45,january ,one 
+Maharashtra,Ratnagiri,1989,Rice,92824,800883,8.627973369,18.92,21.65,22.26,16.54,21.3,january ,two 
+Maharashtra,Ratnagiri,1989,Rice,61465,497788,8.09872285,20.415,26.58,24.08,19.02,21.81,january ,three
+Maharashtra,Ratnagiri,1989,Rice,70993,272373,3.836617695,26.905,27.57,16.08,27.69,26.12,january ,four
+Maharashtra,Ratnagiri,1989,Rice,51036,534795,10.47877968,20.17,29.97,19.22,22.35,17.99,february ,one 
+Maharashtra,Ratnagiri,1989,Rice,88815,501580,5.647469459,22.055,16.96,15.3,26.04,18.07,february ,two 
+Maharashtra,Ratnagiri,1989,Rice,55394,214629,3.874589306,23.955,25.93,17.13,21.74,26.17,february ,three
+Maharashtra,Ratnagiri,1989,Rice,89977,856189,9.515642887,24.09,17.63,21.15,21.56,26.62,february ,four
+Maharashtra,Ratnagiri,1989,Rice,93970,409734,4.360263914,22.38,26.18,17.6,21.72,23.04,march ,one 
+Maharashtra,Ratnagiri,1989,Rice,55017,289877,5.268862352,20.66,15.43,22.23,16.74,24.58,march ,two 
+Maharashtra,Ratnagiri,1989,Rice,66634,841730,12.63213975,26.525,20.15,22.02,24.61,28.44,march ,three
+Maharashtra,Ratnagiri,1989,Rice,53654,915987,17.07211019,26.025,21,26.94,22.53,29.52,march ,four
+Maharashtra,Ratnagiri,1989,Rice,80042,602055,7.521738587,26.91,24.7,20.05,23.87,29.95,april,one 
+Maharashtra,Ratnagiri,1989,Rice,73322,920770,12.55789531,26.075,18.76,21.8,27.48,24.67,april,two 
+Maharashtra,Ratnagiri,1989,Rice,91452,773004,8.45256528,22.595,27.57,20.42,23.6,21.59,april,three
+Maharashtra,Ratnagiri,1989,Rice,88663,363965,4.105038178,23.645,16.36,28.49,22.67,24.62,april,four
+Maharashtra,Ratnagiri,1989,Rice,86171,347265,4.029952072,26.465,17.25,19.38,28.8,24.13,may,one 
+Maharashtra,Ratnagiri,1989,Rice,80825,315877,3.908159604,19.475,21.87,26.94,23.92,15.03,may,two 
+Maharashtra,Ratnagiri,1989,Rice,52443,786577,14.99870335,17.865,19.67,27.41,17.42,18.31,may,three
+Maharashtra,Ratnagiri,1989,Rice,59214,289399,4.887340832,24.45,25.38,16.69,25.27,23.63,may,four
+Maharashtra,Ratnagiri,1989,Rice,96354,488032,5.064989518,23.95,15.55,15.46,19.73,28.17,june,one 
+Maharashtra,Ratnagiri,1989,Rice,59558,638271,10.71679707,23.905,24.37,15.06,24.23,23.58,june,two 
+Maharashtra,Ratnagiri,1989,Rice,86770,580300,6.687795321,19.455,25.48,20.5,21.4,17.51,june,three
+Maharashtra,Ratnagiri,1989,Rice,58767,824192,14.02474178,19.61,23.47,20.45,21.25,17.97,june,four
+Maharashtra,Ratnagiri,1989,Rice,72643,951066,13.09232824,22.635,19.02,19.21,27.97,17.3,july,one 
+Maharashtra,Ratnagiri,1989,Rice,78388,267085,3.407217942,25.755,16.77,16.71,22.93,28.58,july,two 
+Maharashtra,Ratnagiri,1989,Rice,62504,371946,5.950755152,27.505,22.52,21.94,25.81,29.2,july,three
+Maharashtra,Ratnagiri,1989,Rice,70814,722230,10.19897195,18.455,29.4,21.75,20.58,16.33,july,four
+Maharashtra,Ratnagiri,1989,Rice,89123,571859,6.416514256,23.065,18.39,22.63,25.47,20.66,august,one 
+Maharashtra,Ratnagiri,1989,Rice,78040,224324,2.874474628,21.145,19.48,28.48,24.64,17.65,august,two 
+Maharashtra,Ratnagiri,1989,Rice,91816,472285,5.143820249,25.155,21.2,16.91,28.48,21.83,august,three
+Maharashtra,Ratnagiri,1989,Rice,61981,287648,4.640906084,22.885,15.26,20.58,22.66,23.11,august,four
+Maharashtra,Ratnagiri,1989,Rice,58206,398572,6.847610212,23.735,29.42,15.41,25.14,22.33,september,one 
+Maharashtra,Ratnagiri,1989,Rice,97540,717756,7.358581095,23.775,16.13,26.28,20.68,26.87,september,two 
+Maharashtra,Ratnagiri,1989,Rice,86932,651690,7.496549027,17.175,28.91,17.21,18.05,16.3,september,three
+Maharashtra,Ratnagiri,1989,Rice,91706,900194,9.816086188,22.6,24.98,24.53,29.41,15.79,september,four
+Maharashtra,Ratnagiri,1989,Rice,71547,941863,13.16425566,23.415,17.6,15.55,26.91,19.92,october,one 
+Maharashtra,Ratnagiri,1989,Rice,73602,744277,10.11218445,20.47,21.04,25.47,22.52,18.42,october,two 
+Maharashtra,Ratnagiri,1989,Rice,97501,435952,4.471256705,23.135,28.5,29.64,16.94,29.33,october,three
+Maharashtra,Ratnagiri,1989,Rice,62664,759744,12.12409039,24.71,18.75,19.14,22.46,26.96,october,four
+Maharashtra,Ratnagiri,1989,Rice,79085,641776,8.11501549,17.465,27.56,18.66,15.87,19.06,november,one 
+Maharashtra,Ratnagiri,1989,Rice,84641,683617,8.076664973,22.17,26.89,22.92,28.1,16.24,november,two 
+Maharashtra,Ratnagiri,1989,Rice,73087,403086,5.515153174,20.7,28.47,19.17,23.59,17.81,november,three
+Maharashtra,Ratnagiri,1989,Rice,73686,795881,10.80097983,25.47,27.06,19.58,21.21,29.73,november,four
+Maharashtra,Ratnagiri,1989,Rice,75041,279041,3.718513879,18.79,21.84,28.1,22.33,15.25,december,one 
+Maharashtra,Ratnagiri,1989,Rice,65375,816170,12.48443595,17.9,23.92,23.97,17.35,18.45,december,two 
+Maharashtra,Ratnagiri,1989,Rice,92804,576877,6.216079048,21.3,24.39,18.56,20.59,22.01,december,three
+Maharashtra,Ratnagiri,1989,Rice,90871,704055,7.74785135,20.08,20.2,21.12,18.38,21.78,december,four
+Maharashtra,Ratnagiri,1990,Rice,86550,493944,5.707036395,20.785,26.93,16.84,20.25,21.32,january ,one 
+Maharashtra,Ratnagiri,1990,Rice,73101,510602,6.984883928,19.82,22.09,20.06,19.82,19.82,january ,two 
+Maharashtra,Ratnagiri,1990,Rice,68784,379303,5.51440742,26.825,22.52,19.16,25.19,28.46,january ,three
+Maharashtra,Ratnagiri,1990,Rice,95995,460751,4.79973957,23.235,21.44,18.24,23.51,22.96,january ,four
+Maharashtra,Ratnagiri,1990,Rice,96926,326190,3.365350886,20.835,29.48,20.83,15.25,26.42,february ,one 
+Maharashtra,Ratnagiri,1990,Rice,87063,697395,8.010233969,25.965,22.87,29.42,25.99,25.94,february ,two 
+Maharashtra,Ratnagiri,1990,Rice,82658,846411,10.23991628,22.54,20.41,15.27,15.4,29.68,february ,three
+Maharashtra,Ratnagiri,1990,Rice,92966,617650,6.643826775,19.035,19.34,28.63,22.39,15.68,february ,four
+Maharashtra,Ratnagiri,1990,Rice,62105,800291,12.88609613,17.06,21.8,24.62,17.79,16.33,march ,one 
+Maharashtra,Ratnagiri,1990,Rice,70071,298996,4.267043427,19.13,19.05,19.7,17.29,20.97,march ,two 
+Maharashtra,Ratnagiri,1990,Rice,50888,403561,7.930376513,25.84,27.62,24.64,27.45,24.23,march ,three
+Maharashtra,Ratnagiri,1990,Rice,71485,474004,6.630817654,28.535,27.89,26.42,29.53,27.54,march ,four
+Maharashtra,Ratnagiri,1990,Rice,75987,951438,12.52106281,18.62,16.74,25.74,15.25,21.99,april,one 
+Maharashtra,Ratnagiri,1990,Rice,91697,594677,6.48523943,21.115,18.81,26.84,17.23,25,april,two 
+Maharashtra,Ratnagiri,1990,Rice,96551,998061,10.33713789,25.055,22.13,16.83,25.6,24.51,april,three
+Maharashtra,Ratnagiri,1990,Rice,96079,282966,2.945138896,24.09,22.63,25.25,19.17,29.01,april,four
+Maharashtra,Ratnagiri,1990,Rice,93894,358826,3.821607344,23.96,26.52,20.8,25.85,22.07,may,one 
+Maharashtra,Ratnagiri,1990,Rice,92321,581988,6.303961179,22.46,15.08,25.8,28.93,15.99,may,two 
+Maharashtra,Ratnagiri,1990,Rice,73247,337267,4.604516226,26.555,18.53,22.68,28.44,24.67,may,three
+Maharashtra,Ratnagiri,1990,Rice,78168,845047,10.81065142,24.795,21.25,22.03,29.04,20.55,may,four
+Maharashtra,Ratnagiri,1990,Rice,91688,821714,8.96206701,23.35,20.12,20.42,29.1,17.6,june,one 
+Maharashtra,Ratnagiri,1990,Rice,80390,548841,6.827229755,21.14,19.86,18.98,22.01,20.27,june,two 
+Maharashtra,Ratnagiri,1990,Rice,80519,428194,5.317924962,25.07,26.12,27.76,23.19,26.95,june,three
+Maharashtra,Ratnagiri,1990,Rice,74416,206604,2.776338422,18.505,26.5,18.55,17.42,19.59,june,four
+Maharashtra,Ratnagiri,1990,Rice,61787,693373,11.22198844,23.095,17.76,24.39,17.43,28.76,july,one 
+Maharashtra,Ratnagiri,1990,Rice,83835,921533,10.99222282,21.53,18.91,23.21,25.33,17.73,july,two 
+Maharashtra,Ratnagiri,1990,Rice,88929,736630,8.283349638,18.495,23.94,16.17,16.78,20.21,july,three
+Maharashtra,Ratnagiri,1990,Rice,86875,212630,2.447539568,27.67,16.77,16.79,29.28,26.06,july,four
+Maharashtra,Ratnagiri,1990,Rice,61017,837655,13.72822328,23.99,27.87,18.96,27.92,20.06,august,one 
+Maharashtra,Ratnagiri,1990,Rice,89878,699070,7.777987939,21.355,29.34,23.03,26.54,16.17,august,two 
+Maharashtra,Ratnagiri,1990,Rice,96923,845030,8.718570412,26.825,22.96,19.32,28.58,25.07,august,three
+Maharashtra,Ratnagiri,1990,Rice,65476,308467,4.711146069,20.155,26.09,23.34,15.87,24.44,august,four
+Maharashtra,Ratnagiri,1990,Rice,92189,836144,9.069889032,26.945,26.41,23,29.84,24.05,september,one 
+Maharashtra,Ratnagiri,1990,Rice,76537,900243,11.76219345,24.68,20.91,29.32,20.88,28.48,september,two 
+Maharashtra,Ratnagiri,1990,Rice,80085,446180,5.571330461,24.07,29.02,21.14,24.97,23.17,september,three
+Maharashtra,Ratnagiri,1990,Rice,76040,857016,11.27059442,18.25,21.52,17.4,15.91,20.59,september,four
+Maharashtra,Ratnagiri,1990,Rice,75044,465538,6.203533927,21.98,15.41,18.26,16.7,27.26,october,one 
+Maharashtra,Ratnagiri,1990,Rice,60440,925839,15.31831568,25.25,19.09,20.66,25.48,25.02,october,two 
+Maharashtra,Ratnagiri,1990,Rice,59119,567109,9.592669023,25.8,29.22,15.7,22.7,28.9,october,three
+Maharashtra,Ratnagiri,1990,Rice,51790,905709,17.48810581,22.325,20.13,15.84,20.65,24,october,four
+Maharashtra,Ratnagiri,1990,Rice,55338,637096,11.51281217,19.905,20.14,26.56,20.1,19.71,november,one 
+Maharashtra,Ratnagiri,1990,Rice,75452,267323,3.542954461,23.99,19.07,23.71,25.88,22.1,november,two 
+Maharashtra,Ratnagiri,1990,Rice,77722,903951,11.63056792,23.18,23.72,23.96,18.12,28.24,november,three
+Maharashtra,Ratnagiri,1990,Rice,56243,254653,4.527727895,20.485,18.22,23.04,19.41,21.56,november,four
+Maharashtra,Ratnagiri,1990,Rice,75878,374624,4.937188645,27.4,15.89,17.91,25.37,29.43,december,one 
+Maharashtra,Ratnagiri,1990,Rice,99021,545845,5.512416558,18.91,21.7,24.05,19.45,18.37,december,two 
+Maharashtra,Ratnagiri,1990,Rice,74630,660092,8.844861316,22.72,15.57,24.84,26.15,19.29,december,three
+Maharashtra,Ratnagiri,1990,Rice,67628,694416,10.26817295,25.715,17.78,26.81,23.23,28.2,december,four
+Maharashtra,Ratnagiri,1991,Rice,76301,808811,10.60026736,23.81,26.21,28.5,24.79,22.83,january ,one 
+Maharashtra,Ratnagiri,1991,Rice,96033,464267,4.83445274,20.725,15.09,27.95,22.71,18.74,january ,two 
+Maharashtra,Ratnagiri,1991,Rice,85957,431197,5.016426818,25.88,21.98,27.01,22.7,29.06,january ,three
+Maharashtra,Ratnagiri,1991,Rice,52140,723017,13.86683928,19.83,15.68,26.3,16.46,23.2,january ,four
+Maharashtra,Ratnagiri,1991,Rice,96267,832616,8.649028224,21.69,18.59,20.15,27.19,16.19,february ,one 
+Maharashtra,Ratnagiri,1991,Rice,59676,778559,13.04643408,17.54,29.1,16.4,18.19,16.89,february ,two 
+Maharashtra,Ratnagiri,1991,Rice,58115,855634,14.72311796,27.36,28.2,15.34,25.38,29.34,february ,three
+Maharashtra,Ratnagiri,1991,Rice,93477,929630,9.945013212,23.1,20.89,17.55,20.22,25.98,february ,four
+Maharashtra,Ratnagiri,1991,Rice,96546,564373,5.845638349,24.555,29.58,22.67,24.3,24.81,march ,one 
+Maharashtra,Ratnagiri,1991,Rice,76705,969941,12.64508181,23.89,27.04,25.04,22.77,25.01,march ,two 
+Maharashtra,Ratnagiri,1991,Rice,52381,581929,11.10954354,23.48,23.18,28.28,20.01,26.95,march ,three
+Maharashtra,Ratnagiri,1991,Rice,73345,488047,6.654127752,27.905,24.11,20.07,27.89,27.92,march ,four
+Maharashtra,Ratnagiri,1991,Rice,53797,928283,17.25529305,22.095,17.79,17.45,22.82,21.37,april,one 
+Maharashtra,Ratnagiri,1991,Rice,85611,607625,7.097510834,20.87,16.4,17.69,26.48,15.26,april,two 
+Maharashtra,Ratnagiri,1991,Rice,80143,318264,3.971201477,15.655,25.95,16.54,15.36,15.95,april,three
+Maharashtra,Ratnagiri,1991,Rice,56220,325927,5.797349698,22.41,26.64,15.91,15.36,29.46,april,four
+Maharashtra,Ratnagiri,1991,Rice,52505,384475,7.322635939,24.035,20.71,27.16,27.77,20.3,may,one 
+Maharashtra,Ratnagiri,1991,Rice,90912,288882,3.177600317,19.445,20.92,24.21,22.04,16.85,may,two 
+Maharashtra,Ratnagiri,1991,Rice,87415,669260,7.656123091,25.995,24.8,29.56,27.56,24.43,may,three
+Maharashtra,Ratnagiri,1991,Rice,69806,346450,4.963040426,23.675,29.52,23.63,29.07,18.28,may,four
+Maharashtra,Ratnagiri,1991,Rice,97516,525639,5.390284671,23.02,26.98,28.53,29.27,16.77,june,one 
+Maharashtra,Ratnagiri,1991,Rice,71328,549033,7.697299798,20.02,24.48,22.31,17.23,22.81,june,two 
+Maharashtra,Ratnagiri,1991,Rice,72949,563638,7.726466435,25.935,27.17,20.76,28.62,23.25,june,three
+Maharashtra,Ratnagiri,1991,Rice,90486,897081,9.9140309,24.72,28.03,16.71,25.36,24.08,june,four
+Maharashtra,Ratnagiri,1991,Rice,94116,993385,10.55490034,18.225,26.05,21.14,19.89,16.56,july,one 
+Maharashtra,Ratnagiri,1991,Rice,70075,621998,8.876175526,20.14,28.69,29.41,20.46,19.82,july,two 
+Maharashtra,Ratnagiri,1991,Rice,78049,969116,12.41676383,24.005,19.12,19.09,24.8,23.21,july,three
+Maharashtra,Ratnagiri,1991,Rice,54120,841298,15.54504804,22.665,18.25,20.34,29.51,15.82,july,four
+Maharashtra,Ratnagiri,1991,Rice,51942,805560,15.50883678,19.895,28.83,19.98,17.56,22.23,august,one 
+Maharashtra,Ratnagiri,1991,Rice,70860,677381,9.559427039,19.21,15.98,28.21,23.06,15.36,august,two 
+Maharashtra,Ratnagiri,1991,Rice,55756,989299,17.74336394,22.125,17.36,27.6,27.49,16.76,august,three
+Maharashtra,Ratnagiri,1991,Rice,83131,432283,5.200021653,26.38,28.18,22.67,26.67,26.09,august,four
+Maharashtra,Ratnagiri,1991,Rice,65563,710219,10.83261901,21.98,29.1,15.3,16.68,27.28,september,one 
+Maharashtra,Ratnagiri,1991,Rice,58373,609265,10.43744539,21.575,15.15,24.8,24.49,18.66,september,two 
+Maharashtra,Ratnagiri,1991,Rice,95774,999333,10.43428279,27.395,21.88,17.33,27.48,27.31,september,three
+Maharashtra,Ratnagiri,1991,Rice,97219,493456,5.075715652,20.895,28.66,16.18,15.59,26.2,september,four
+Maharashtra,Ratnagiri,1991,Rice,57329,456620,7.964904324,19.085,29.59,24.31,15.28,22.89,october,one 
+Maharashtra,Ratnagiri,1991,Rice,59860,826317,13.80415971,18.61,26.22,25.24,15.49,21.73,october,two 
+Maharashtra,Ratnagiri,1991,Rice,77164,368580,4.776579752,22.67,26.04,26.68,25.56,19.78,october,three
+Maharashtra,Ratnagiri,1991,Rice,68747,601065,8.743145155,23.01,18.89,18.35,17.26,28.76,october,four
+Maharashtra,Ratnagiri,1991,Rice,83190,648589,7.796477942,22.01,17.89,23.46,24.5,19.52,november,one 
+Maharashtra,Ratnagiri,1991,Rice,76678,871484,11.36550249,18.07,23.13,22.65,19.88,16.26,november,two 
+Maharashtra,Ratnagiri,1991,Rice,57155,763253,13.35408976,20.715,16.2,28.92,16.36,25.07,november,three
+Maharashtra,Ratnagiri,1991,Rice,99126,544411,5.492111051,22.755,25.97,24.37,19.09,26.42,november,four
+Maharashtra,Ratnagiri,1991,Rice,51812,813527,15.70151702,20.11,15.56,22.44,17.06,23.16,december,one 
+Maharashtra,Ratnagiri,1991,Rice,82743,287497,3.47457791,24.66,27.36,26.74,23.22,26.1,december,two 
+Maharashtra,Ratnagiri,1991,Rice,56775,738942,13.01527081,18.54,29.91,22.34,19.35,17.73,december,three
+Maharashtra,Ratnagiri,1991,Rice,89693,591067,6.589889958,23.135,27.13,20.37,19.98,26.29,december,four
+Maharashtra,Ratnagiri,1992,Rice,55913,920791,16.46828108,21.395,28.85,19.52,23.49,19.3,january ,one 
+Maharashtra,Ratnagiri,1992,Rice,77718,906895,11.66904707,24.615,28.81,21.81,29.72,19.51,january ,two 
+Maharashtra,Ratnagiri,1992,Rice,68120,243985,3.581694069,27.91,28.88,23.58,25.89,29.93,january ,three
+Maharashtra,Ratnagiri,1992,Rice,86820,323498,3.726076941,23.81,19.34,17.72,21.44,26.18,january ,four
+Maharashtra,Ratnagiri,1992,Rice,63686,619852,9.732939736,22.26,17.48,27.7,19.27,25.25,february ,one 
+Maharashtra,Ratnagiri,1992,Rice,73562,573478,7.795845681,20.415,23.26,27.38,18.73,22.1,february ,two 
+Maharashtra,Ratnagiri,1992,Rice,74764,502187,6.716962709,21.795,24.78,28.43,19.42,24.17,february ,three
+Maharashtra,Ratnagiri,1992,Rice,84913,251288,2.959358402,21.87,20.13,21.77,22.48,21.26,february ,four
+Maharashtra,Ratnagiri,1992,Rice,87372,445246,5.095980406,23.04,19.98,17.66,21.04,25.04,march ,one 
+Maharashtra,Ratnagiri,1992,Rice,72322,808649,11.18123116,26.565,22.69,22.53,25.91,27.22,march ,two 
+Maharashtra,Ratnagiri,1992,Rice,80518,465330,5.77920465,20.085,15.98,20.6,23.48,16.69,march ,three
+Maharashtra,Ratnagiri,1992,Rice,50080,833915,16.65165735,24.075,23.76,19.76,22.35,25.8,march ,four
+Maharashtra,Ratnagiri,1992,Rice,87677,646260,7.370918257,15.935,22.21,15.04,15.84,16.03,april,one 
+Maharashtra,Ratnagiri,1992,Rice,81469,321778,3.949698658,22.945,18.83,28.74,16.59,29.3,april,two 
+Maharashtra,Ratnagiri,1992,Rice,91486,932161,10.1891109,20.38,25,22.41,25.43,15.33,april,three
+Maharashtra,Ratnagiri,1992,Rice,83506,567570,6.796757119,21.605,16.93,21.98,18.45,24.76,april,four
+Maharashtra,Ratnagiri,1992,Rice,95799,817698,8.535558826,27.86,26.58,28.06,29.51,26.21,may,one 
+Maharashtra,Ratnagiri,1992,Rice,77993,947523,12.14882105,20.105,24.41,18.77,24.08,16.13,may,two 
+Maharashtra,Ratnagiri,1992,Rice,76116,932233,12.24753009,23.31,17.92,19.74,21.44,25.18,may,three
+Maharashtra,Ratnagiri,1992,Rice,92124,653710,7.095979332,21.13,26.3,23.78,26.99,15.27,may,four
+Maharashtra,Ratnagiri,1992,Rice,76388,546933,7.159933497,18.05,16.3,18.95,19.2,16.9,june,one 
+Maharashtra,Ratnagiri,1992,Rice,91497,697854,7.62706974,20.36,20.9,16.34,25.26,15.46,june,two 
+Maharashtra,Ratnagiri,1992,Rice,71560,426698,5.962800447,28.425,22.94,16.73,28.4,28.45,june,three
+Maharashtra,Ratnagiri,1992,Rice,95506,728846,7.631415827,28.085,20.81,24.53,29.76,26.41,june,four
+Maharashtra,Ratnagiri,1992,Rice,52268,422429,8.081981327,23.485,25.45,19.25,23.12,23.85,july,one 
+Maharashtra,Ratnagiri,1992,Rice,77761,927416,11.92649271,19.115,17.82,19.02,15.38,22.85,july,two 
+Maharashtra,Ratnagiri,1992,Rice,92853,265876,2.863407752,22.095,15.6,26.85,16.59,27.6,july,three
+Maharashtra,Ratnagiri,1992,Rice,91171,377073,4.135887508,20.96,25.55,20.67,26.75,15.17,july,four
+Maharashtra,Ratnagiri,1992,Rice,80620,372685,4.622736294,22.165,20.96,21.57,19,25.33,august,one 
+Maharashtra,Ratnagiri,1992,Rice,99168,842661,8.497307599,28.93,21.31,23.45,29.1,28.76,august,two 
+Maharashtra,Ratnagiri,1992,Rice,89724,602600,6.716151754,22.74,19.81,27.77,22.62,22.86,august,three
+Maharashtra,Ratnagiri,1992,Rice,72994,559875,7.670150971,23.765,26.02,23.59,17.57,29.96,august,four
+Maharashtra,Ratnagiri,1992,Rice,71073,713040,10.03250179,22.69,16.56,26.74,24.21,21.17,september,one 
+Maharashtra,Ratnagiri,1992,Rice,72894,318366,4.36751996,19.705,23.56,17.79,21.2,18.21,september,two 
+Maharashtra,Ratnagiri,1992,Rice,50806,936922,18.44116837,28.65,23.57,23.7,28.18,29.12,september,three
+Maharashtra,Ratnagiri,1992,Rice,71224,389750,5.472172301,24.925,26.47,23.09,29.69,20.16,september,four
+Maharashtra,Ratnagiri,1992,Rice,56186,363245,6.465044673,19.295,28.55,16.52,23.34,15.25,october,one 
+Maharashtra,Ratnagiri,1992,Rice,59932,932627,15.56141961,23.905,20.27,26.33,25.92,21.89,october,two 
+Maharashtra,Ratnagiri,1992,Rice,76561,732051,9.56166978,20.365,17.85,26.2,15.86,24.87,october,three
+Maharashtra,Ratnagiri,1992,Rice,62546,624223,9.980222556,16.025,19.94,26.24,16.52,15.53,october,four
+Maharashtra,Ratnagiri,1992,Rice,62059,210283,3.38843681,20.47,28.76,28.27,22.98,17.96,november,one 
+Maharashtra,Ratnagiri,1992,Rice,59206,476576,8.049454447,20.105,15.52,22.83,19.6,20.61,november,two 
+Maharashtra,Ratnagiri,1992,Rice,71119,908597,12.77572801,25.065,15.25,18.47,28.04,22.09,november,three
+Maharashtra,Ratnagiri,1992,Rice,51075,331969,6.499637788,21.665,26.26,24.19,21.62,21.71,november,four
+Maharashtra,Ratnagiri,1992,Rice,83271,603920,7.252464844,27.5,26.69,17.74,27.18,27.82,december,one 
+Maharashtra,Ratnagiri,1992,Rice,53848,514478,9.554263854,23.28,15.79,28.9,25.96,20.6,december,two 
+Maharashtra,Ratnagiri,1992,Rice,94466,892011,9.442667203,25.105,26.62,28.98,29.95,20.26,december,three
+Maharashtra,Ratnagiri,1992,Rice,53534,920317,17.19126163,18.235,28.88,17.29,19.05,17.42,december,four
+Maharashtra,Ratnagiri,1993,Rice,56318,666293,11.83090664,16.655,16.26,17.11,17.33,15.98,january ,one 
+Maharashtra,Ratnagiri,1993,Rice,62467,761955,12.1977204,20.965,22.77,24.37,23.96,17.97,january ,two 
+Maharashtra,Ratnagiri,1993,Rice,75460,822090,10.89438113,19.78,27.37,19.36,22.15,17.41,january ,three
+Maharashtra,Ratnagiri,1993,Rice,92007,737434,8.014977121,20.125,18.87,20.22,22.95,17.3,january ,four
+Maharashtra,Ratnagiri,1993,Rice,77963,640336,8.213331965,22.91,29.93,15.01,27.28,18.54,february ,one 
+Maharashtra,Ratnagiri,1993,Rice,94907,750185,7.904422224,26.065,21.31,29.44,28.84,23.29,february ,two 
+Maharashtra,Ratnagiri,1993,Rice,62218,364372,5.856375968,16.905,21.66,23.76,18.59,15.22,february ,three
+Maharashtra,Ratnagiri,1993,Rice,67632,436044,6.447303052,20.35,18.09,17.19,16.91,23.79,february ,four
+Maharashtra,Ratnagiri,1993,Rice,57016,368942,6.470850288,24.08,20.07,22.73,24.29,23.87,march ,one 
+Maharashtra,Ratnagiri,1993,Rice,82246,929491,11.30135204,26.76,25.41,24.79,23.66,29.86,march ,two 
+Maharashtra,Ratnagiri,1993,Rice,70983,755292,10.64046321,21.145,15.75,23.52,23.35,18.94,march ,three
+Maharashtra,Ratnagiri,1993,Rice,55441,846362,15.26599448,19.76,26.24,29.42,17.1,22.42,march ,four
+Maharashtra,Ratnagiri,1993,Rice,56608,265654,4.692870266,26.21,16.51,24.73,24.15,28.27,april,one 
+Maharashtra,Ratnagiri,1993,Rice,82588,743394,9.001235046,21.145,21.26,24.35,17.86,24.43,april,two 
+Maharashtra,Ratnagiri,1993,Rice,53980,480055,8.893201186,20.445,21.37,23.4,16.58,24.31,april,three
+Maharashtra,Ratnagiri,1993,Rice,68149,641710,9.416279036,21.015,21.95,19.65,25.93,16.1,april,four
+Maharashtra,Ratnagiri,1993,Rice,70754,748411,10.57764932,25.89,22.86,22.43,26.92,24.86,may,one 
+Maharashtra,Ratnagiri,1993,Rice,63634,267994,4.211490713,26.225,18.29,26.14,29.83,22.62,may,two 
+Maharashtra,Ratnagiri,1993,Rice,69106,593960,8.594912164,23.125,21.58,15.74,24.64,21.61,may,three
+Maharashtra,Ratnagiri,1993,Rice,87656,727865,8.303652916,16.005,17.88,15.01,15.53,16.48,may,four
+Maharashtra,Ratnagiri,1993,Rice,80208,650669,8.112270596,23.45,25.19,18.35,19.77,27.13,june,one 
+Maharashtra,Ratnagiri,1993,Rice,77103,953780,12.37020609,22.175,18.92,15.48,16.67,27.68,june,two 
+Maharashtra,Ratnagiri,1993,Rice,53303,972344,18.24182504,25.695,15.44,16.44,25.79,25.6,june,three
+Maharashtra,Ratnagiri,1993,Rice,50136,399857,7.975446785,24.28,22.89,17.27,24.78,23.78,june,four
+Maharashtra,Ratnagiri,1993,Rice,96673,701646,7.257931377,19.935,21.25,20.49,20.5,19.37,july,one 
+Maharashtra,Ratnagiri,1993,Rice,78091,951646,12.18637231,20.04,25.16,21.41,24.05,16.03,july,two 
+Maharashtra,Ratnagiri,1993,Rice,69598,500006,7.184200695,26.165,25.7,22.29,26,26.33,july,three
+Maharashtra,Ratnagiri,1993,Rice,61209,685549,11.20013397,21.905,24.73,18.73,23.65,20.16,july,four
+Maharashtra,Ratnagiri,1993,Rice,58180,396903,6.821983499,22.505,22.86,25.47,24.37,20.64,august,one 
+Maharashtra,Ratnagiri,1993,Rice,83322,657672,7.893137467,17.81,29.66,25.22,16.58,19.04,august,two 
+Maharashtra,Ratnagiri,1993,Rice,97200,330596,3.401193416,20.045,20.89,29.35,22.6,17.49,august,three
+Maharashtra,Ratnagiri,1993,Rice,56601,512508,9.054751683,18.5,19.44,22.01,19.55,17.45,august,four
+Maharashtra,Ratnagiri,1993,Rice,87315,237309,2.717849167,25.835,23.44,17.38,23.72,27.95,september,one 
+Maharashtra,Ratnagiri,1993,Rice,77846,222060,2.852555045,27.145,27.79,29.02,25.9,28.39,september,two 
+Maharashtra,Ratnagiri,1993,Rice,53150,741912,13.95883349,22.725,23.14,17.1,22.48,22.97,september,three
+Maharashtra,Ratnagiri,1993,Rice,70156,594551,8.474699242,26.345,21.31,25.88,25.66,27.03,september,four
+Maharashtra,Ratnagiri,1993,Rice,73064,414897,5.6785421,17.42,29.39,28.22,16.43,18.41,october,one 
+Maharashtra,Ratnagiri,1993,Rice,79216,539911,6.815681176,27.28,27.08,18.25,28.45,26.11,october,two 
+Maharashtra,Ratnagiri,1993,Rice,63971,544236,8.50754248,15.815,16.22,23.35,15.8,15.83,october,three
+Maharashtra,Ratnagiri,1993,Rice,72841,346887,4.762249283,20.23,25.5,22.52,20.21,20.25,october,four
+Maharashtra,Ratnagiri,1993,Rice,56733,875636,15.43433275,25.995,16.28,22.37,23.12,28.87,november,one 
+Maharashtra,Ratnagiri,1993,Rice,72825,213041,2.925382767,26.295,21.78,20.62,28.19,24.4,november,two 
+Maharashtra,Ratnagiri,1993,Rice,62152,234388,3.771206075,20.27,25.81,17.9,18.97,21.57,november,three
+Maharashtra,Ratnagiri,1993,Rice,51343,338826,6.599263775,26.24,19.42,22.98,25.25,27.23,november,four
+Maharashtra,Ratnagiri,1993,Rice,74652,653218,8.750174141,25.89,27.52,25.03,28.98,22.8,december,one 
+Maharashtra,Ratnagiri,1993,Rice,71357,829377,11.62292417,27.365,20.75,26.23,27.65,27.08,december,two 
+Maharashtra,Ratnagiri,1993,Rice,67473,959490,14.22035481,26.39,18.42,23.66,28.39,24.39,december,three
+Maharashtra,Ratnagiri,1993,Rice,73509,750709,10.21247738,20.43,29.15,15.01,21.07,19.79,december,four
+Maharashtra,Ratnagiri,1994,Rice,82283,321729,3.910030018,16.905,27.19,28.16,18.03,15.78,january ,one 
+Maharashtra,Ratnagiri,1994,Rice,69599,916942,13.17464331,23.75,22.14,23.63,24.58,22.92,january ,two 
+Maharashtra,Ratnagiri,1994,Rice,63770,441689,6.926281951,21.74,27.65,21.08,22.29,21.19,january ,three
+Maharashtra,Ratnagiri,1994,Rice,80467,474725,5.899623448,22.82,20.75,18.24,28.36,17.28,january ,four
+Maharashtra,Ratnagiri,1994,Rice,87343,689389,7.892893535,23.365,22.05,22.71,29.97,16.76,february ,one 
+Maharashtra,Ratnagiri,1994,Rice,68128,606526,8.902741898,18.555,16.67,29.7,16.8,20.31,february ,two 
+Maharashtra,Ratnagiri,1994,Rice,62269,291874,4.687308291,20.825,29.35,28.5,17.23,24.42,february ,three
+Maharashtra,Ratnagiri,1994,Rice,99012,291883,2.947955803,25.65,29.95,26.27,27.04,24.26,february ,four
+Maharashtra,Ratnagiri,1994,Rice,85135,826503,9.708145886,26.88,15.41,26.4,27.77,25.99,march ,one 
+Maharashtra,Ratnagiri,1994,Rice,75268,918101,12.19776,21.45,24.98,26.17,20.17,22.73,march ,two 
+Maharashtra,Ratnagiri,1994,Rice,96683,249489,2.580484677,22.525,29.02,26.98,25.49,19.56,march ,three
+Maharashtra,Ratnagiri,1994,Rice,55188,819524,14.84967747,24.42,18.04,23.81,25.49,23.35,march ,four
+Maharashtra,Ratnagiri,1994,Rice,61249,225685,3.68471322,23.75,23.81,24.52,21.46,26.04,april,one 
+Maharashtra,Ratnagiri,1994,Rice,77440,875685,11.30791581,29.285,16.53,26.95,29.44,29.13,april,two 
+Maharashtra,Ratnagiri,1994,Rice,94724,987830,10.42850809,21.95,20.02,24.81,27.99,15.91,april,three
+Maharashtra,Ratnagiri,1994,Rice,84820,531221,6.262921481,26.03,26.33,15.52,23.45,28.61,april,four
+Maharashtra,Ratnagiri,1994,Rice,68774,826603,12.0191206,22.74,22.77,25.36,29.38,16.1,may,one 
+Maharashtra,Ratnagiri,1994,Rice,53281,231506,4.345001032,21.345,16.17,27.94,25.92,16.77,may,two 
+Maharashtra,Ratnagiri,1994,Rice,73881,290013,3.925407074,26.435,24.16,26.32,23.68,29.19,may,three
+Maharashtra,Ratnagiri,1994,Rice,68220,383308,5.618704192,26.88,25.05,27.29,28.77,24.99,may,four
+Maharashtra,Ratnagiri,1994,Rice,97712,389591,3.987135664,21.63,20.08,24.81,20.15,23.11,june,one 
+Maharashtra,Ratnagiri,1994,Rice,91928,884628,9.623052824,21.36,29.61,23.59,18.94,23.78,june,two 
+Maharashtra,Ratnagiri,1994,Rice,81623,838585,10.27388114,24.16,23.54,17.84,23.54,24.78,june,three
+Maharashtra,Ratnagiri,1994,Rice,95163,700991,7.36621376,18.775,19.98,21.85,18.19,19.36,june,four
+Maharashtra,Ratnagiri,1994,Rice,50207,254401,5.067042444,19.43,20.54,15.5,22.72,16.14,july,one 
+Maharashtra,Ratnagiri,1994,Rice,64903,669121,10.30955426,21.955,28.62,15.43,24.34,19.57,july,two 
+Maharashtra,Ratnagiri,1994,Rice,80095,630444,7.871202947,16.935,17.65,27.1,17.64,16.23,july,three
+Maharashtra,Ratnagiri,1994,Rice,95480,517903,5.424204022,20.88,23.5,16.96,22.86,18.9,july,four
+Maharashtra,Ratnagiri,1994,Rice,83273,713424,8.567290718,25.345,16.12,26.54,21.11,29.58,august,one 
+Maharashtra,Ratnagiri,1994,Rice,90206,289300,3.20710374,24.52,17.01,16.24,29.68,19.36,august,two 
+Maharashtra,Ratnagiri,1994,Rice,51428,312924,6.084700941,26.625,16.41,21.36,24.64,28.61,august,three
+Maharashtra,Ratnagiri,1994,Rice,55085,684547,12.42710357,29.58,24.44,16.61,29.67,29.49,august,four
+Maharashtra,Ratnagiri,1994,Rice,94189,655983,6.964539384,20.48,26.45,24.67,25.14,15.82,september,one 
+Maharashtra,Ratnagiri,1994,Rice,94428,805004,8.525056127,21.485,21.97,27.54,17.9,25.07,september,two 
+Maharashtra,Ratnagiri,1994,Rice,95585,894779,9.36108176,21.425,29.37,17.24,19.68,23.17,september,three
+Maharashtra,Ratnagiri,1994,Rice,73638,366836,4.981612754,20.885,23.77,26.41,26.38,15.39,september,four
+Maharashtra,Ratnagiri,1994,Rice,59501,804024,13.5127813,25.555,16.48,26.26,28.3,22.81,october,one 
+Maharashtra,Ratnagiri,1994,Rice,81015,516585,6.376411776,19.465,22.96,23.39,16.35,22.58,october,two 
+Maharashtra,Ratnagiri,1994,Rice,93509,793996,8.491118502,28.975,28.04,16.84,28.4,29.55,october,three
+Maharashtra,Ratnagiri,1994,Rice,72223,514565,7.124669427,28.375,26.44,16.7,26.99,29.76,october,four
+Maharashtra,Ratnagiri,1994,Rice,80589,724697,8.992505181,22.07,24.68,24.1,21.49,22.65,november,one 
+Maharashtra,Ratnagiri,1994,Rice,76768,598822,7.80041163,26.5,27.41,15.13,29.09,23.91,november,two 
+Maharashtra,Ratnagiri,1994,Rice,95863,411413,4.291676664,21.345,27.68,24.83,22.68,20.01,november,three
+Maharashtra,Ratnagiri,1994,Rice,85636,466289,5.445011444,18.61,20.31,15.52,20.56,16.66,november,four
+Maharashtra,Ratnagiri,1994,Rice,83919,393334,4.687067291,20.25,22.25,20.62,19.23,21.27,december,one 
+Maharashtra,Ratnagiri,1994,Rice,51288,442374,8.625292466,24.205,17.91,17,24.52,23.89,december,two 
+Maharashtra,Ratnagiri,1994,Rice,91760,219462,2.391695728,27.395,25.68,22.37,26.91,27.88,december,three
+Maharashtra,Ratnagiri,1994,Rice,87423,714662,8.174759503,22.75,27,22,21.96,23.54,december,four
+Maharashtra,Ratnagiri,1995,Rice,52743,745734,14.13901371,20.045,19.07,27.77,18.59,21.5,january ,one 
+Maharashtra,Ratnagiri,1995,Rice,66367,909417,13.70284931,23.925,18.13,16.65,17.89,29.96,january ,two 
+Maharashtra,Ratnagiri,1995,Rice,91952,839256,9.127109796,23.815,16.4,26.16,26.1,21.53,january ,three
+Maharashtra,Ratnagiri,1995,Rice,51462,277023,5.383059345,22.495,25.64,29.16,28.76,16.23,january ,four
+Maharashtra,Ratnagiri,1995,Rice,95712,535376,5.593614176,23.87,26.54,15.29,29.83,17.91,february ,one 
+Maharashtra,Ratnagiri,1995,Rice,84523,736302,8.711262023,25.165,24.73,28.78,24.34,25.99,february ,two 
+Maharashtra,Ratnagiri,1995,Rice,94429,798064,8.451471476,15.775,23.56,15.72,16.02,15.53,february ,three
+Maharashtra,Ratnagiri,1995,Rice,74367,436736,5.872712359,27.075,16.63,17.63,26.24,27.91,february ,four
+Maharashtra,Ratnagiri,1995,Rice,64144,684654,10.67370292,16.83,25.93,15.61,18.15,15.51,march ,one 
+Maharashtra,Ratnagiri,1995,Rice,75783,811675,10.71051555,25.53,25.24,28.29,27.18,23.88,march ,two 
+Maharashtra,Ratnagiri,1995,Rice,94238,911074,9.667798553,19.11,16.88,19.77,19.35,18.87,march ,three
+Maharashtra,Ratnagiri,1995,Rice,53428,766200,14.34079509,19.17,25.42,24,18.19,20.15,march ,four
+Maharashtra,Ratnagiri,1995,Rice,79593,769773,9.671365572,22.175,28.01,29.16,29.32,15.03,april,one 
+Maharashtra,Ratnagiri,1995,Rice,98672,273555,2.772367034,25.69,17.81,23.16,26.47,24.91,april,two 
+Maharashtra,Ratnagiri,1995,Rice,56288,860802,15.29281552,20.545,19.96,22.91,17,24.09,april,three
+Maharashtra,Ratnagiri,1995,Rice,80358,933633,11.61842007,22.28,21.15,28.62,29.09,15.47,april,four
+Maharashtra,Ratnagiri,1995,Rice,50899,462226,9.081239317,18.295,23.33,26.97,17.1,19.49,may,one 
+Maharashtra,Ratnagiri,1995,Rice,82874,813367,9.814501532,19.77,20.53,16.39,19.19,20.35,may,two 
+Maharashtra,Ratnagiri,1995,Rice,92937,298226,3.208904957,18.95,22.91,29,21.97,15.93,may,three
+Maharashtra,Ratnagiri,1995,Rice,57298,887683,15.49239066,24.76,23.14,16.64,20.55,28.97,may,four
+Maharashtra,Ratnagiri,1995,Rice,88812,472331,5.3183241,24.345,21.61,17.88,23.81,24.88,june,one 
+Maharashtra,Ratnagiri,1995,Rice,67271,309533,4.601284357,27.47,20.81,22.6,25.05,29.89,june,two 
+Maharashtra,Ratnagiri,1995,Rice,80616,656048,8.137937878,27.52,29.26,25.17,26.62,28.42,june,three
+Maharashtra,Ratnagiri,1995,Rice,74251,589961,7.945495684,19.78,24.36,19.36,21,18.56,june,four
+Maharashtra,Ratnagiri,1995,Rice,94576,697588,7.375951616,20.92,18.17,25.45,18.42,23.42,july,one 
+Maharashtra,Ratnagiri,1995,Rice,95738,322495,3.368516159,22.035,29.49,28.14,15.67,28.4,july,two 
+Maharashtra,Ratnagiri,1995,Rice,65511,353484,5.395796126,23.41,27.43,19.85,23.5,23.32,july,three
+Maharashtra,Ratnagiri,1995,Rice,86724,706134,8.142313546,27.44,22.64,28.47,25.63,29.25,july,four
+Maharashtra,Ratnagiri,1995,Rice,58598,574149,9.798098911,28.89,16.79,17.65,27.9,29.88,august,one 
+Maharashtra,Ratnagiri,1995,Rice,67470,237158,3.51501408,24.83,22.05,28.53,20.28,29.38,august,two 
+Maharashtra,Ratnagiri,1995,Rice,57318,416318,7.263302976,26.015,16.93,24.28,23.76,28.27,august,three
+Maharashtra,Ratnagiri,1995,Rice,79207,775208,9.787114775,18.175,20.61,17.03,16.47,19.88,august,four
+Maharashtra,Ratnagiri,1995,Rice,79567,216229,2.717571355,19.73,28.47,27.45,21.18,18.28,september,one 
+Maharashtra,Ratnagiri,1995,Rice,77230,398279,5.157050369,19.115,16.97,26.08,16.55,21.68,september,two 
+Maharashtra,Ratnagiri,1995,Rice,50489,694412,13.75372853,24.475,23.8,17.77,20.42,28.53,september,three
+Maharashtra,Ratnagiri,1995,Rice,86722,547105,6.308722124,22.085,15.28,19.93,28.72,15.45,september,four
+Maharashtra,Ratnagiri,1995,Rice,88438,788269,8.913238653,23.31,17.83,24.71,21.67,24.95,october,one 
+Maharashtra,Ratnagiri,1995,Rice,87626,734321,8.380172552,23.225,21.36,23.96,26.67,19.78,october,two 
+Maharashtra,Ratnagiri,1995,Rice,96834,489393,5.053937667,20.355,21.31,26.86,16.22,24.49,october,three
+Maharashtra,Ratnagiri,1995,Rice,77288,944528,12.22088811,27.1,22.13,26.43,24.61,29.59,october,four
+Maharashtra,Ratnagiri,1995,Rice,83176,803048,9.65480427,27.635,21.18,25.52,27.25,28.02,november,one 
+Maharashtra,Ratnagiri,1995,Rice,67067,983063,14.65792417,20.555,20.47,28.57,16.3,24.81,november,two 
+Maharashtra,Ratnagiri,1995,Rice,93462,478589,5.120680062,21.93,20.07,28.34,25.52,18.34,november,three
+Maharashtra,Ratnagiri,1995,Rice,98856,313322,3.169478838,26.05,24.66,18.04,27.36,24.74,november,four
+Maharashtra,Ratnagiri,1995,Rice,83189,720018,8.655206818,22.535,20.86,26.35,20.17,24.9,december,one 
+Maharashtra,Ratnagiri,1995,Rice,50209,299187,5.958832082,18.98,19.31,28.62,17.14,20.82,december,two 
+Maharashtra,Ratnagiri,1995,Rice,70695,603134,8.531494448,20.55,18.77,18.05,15.14,25.96,december,three
+Maharashtra,Ratnagiri,1995,Rice,96090,398947,4.151805599,27.59,15.15,17.68,26.49,28.69,december,four
+Maharashtra,Ratnagiri,1996,Rice,69785,888660,12.73425521,21.39,20.83,25.78,22.16,20.62,january ,one 
+Maharashtra,Ratnagiri,1996,Rice,86553,957556,11.06323293,24.73,17.72,28.36,22.19,27.27,january ,two 
+Maharashtra,Ratnagiri,1996,Rice,89411,606090,6.778696134,20.645,16.98,17.92,17.33,23.96,january ,three
+Maharashtra,Ratnagiri,1996,Rice,82983,236096,2.845112854,22.595,27.07,27.92,16.39,28.8,january ,four
+Maharashtra,Ratnagiri,1996,Rice,58015,398870,6.875290873,16.885,18.05,24.25,16.27,17.5,february ,one 
+Maharashtra,Ratnagiri,1996,Rice,89087,440531,4.944952687,22.105,16.83,19.14,21.16,23.05,february ,two 
+Maharashtra,Ratnagiri,1996,Rice,86359,504802,5.845389595,19.16,16.75,23.3,18.87,19.45,february ,three
+Maharashtra,Ratnagiri,1996,Rice,90663,401300,4.426281945,28.95,24.71,27.49,29.08,28.82,february ,four
+Maharashtra,Ratnagiri,1996,Rice,97019,931702,9.6032942,17.555,29.87,21.78,15.11,20,march ,one 
+Maharashtra,Ratnagiri,1996,Rice,70742,881371,12.45894942,18.085,26.61,27.34,19.98,16.19,march ,two 
+Maharashtra,Ratnagiri,1996,Rice,51373,631197,12.2865513,20.985,18.08,16.65,15.73,26.24,march ,three
+Maharashtra,Ratnagiri,1996,Rice,74422,879678,11.82013383,18.155,19,17.54,17.96,18.35,march ,four
+Maharashtra,Ratnagiri,1996,Rice,93533,783551,8.377267916,21.135,16.77,20.95,22.79,19.48,april,one 
+Maharashtra,Ratnagiri,1996,Rice,93657,477348,5.096767994,24.28,25.77,20.31,25.83,22.73,april,two 
+Maharashtra,Ratnagiri,1996,Rice,72396,563912,7.789270125,22.325,16.7,19.97,23.69,20.96,april,three
+Maharashtra,Ratnagiri,1996,Rice,58931,455129,7.723082927,21.435,24.87,25.26,21.72,21.15,april,four
+Maharashtra,Ratnagiri,1996,Rice,90877,550675,6.059564026,20.92,17.34,20.76,17.78,24.06,may,one 
+Maharashtra,Ratnagiri,1996,Rice,95497,276991,2.900520435,22.12,20.32,21.78,28.92,15.32,may,two 
+Maharashtra,Ratnagiri,1996,Rice,78825,999669,12.6821313,20.085,28.54,22.9,20.72,19.45,may,three
+Maharashtra,Ratnagiri,1996,Rice,74974,584514,7.796222691,19.79,28.28,23.8,22.54,17.04,may,four
+Maharashtra,Ratnagiri,1996,Rice,91258,295190,3.234675316,19.645,24.64,22.7,23.69,15.6,june,one 
+Maharashtra,Ratnagiri,1996,Rice,87990,714308,8.11805887,21.77,17.18,29.62,22.49,21.05,june,two 
+Maharashtra,Ratnagiri,1996,Rice,90401,640108,7.080762381,23.54,25.02,23.83,22.78,24.3,june,three
+Maharashtra,Ratnagiri,1996,Rice,95831,302933,3.161116966,21.99,15.07,18.22,19.34,24.64,june,four
+Maharashtra,Ratnagiri,1996,Rice,74073,638182,8.615581926,25.695,26.87,16.54,24.46,26.93,july,one 
+Maharashtra,Ratnagiri,1996,Rice,98490,582980,5.919179612,17.685,18.34,17.72,15.62,19.75,july,two 
+Maharashtra,Ratnagiri,1996,Rice,57281,891652,15.56627852,20.425,29.46,28.37,15.4,25.45,july,three
+Maharashtra,Ratnagiri,1996,Rice,96920,834318,8.608316137,27,18.65,19.17,27.51,26.49,july,four
+Maharashtra,Ratnagiri,1996,Rice,77411,597094,7.71329656,19.07,22.88,16.94,16.37,21.77,august,one 
+Maharashtra,Ratnagiri,1996,Rice,97188,389732,4.010083549,16.025,28.12,19.84,16.75,15.3,august,two 
+Maharashtra,Ratnagiri,1996,Rice,73770,842059,11.41465365,27.95,20.17,28.81,29.22,26.68,august,three
+Maharashtra,Ratnagiri,1996,Rice,50563,237108,4.689357831,23.43,16.4,21.96,29.34,17.52,august,four
+Maharashtra,Ratnagiri,1996,Rice,65653,646465,9.846693982,22.01,25.4,16.02,16.51,27.51,september,one 
+Maharashtra,Ratnagiri,1996,Rice,85502,753534,8.813057005,28.1,26.32,18.97,26.45,29.75,september,two 
+Maharashtra,Ratnagiri,1996,Rice,93409,522486,5.593529531,20.575,29.24,26.5,25.48,15.67,september,three
+Maharashtra,Ratnagiri,1996,Rice,60445,559534,9.256911242,24.975,23.95,15.5,25.46,24.49,september,four
+Maharashtra,Ratnagiri,1996,Rice,98699,489096,4.955430146,21.025,15.9,25.4,24.35,17.7,october,one 
+Maharashtra,Ratnagiri,1996,Rice,59451,618742,10.40759617,25.015,18.74,25.41,23.89,26.14,october,two 
+Maharashtra,Ratnagiri,1996,Rice,70962,206031,2.903399002,24.67,23.19,26.65,22.08,27.26,october,three
+Maharashtra,Ratnagiri,1996,Rice,82623,625841,7.574658388,28.515,21.5,20.56,27.98,29.05,october,four
+Maharashtra,Ratnagiri,1996,Rice,66492,671985,10.10625338,28.865,22.89,17.99,29.98,27.75,november,one 
+Maharashtra,Ratnagiri,1996,Rice,56299,501792,8.912982469,24.19,28.37,28.69,22.94,25.44,november,two 
+Maharashtra,Ratnagiri,1996,Rice,79132,588366,7.435247435,21.065,16.5,22.31,15.96,26.17,november,three
+Maharashtra,Ratnagiri,1996,Rice,94551,720111,7.61611194,23.445,25.56,19.72,21.84,25.05,november,four
+Maharashtra,Ratnagiri,1996,Rice,58893,274105,4.654288286,18.38,22.37,16.7,15.48,21.28,december,one 
+Maharashtra,Ratnagiri,1996,Rice,98620,708160,7.180693571,20.77,28.28,29.44,24.55,16.99,december,two 
+Maharashtra,Ratnagiri,1996,Rice,81697,988339,12.0976168,24.055,26.07,16.68,22.32,25.79,december,three
+Maharashtra,Ratnagiri,1996,Rice,94147,482050,5.120184392,24.325,25.71,21.17,23.94,24.71,december,four
+Maharashtra,Ratnagiri,1997,Rice,95766,275375,2.875498611,21.755,20.56,22.38,19.19,24.32,january ,one 
+Maharashtra,Ratnagiri,1997,Rice,76128,980045,12.87364702,26.175,25.09,15.28,25.63,26.72,january ,two 
+Maharashtra,Ratnagiri,1997,Rice,74223,701676,9.453619498,27.82,22.89,22.74,26.52,29.12,january ,three
+Maharashtra,Ratnagiri,1997,Rice,83914,213522,2.544533689,21.815,25.6,22.67,27.66,15.97,january ,four
+Maharashtra,Ratnagiri,1997,Rice,90792,454196,5.002599348,17.31,26.31,20.96,18.56,16.06,february ,one 
+Maharashtra,Ratnagiri,1997,Rice,96930,980714,10.11775508,24.745,16.66,25,21.99,27.5,february ,two 
+Maharashtra,Ratnagiri,1997,Rice,94742,470467,4.965770197,26.905,17.09,29.06,29.62,24.19,february ,three
+Maharashtra,Ratnagiri,1997,Rice,52545,257634,4.903111619,17.35,19.07,23.4,15.37,19.33,february ,four
+Maharashtra,Ratnagiri,1997,Rice,64502,748529,11.60474094,23.795,21.56,29.22,24.36,23.23,march ,one 
+Maharashtra,Ratnagiri,1997,Rice,81210,245192,3.019234084,27.68,29.21,19.09,28.27,27.09,march ,two 
+Maharashtra,Ratnagiri,1997,Rice,90165,398295,4.417401431,17.78,29.69,26.83,18.69,16.87,march ,three
+Maharashtra,Ratnagiri,1997,Rice,85989,641948,7.465466513,27.535,16.71,20.05,25.61,29.46,march ,four
+Maharashtra,Ratnagiri,1997,Rice,86625,593828,6.855157287,18.59,20.76,17.51,16.69,20.49,april,one 
+Maharashtra,Ratnagiri,1997,Rice,53058,356767,6.724094387,22.475,25.94,23.06,22.58,22.37,april,two 
+Maharashtra,Ratnagiri,1997,Rice,78929,407371,5.161233514,20.81,23.29,18.66,23.55,18.07,april,three
+Maharashtra,Ratnagiri,1997,Rice,78196,927468,11.86081129,28.16,27.15,18.68,27.61,28.71,april,four
+Maharashtra,Ratnagiri,1997,Rice,58911,769083,13.05499822,17.055,20.23,22.95,17.99,16.12,may,one 
+Maharashtra,Ratnagiri,1997,Rice,50932,954559,18.74183225,22.195,17.71,19.46,26.96,17.43,may,two 
+Maharashtra,Ratnagiri,1997,Rice,93618,886596,9.470358264,21.43,21.85,22.46,21.34,21.52,may,three
+Maharashtra,Ratnagiri,1997,Rice,85300,449587,5.270656506,20.015,20.94,29.1,17.81,22.22,may,four
+Maharashtra,Ratnagiri,1997,Rice,59942,831507,13.87185946,21.855,19.2,28.27,20.32,23.39,june,one 
+Maharashtra,Ratnagiri,1997,Rice,71691,539411,7.524110418,17.525,29.62,21.16,17.53,17.52,june,two 
+Maharashtra,Ratnagiri,1997,Rice,66380,279598,4.212081952,18.13,27.44,25,16.63,19.63,june,three
+Maharashtra,Ratnagiri,1997,Rice,62301,495914,7.95996854,20.25,28.32,26.94,16.7,23.8,june,four
+Maharashtra,Ratnagiri,1997,Rice,83416,779544,9.345257505,22.455,15.44,23.64,15.59,29.32,july,one 
+Maharashtra,Ratnagiri,1997,Rice,70318,958695,13.63370687,22.06,19.74,17.25,23.21,20.91,july,two 
+Maharashtra,Ratnagiri,1997,Rice,66223,672670,10.15764916,24.44,15.27,20.76,29.14,19.74,july,three
+Maharashtra,Ratnagiri,1997,Rice,67961,832481,12.24939303,17.89,21.59,26.39,19.67,16.11,july,four
+Maharashtra,Ratnagiri,1997,Rice,51749,564533,10.90906104,22.795,21.12,15.76,27.08,18.51,august,one 
+Maharashtra,Ratnagiri,1997,Rice,97918,473634,4.837047325,26.76,19.44,24.03,28.4,25.12,august,two 
+Maharashtra,Ratnagiri,1997,Rice,63583,416833,6.555730305,21.915,20.48,18.99,23.54,20.29,august,three
+Maharashtra,Ratnagiri,1997,Rice,59802,786981,13.15977726,15.125,18.59,24.8,15.1,15.15,august,four
+Maharashtra,Ratnagiri,1997,Rice,79406,457117,5.756706042,25.975,25.43,16.91,22.56,29.39,september,one 
+Maharashtra,Ratnagiri,1997,Rice,62697,751999,11.99417835,25.145,24.78,29.59,23.45,26.84,september,two 
+Maharashtra,Ratnagiri,1997,Rice,76592,224150,2.926545853,16.165,18.47,26.3,15.6,16.73,september,three
+Maharashtra,Ratnagiri,1997,Rice,73184,840934,11.49068102,26.095,27.7,25.54,27.44,24.75,september,four
+Maharashtra,Ratnagiri,1997,Rice,60551,719204,11.87765685,21.21,26.91,27.85,17.93,24.49,october,one 
+Maharashtra,Ratnagiri,1997,Rice,94252,449525,4.769394814,23.44,24.41,28.2,29.43,17.45,october,two 
+Maharashtra,Ratnagiri,1997,Rice,74229,209308,2.819760471,20.77,17.19,17.92,17.07,24.47,october,three
+Maharashtra,Ratnagiri,1997,Rice,66666,771101,11.56663067,25.38,21.01,26.17,21.95,28.81,october,four
+Maharashtra,Ratnagiri,1997,Rice,73160,572516,7.825533078,25.99,29.59,15.89,29.54,22.44,november,one 
+Maharashtra,Ratnagiri,1997,Rice,87582,505383,5.770398027,21.865,18.09,21.36,24.32,19.41,november,two 
+Maharashtra,Ratnagiri,1997,Rice,58120,244953,4.214607708,27.91,21.22,22.51,28.37,27.45,november,three
+Maharashtra,Ratnagiri,1997,Rice,62437,393316,6.299405801,20.17,25.99,19.66,15.04,25.3,november,four
+Maharashtra,Ratnagiri,1997,Rice,93001,983053,10.57034871,25.215,23.7,27.09,27.27,23.16,december,one 
+Maharashtra,Ratnagiri,1997,Rice,57158,486542,8.512229259,19.82,22.11,17.24,20.08,19.56,december,two 
+Maharashtra,Ratnagiri,1997,Rice,54646,793367,14.5182996,22.63,27.19,23.09,23.44,21.82,december,three
+Maharashtra,Ratnagiri,1997,Rice,50186,993959,19.80550353,22.24,17.26,19.75,25.33,19.15,december,four
+Maharashtra,Ratnagiri,1998,Rice,91553,539607,5.893930292,21.43,21.62,20.81,17.33,25.53,january ,one 
+Maharashtra,Ratnagiri,1998,Rice,63731,967315,15.17809229,23.525,18.98,20.38,18.47,28.58,january ,two 
+Maharashtra,Ratnagiri,1998,Rice,51555,971215,18.83842498,22.6,21.23,29.46,26.02,19.18,january ,three
+Maharashtra,Ratnagiri,1998,Rice,63788,624960,9.797454067,24.56,21.48,21.6,22.8,26.32,january ,four
+Maharashtra,Ratnagiri,1998,Rice,87379,677258,7.750809691,24.37,24.27,25.78,25.12,23.62,february ,one 
+Maharashtra,Ratnagiri,1998,Rice,64481,500743,7.765744948,26.405,27.85,23.35,23.47,29.34,february ,two 
+Maharashtra,Ratnagiri,1998,Rice,75707,517173,6.831244139,23.48,26.24,24.17,21.56,25.4,february ,three
+Maharashtra,Ratnagiri,1998,Rice,72347,402572,5.564460171,19.935,24.43,18.65,20.81,19.06,february ,four
+Maharashtra,Ratnagiri,1998,Rice,60729,364028,5.994302557,25.05,26.5,17.38,24.55,25.55,march ,one 
+Maharashtra,Ratnagiri,1998,Rice,83330,463903,5.567058682,25.715,18.31,27.94,28.48,22.95,march ,two 
+Maharashtra,Ratnagiri,1998,Rice,82439,679689,8.244750664,26.17,23.68,28.51,28.14,24.2,march ,three
+Maharashtra,Ratnagiri,1998,Rice,85984,926075,10.77031773,26.89,18.11,16.07,28.33,25.45,march ,four
+Maharashtra,Ratnagiri,1998,Rice,90297,237348,2.628525865,22.535,22.65,22.81,27.16,17.91,april,one 
+Maharashtra,Ratnagiri,1998,Rice,94025,427909,4.551013028,19.195,17.65,22.62,16.4,21.99,april,two 
+Maharashtra,Ratnagiri,1998,Rice,51403,433741,8.438048363,25.45,25.99,22.09,28.05,22.85,april,three
+Maharashtra,Ratnagiri,1998,Rice,55736,733991,13.16906488,17.6,19.21,27.84,15.34,19.86,april,four
+Maharashtra,Ratnagiri,1998,Rice,94444,336817,3.56631443,24.675,20.84,17.95,28.51,20.84,may,one 
+Maharashtra,Ratnagiri,1998,Rice,80709,405240,5.021001375,21.465,28.83,26.54,23.07,19.86,may,two 
+Maharashtra,Ratnagiri,1998,Rice,86485,428080,4.949760074,24.575,28.14,20.08,26.49,22.66,may,three
+Maharashtra,Ratnagiri,1998,Rice,87811,984921,11.2163738,16.93,24.18,29.72,15.77,18.09,may,four
+Maharashtra,Ratnagiri,1998,Rice,68458,811957,11.86065909,26.265,27.41,20.86,28.4,24.13,june,one 
+Maharashtra,Ratnagiri,1998,Rice,54873,336364,6.129863503,21.825,24.65,25.17,23.28,20.37,june,two 
+Maharashtra,Ratnagiri,1998,Rice,78280,492038,6.285615738,22.18,17.62,18.85,22.09,22.27,june,three
+Maharashtra,Ratnagiri,1998,Rice,76013,956422,12.58234776,27.87,18.36,16.67,26.83,28.91,june,four
+Maharashtra,Ratnagiri,1998,Rice,90383,664724,7.354524634,21.455,22.47,16.13,23.02,19.89,july,one 
+Maharashtra,Ratnagiri,1998,Rice,79367,434855,5.479040407,22.81,16.74,16.27,23.53,22.09,july,two 
+Maharashtra,Ratnagiri,1998,Rice,88979,792420,8.90569685,21.125,26.92,18.95,15.82,26.43,july,three
+Maharashtra,Ratnagiri,1998,Rice,60686,365767,6.027205616,26.805,29.32,17.33,26.48,27.13,july,four
+Maharashtra,Ratnagiri,1998,Rice,62068,271132,4.368305729,18.96,18.14,28.92,16.63,21.29,august,one 
+Maharashtra,Ratnagiri,1998,Rice,74342,336454,4.525759329,17.96,27.04,27.39,19.43,16.49,august,two 
+Maharashtra,Ratnagiri,1998,Rice,51383,324250,6.310452874,23.23,27.4,29.32,19.5,26.96,august,three
+Maharashtra,Ratnagiri,1998,Rice,74936,720942,9.620769723,23.9,25.99,15.9,25.41,22.39,august,four
+Maharashtra,Ratnagiri,1998,Rice,88910,554545,6.237149927,22.015,29.12,26.91,17.75,26.28,september,one 
+Maharashtra,Ratnagiri,1998,Rice,60543,592075,9.779412979,21.87,22.82,27.88,27.45,16.29,september,two 
+Maharashtra,Ratnagiri,1998,Rice,67066,281978,4.204485134,26.62,16.96,26.88,28.81,24.43,september,three
+Maharashtra,Ratnagiri,1998,Rice,69691,898571,12.8936448,21.39,17.63,17.39,25.93,16.85,september,four
+Maharashtra,Ratnagiri,1998,Rice,73484,380584,5.179141038,27.24,23.75,29.36,28.57,25.91,october,one 
+Maharashtra,Ratnagiri,1998,Rice,68106,622825,9.144935835,20.53,29.76,19.42,21.71,19.35,october,two 
+Maharashtra,Ratnagiri,1998,Rice,82164,519997,6.328769291,25.16,24.18,24.78,26.23,24.09,october,three
+Maharashtra,Ratnagiri,1998,Rice,64984,928681,14.29091776,24.59,15.99,15.23,27.93,21.25,october,four
+Maharashtra,Ratnagiri,1998,Rice,91478,306386,3.349286167,19.9,25.18,19.47,15.28,24.52,november,one 
+Maharashtra,Ratnagiri,1998,Rice,76820,519132,6.757771414,21.525,29.32,22.12,19.85,23.2,november,two 
+Maharashtra,Ratnagiri,1998,Rice,79615,414498,5.206280224,20.275,15.38,16.09,21.63,18.92,november,three
+Maharashtra,Ratnagiri,1998,Rice,95987,706748,7.3629554,24.32,24.03,22.37,29.29,19.35,november,four
+Maharashtra,Ratnagiri,1998,Rice,88983,736210,8.273602823,22.04,20.16,15.93,15.96,28.12,december,one 
+Maharashtra,Ratnagiri,1998,Rice,71570,979828,13.69048484,18.24,21.03,22.14,20.02,16.46,december,two 
+Maharashtra,Ratnagiri,1998,Rice,72491,294217,4.058669352,22.635,19.29,27.2,28.63,16.64,december,three
+Maharashtra,Ratnagiri,1998,Rice,99531,691324,6.945815876,24.765,21.27,23.51,25.53,24,december,four
+Maharashtra,Ratnagiri,1999,Rice,53553,873395,16.30898362,21.67,19.02,27.51,23.87,19.47,january ,one 
+Maharashtra,Ratnagiri,1999,Rice,99699,279202,2.800449353,20.645,26.74,22.62,18.79,22.5,january ,two 
+Maharashtra,Ratnagiri,1999,Rice,51586,464388,9.002209902,20.9,18.43,18.7,21.23,20.57,january ,three
+Maharashtra,Ratnagiri,1999,Rice,71891,463309,6.444603636,18.415,22.86,25.68,15.13,21.7,january ,four
+Maharashtra,Ratnagiri,1999,Rice,71193,771814,10.84115011,22.38,20.69,20.26,28.84,15.92,february ,one 
+Maharashtra,Ratnagiri,1999,Rice,69113,469204,6.788939852,26.455,27.74,26.58,28.59,24.32,february ,two 
+Maharashtra,Ratnagiri,1999,Rice,92896,351915,3.788268601,26.845,28.49,27.8,29.56,24.13,february ,three
+Maharashtra,Ratnagiri,1999,Rice,99258,727803,7.33243668,18.24,19.57,25.58,21.28,15.2,february ,four
+Maharashtra,Ratnagiri,1999,Rice,98111,807751,8.233031974,18.185,17.93,29.98,17.35,19.02,march ,one 
+Maharashtra,Ratnagiri,1999,Rice,71076,328735,4.62511959,24.695,17.71,28.29,27.46,21.93,march ,two 
+Maharashtra,Ratnagiri,1999,Rice,75506,646015,8.555810134,23.305,17.56,18.32,29.72,16.89,march ,three
+Maharashtra,Ratnagiri,1999,Rice,73295,810322,11.05562453,22.705,29.28,23.17,18.35,27.06,march ,four
+Maharashtra,Ratnagiri,1999,Rice,84108,603428,7.174442384,27.695,19.73,29.88,26.93,28.46,april,one 
+Maharashtra,Ratnagiri,1999,Rice,70837,233902,3.301974957,24.075,21.85,24.64,24.97,23.18,april,two 
+Maharashtra,Ratnagiri,1999,Rice,71474,688035,9.62636763,19.315,26.25,24.61,20.36,18.27,april,three
+Maharashtra,Ratnagiri,1999,Rice,56961,490839,8.617106441,21.83,18.32,15.35,25.93,17.73,april,four
+Maharashtra,Ratnagiri,1999,Rice,59615,717283,12.0319215,22.825,18.3,23.75,22.79,22.86,may,one 
+Maharashtra,Ratnagiri,1999,Rice,65267,787114,12.05990776,25.055,28.61,18.56,23.67,26.44,may,two 
+Maharashtra,Ratnagiri,1999,Rice,88395,545720,6.173652356,21.96,28.5,18.19,23.55,20.37,may,three
+Maharashtra,Ratnagiri,1999,Rice,67622,850898,12.58315341,19.79,17.98,23.05,20.88,18.7,may,four
+Maharashtra,Ratnagiri,1999,Rice,84287,733128,8.697996132,23.065,25.22,22.48,23.79,22.34,june,one 
+Maharashtra,Ratnagiri,1999,Rice,72273,923863,12.78296183,24.25,18.29,28.56,24.04,24.46,june,two 
+Maharashtra,Ratnagiri,1999,Rice,85636,290620,3.393666215,23.19,19.1,23.57,24.13,22.25,june,three
+Maharashtra,Ratnagiri,1999,Rice,96002,549722,5.726151539,22.625,23.11,28.7,26.85,18.4,june,four
+Maharashtra,Ratnagiri,1999,Rice,87976,327565,3.723345003,22.315,21.34,25.41,19.18,25.45,july,one 
+Maharashtra,Ratnagiri,1999,Rice,68889,471074,6.838159938,25.19,21.91,19.75,29.04,21.34,july,two 
+Maharashtra,Ratnagiri,1999,Rice,63012,272912,4.331111534,19.685,27.98,24.07,18.59,20.78,july,three
+Maharashtra,Ratnagiri,1999,Rice,75458,293028,3.883325824,19.215,27.52,16.29,19.26,19.17,july,four
+Maharashtra,Ratnagiri,1999,Rice,73628,421180,5.720378117,26.095,21.38,26.74,27.86,24.33,august,one 
+Maharashtra,Ratnagiri,1999,Rice,99889,955683,9.567449869,21.6,15.48,24.41,22.68,20.52,august,two 
+Maharashtra,Ratnagiri,1999,Rice,78820,748264,9.493326567,22.675,29.07,16.71,16.73,28.62,august,three
+Maharashtra,Ratnagiri,1999,Rice,53028,737481,13.90738855,19.3,18.56,25.82,20.2,18.4,august,four
+Maharashtra,Ratnagiri,1999,Rice,91585,398855,4.355025386,24.905,29.04,28.25,29.3,20.51,september,one 
+Maharashtra,Ratnagiri,1999,Rice,53370,756289,14.17067641,21.9,28.04,19.34,25.39,18.41,september,two 
+Maharashtra,Ratnagiri,1999,Rice,76396,785519,10.28220064,18.56,23.48,23.23,19.49,17.63,september,three
+Maharashtra,Ratnagiri,1999,Rice,76632,595407,7.769691513,22.02,26.16,18.39,25.56,18.48,september,four
+Maharashtra,Ratnagiri,1999,Rice,84219,991330,11.77085931,24.01,23.66,22.65,27.74,20.28,october,one 
+Maharashtra,Ratnagiri,1999,Rice,70651,954586,13.51128788,19.745,19.12,21.05,18.49,21,october,two 
+Maharashtra,Ratnagiri,1999,Rice,82188,226863,2.760293473,21.85,16.83,29.52,26.12,17.58,october,three
+Maharashtra,Ratnagiri,1999,Rice,70684,524837,7.425117424,19.44,20.85,18.38,22.74,16.14,october,four
+Maharashtra,Ratnagiri,1999,Rice,85940,428730,4.988713056,25.995,28.81,18.6,27.59,24.4,november,one 
+Maharashtra,Ratnagiri,1999,Rice,64934,324073,4.990806049,19.71,20.94,20.97,22.96,16.46,november,two 
+Maharashtra,Ratnagiri,1999,Rice,77832,980913,12.60295251,21.325,18.67,23.75,25.6,17.05,november,three
+Maharashtra,Ratnagiri,1999,Rice,86438,758348,8.773317291,24.26,21.92,29.77,24.77,23.75,november,four
+Maharashtra,Ratnagiri,1999,Rice,96317,489165,5.078698464,22,22.02,20.31,23.38,20.62,december,one 
+Maharashtra,Ratnagiri,1999,Rice,77455,703736,9.085740107,22.76,19.53,29.6,28.36,17.16,december,two 
+Maharashtra,Ratnagiri,1999,Rice,60805,227740,3.745415673,18.695,24.4,21.69,22.3,15.09,december,three
+Maharashtra,Ratnagiri,1999,Rice,77535,500938,6.460798349,21.52,23.99,16,15.45,27.59,december,four
+Maharashtra,Ratnagiri,2000,Rice,96237,983316,10.21765018,26.875,21.91,29.96,24.76,28.99,january ,one 
+Maharashtra,Ratnagiri,2000,Rice,70208,512908,7.305549225,25.195,26.85,22.04,28.86,21.53,january ,two 
+Maharashtra,Ratnagiri,2000,Rice,75881,838860,11.05494129,19.575,27.14,22.78,16.23,22.92,january ,three
+Maharashtra,Ratnagiri,2000,Rice,67827,773410,11.40268625,25.005,22.14,29.69,22.32,27.69,january ,four
+Maharashtra,Ratnagiri,2000,Rice,97452,268774,2.758014202,19.76,29.7,17.59,24.01,15.51,february ,one 
+Maharashtra,Ratnagiri,2000,Rice,51234,481367,9.395460046,22.53,22.28,18.03,21.86,23.2,february ,two 
+Maharashtra,Ratnagiri,2000,Rice,83104,915206,11.01277917,19.67,16.12,28.38,16.51,22.83,february ,three
+Maharashtra,Ratnagiri,2000,Rice,87240,364827,4.181877579,17.405,28.3,22.82,17.44,17.37,february ,four
+Maharashtra,Ratnagiri,2000,Rice,69247,830100,11.98752293,26.2,29.09,26.34,28.52,23.88,march ,one 
+Maharashtra,Ratnagiri,2000,Rice,97818,905783,9.259880595,21.745,15.7,20.55,16.27,27.22,march ,two 
+Maharashtra,Ratnagiri,2000,Rice,89097,560134,6.286788556,26.935,23.73,26.76,23.94,29.93,march ,three
+Maharashtra,Ratnagiri,2000,Rice,82075,911089,11.10068839,21.85,22.12,18.91,21.97,21.73,march ,four
+Maharashtra,Ratnagiri,2000,Rice,95368,441748,4.632035903,25.365,18.28,21.88,26.09,24.64,april,one 
+Maharashtra,Ratnagiri,2000,Rice,85656,683223,7.976358924,26.495,28.94,21.29,29.32,23.67,april,two 
+Maharashtra,Ratnagiri,2000,Rice,71281,808039,11.33596611,25.15,27.29,26.98,27.79,22.51,april,three
+Maharashtra,Ratnagiri,2000,Rice,66985,681094,10.16785848,23.25,28.08,16.14,27.66,18.84,april,four
+Maharashtra,Ratnagiri,2000,Rice,55207,913748,16.5513069,19.155,16.03,23.95,18.09,20.22,may,one 
+Maharashtra,Ratnagiri,2000,Rice,72481,734691,10.13632538,20.03,26.98,22.39,18.09,21.97,may,two 
+Maharashtra,Ratnagiri,2000,Rice,87919,585929,6.664418385,19.61,26.68,23.62,20.75,18.47,may,three
+Maharashtra,Ratnagiri,2000,Rice,70465,785090,11.14155964,28.7,26.88,27.54,28.93,28.47,may,four
+Maharashtra,Ratnagiri,2000,Rice,72371,715115,9.88123696,24.38,24.19,26.91,27.33,21.43,june,one 
+Maharashtra,Ratnagiri,2000,Rice,95173,651549,6.845943703,22.165,17.13,17.95,27.26,17.07,june,two 
+Maharashtra,Ratnagiri,2000,Rice,63895,652642,10.21428907,17.925,24.4,25.59,19.36,16.49,june,three
+Maharashtra,Ratnagiri,2000,Rice,71820,837704,11.66393762,27.135,21.08,28.76,26.76,27.51,june,four
+Maharashtra,Ratnagiri,2000,Rice,72374,884200,12.21709454,26.525,29.06,28.88,26.75,26.3,july,one 
+Maharashtra,Ratnagiri,2000,Rice,55651,678081,12.18452499,24.86,27.72,28.24,20.97,28.75,july,two 
+Maharashtra,Ratnagiri,2000,Rice,73852,738937,10.00564643,16.165,20.78,26.07,15.99,16.34,july,three
+Maharashtra,Ratnagiri,2000,Rice,54902,540003,9.835761903,27.5,21.36,26.59,26.87,28.13,july,four
+Maharashtra,Ratnagiri,2000,Rice,73578,243497,3.309372367,17.025,26.64,23.89,16.92,17.13,august,one 
+Maharashtra,Ratnagiri,2000,Rice,61337,545372,8.891403231,22.38,20.68,18.92,27.63,17.13,august,two 
+Maharashtra,Ratnagiri,2000,Rice,66212,766513,11.57664774,28.2,28.32,24.82,29.41,26.99,august,three
+Maharashtra,Ratnagiri,2000,Rice,58658,582802,9.935592758,21.85,17.75,16.2,17.06,26.64,august,four
+Maharashtra,Ratnagiri,2000,Rice,64484,233873,3.626837665,28.315,26.06,16.46,27.3,29.33,september,one 
+Maharashtra,Ratnagiri,2000,Rice,73116,405768,5.549647136,28.395,23.91,19.92,28.21,28.58,september,two 
+Maharashtra,Ratnagiri,2000,Rice,53922,432463,8.020158748,23.705,19.58,24.55,26.26,21.15,september,three
+Maharashtra,Ratnagiri,2000,Rice,85507,223371,2.612312442,17.94,26.86,20.02,20.57,15.31,september,four
+Maharashtra,Ratnagiri,2000,Rice,64417,403388,6.262135772,19.78,25.99,18.05,22.18,17.38,october,one 
+Maharashtra,Ratnagiri,2000,Rice,58260,505508,8.676759355,21.675,29.04,27.42,18.15,25.2,october,two 
+Maharashtra,Ratnagiri,2000,Rice,66792,219015,3.279060367,25.165,27.53,26.58,21.59,28.74,october,three
+Maharashtra,Ratnagiri,2000,Rice,65790,883486,13.42887977,22.88,22.03,23.99,29.95,15.81,october,four
+Maharashtra,Ratnagiri,2000,Rice,85325,282229,3.307694111,25.625,28.84,21.91,21.55,29.7,november,one 
+Maharashtra,Ratnagiri,2000,Rice,84736,467841,5.521159838,25.935,26.91,25.77,26.8,25.07,november,two 
+Maharashtra,Ratnagiri,2000,Rice,89223,244869,2.744460509,27.23,19.61,18.3,25.67,28.79,november,three
+Maharashtra,Ratnagiri,2000,Rice,92899,336957,3.627132692,25.33,28.67,24.03,24.95,25.71,november,four
+Maharashtra,Ratnagiri,2000,Rice,73554,345217,4.693381733,27.545,17.79,17.33,29.91,25.18,december,one 
+Maharashtra,Ratnagiri,2000,Rice,67423,413039,6.126084571,28.935,27.71,20.88,29.09,28.78,december,two 
+Maharashtra,Ratnagiri,2000,Rice,60835,375876,6.178614285,22.115,25.44,24.99,26.4,17.83,december,three
+Maharashtra,Ratnagiri,2000,Rice,90105,268721,2.982309528,24.355,25.13,21.08,25.85,22.86,december,four
+Maharashtra,Ratnagiri,2001,Rice,84075,305798,3.637204877,22.035,27.19,20.87,25.49,18.58,january ,one 
+Maharashtra,Ratnagiri,2001,Rice,92284,347030,3.760456851,25.735,28.98,29.55,29.19,22.28,january ,two 
+Maharashtra,Ratnagiri,2001,Rice,75034,233349,3.109910174,26.84,22.8,24.39,27.16,26.52,january ,three
+Maharashtra,Ratnagiri,2001,Rice,94833,562555,5.932059515,17.225,23.94,27.85,16.68,17.77,january ,four
+Maharashtra,Ratnagiri,2001,Rice,75458,718039,9.515743858,27.58,20.86,22.74,27.19,27.97,february ,one 
+Maharashtra,Ratnagiri,2001,Rice,89837,282968,3.149793515,18.65,28.56,15.56,17.73,19.57,february ,two 
+Maharashtra,Ratnagiri,2001,Rice,77892,491106,6.304960715,29.925,20.59,25.68,29.95,29.9,february ,three
+Maharashtra,Ratnagiri,2001,Rice,93511,415076,4.438793297,24.625,23.43,15.45,28.74,20.51,february ,four
+Maharashtra,Ratnagiri,2001,Rice,79888,369213,4.621632786,20.73,19.36,21.39,25.8,15.66,march ,one 
+Maharashtra,Ratnagiri,2001,Rice,78351,916778,11.70091001,21.375,15.45,27.57,26.05,16.7,march ,two 
+Maharashtra,Ratnagiri,2001,Rice,74734,526939,7.050860385,17.255,28.33,22.17,17.31,17.2,march ,three
+Maharashtra,Ratnagiri,2001,Rice,59038,711189,12.04629222,21.41,17.18,20.2,18.43,24.39,march ,four
+Maharashtra,Ratnagiri,2001,Rice,80662,544062,6.744960452,22.735,19.55,20.05,19.16,26.31,april,one 
+Maharashtra,Ratnagiri,2001,Rice,54863,900370,16.41124255,26.22,19.24,24.78,27.12,25.32,april,two 
+Maharashtra,Ratnagiri,2001,Rice,80295,764854,9.525549536,18.29,16.38,24.92,16.75,19.83,april,three
+Maharashtra,Ratnagiri,2001,Rice,70813,622069,8.784672306,22.16,17.31,27.6,23.79,20.53,april,four
+Maharashtra,Ratnagiri,2001,Rice,89700,507069,5.652943144,23.945,22.87,17.22,22.49,25.4,may,one 
+Maharashtra,Ratnagiri,2001,Rice,80779,456672,5.6533505,21.65,15.72,17.68,27.46,15.84,may,two 
+Maharashtra,Ratnagiri,2001,Rice,61585,425332,6.906422018,18.68,22.92,25.79,22.15,15.21,may,three
+Maharashtra,Ratnagiri,2001,Rice,85130,377173,4.430553271,28.4,22.74,21.56,29.22,27.58,may,four
+Maharashtra,Ratnagiri,2001,Rice,95812,200444,2.092055275,18.465,22.86,24.97,15.34,21.59,june,one 
+Maharashtra,Ratnagiri,2001,Rice,89013,552473,6.206655208,22.92,16.88,25.81,18.1,27.74,june,two 
+Maharashtra,Ratnagiri,2001,Rice,94429,705976,7.476262589,24.215,29.19,25.51,29.01,19.42,june,three
+Maharashtra,Ratnagiri,2001,Rice,63887,244284,3.8236887,26,23.8,22.17,26.34,25.66,june,four
+Maharashtra,Ratnagiri,2001,Rice,51362,291249,5.670515167,24.455,23.92,18.1,22.11,26.8,july,one 
+Maharashtra,Ratnagiri,2001,Rice,85277,495573,5.811332481,22.465,28.24,17.4,21.56,23.37,july,two 
+Maharashtra,Ratnagiri,2001,Rice,77303,674815,8.729480098,26.935,28.4,27.66,28.78,25.09,july,three
+Maharashtra,Ratnagiri,2001,Rice,65451,649667,9.926005714,20.36,17.11,27.9,24.6,16.12,july,four
+Maharashtra,Ratnagiri,2001,Rice,69496,346055,4.979495223,27.245,25.67,16.47,27.52,26.97,august,one 
+Maharashtra,Ratnagiri,2001,Rice,50870,457231,8.988224887,21.5,20.62,15.66,24.16,18.84,august,two 
+Maharashtra,Ratnagiri,2001,Rice,87645,311413,3.553117691,23.78,19.29,27.52,19.15,28.41,august,three
+Maharashtra,Ratnagiri,2001,Rice,98826,336830,3.408313602,21.85,28.5,20.1,28.26,15.44,august,four
+Maharashtra,Ratnagiri,2001,Rice,67421,286423,4.24827576,23.225,17.63,26.89,29.65,16.8,september,one 
+Maharashtra,Ratnagiri,2001,Rice,52284,576200,11.02057991,23.985,29.83,25.35,24.61,23.36,september,two 
+Maharashtra,Ratnagiri,2001,Rice,58441,408926,6.997245085,23.78,17.78,25.21,19.23,28.33,september,three
+Maharashtra,Ratnagiri,2001,Rice,85530,513313,6.00155501,25.32,26.75,22.23,21.02,29.62,september,four
+Maharashtra,Ratnagiri,2001,Rice,83775,971914,11.60148016,20.875,20.51,28.76,18.98,22.77,october,one 
+Maharashtra,Ratnagiri,2001,Rice,76775,401527,5.229918593,26.95,22.66,25.45,27.23,26.67,october,two 
+Maharashtra,Ratnagiri,2001,Rice,80493,722182,8.971985142,24.81,15.48,29.03,29.64,19.98,october,three
+Maharashtra,Ratnagiri,2001,Rice,59763,927436,15.518565,21.91,21.66,22.91,18.37,25.45,october,four
+Maharashtra,Ratnagiri,2001,Rice,67448,984371,14.59451726,24.315,19.76,25.6,20.59,28.04,november,one 
+Maharashtra,Ratnagiri,2001,Rice,74526,652781,8.759104205,21.2,17.03,27.38,22.93,19.47,november,two 
+Maharashtra,Ratnagiri,2001,Rice,75279,419711,5.575406156,22.365,19.81,21.47,29.46,15.27,november,three
+Maharashtra,Ratnagiri,2001,Rice,57719,859993,14.89965176,18.105,20.51,25.03,20.9,15.31,november,four
+Maharashtra,Ratnagiri,2001,Rice,91763,773778,8.432352909,28.045,21.79,24.5,26.33,29.76,december,one 
+Maharashtra,Ratnagiri,2001,Rice,65135,354237,5.438504644,18.495,19.35,17.49,18.29,18.7,december,two 
+Maharashtra,Ratnagiri,2001,Rice,78707,978977,12.43824565,25.41,21.64,25.52,21.78,29.04,december,three
+Maharashtra,Ratnagiri,2001,Rice,59097,479938,8.121190585,21.075,20.24,21.2,17.8,24.35,december,four
+Maharashtra,Ratnagiri,2002,Rice,77414,426123,5.504469476,25.735,26.8,22.95,25.54,25.93,january ,one 
+Maharashtra,Ratnagiri,2002,Rice,96820,487472,5.034827515,17.225,20.2,29.59,15.58,18.87,january ,two 
+Maharashtra,Ratnagiri,2002,Rice,68933,762098,11.05563373,26.31,16.71,27.08,23.63,28.99,january ,three
+Maharashtra,Ratnagiri,2002,Rice,93990,435700,4.635599532,23.26,18.56,19.33,17.65,28.87,january ,four
+Maharashtra,Ratnagiri,2002,Rice,66671,701142,10.51644643,23.83,27.19,29.27,28.09,19.57,february ,one 
+Maharashtra,Ratnagiri,2002,Rice,57553,386517,6.715844526,26.095,29.3,29.83,24.99,27.2,february ,two 
+Maharashtra,Ratnagiri,2002,Rice,69903,514598,7.361601076,23.275,23.45,21.47,25.45,21.1,february ,three
+Maharashtra,Ratnagiri,2002,Rice,85473,244565,2.861312929,25.04,29.28,19.1,28.79,21.29,february ,four
+Maharashtra,Ratnagiri,2002,Rice,61191,338579,5.5331503,23.74,15.11,20.87,23.55,23.93,march ,one 
+Maharashtra,Ratnagiri,2002,Rice,82869,730128,8.810628824,25.155,23.68,24.87,29.81,20.5,march ,two 
+Maharashtra,Ratnagiri,2002,Rice,85081,307898,3.618880831,23.76,20.66,23.15,22.66,24.86,march ,three
+Maharashtra,Ratnagiri,2002,Rice,75955,949785,12.50457508,19.19,17.49,16.12,17.96,20.42,march ,four
+Maharashtra,Ratnagiri,2002,Rice,57465,577345,10.04689811,22.695,28.33,16.1,18.17,27.22,april,one 
+Maharashtra,Ratnagiri,2002,Rice,50429,274180,5.436950961,24.42,16.32,28.62,23.94,24.9,april,two 
+Maharashtra,Ratnagiri,2002,Rice,71196,474546,6.665346368,26.895,23.39,22.01,29.66,24.13,april,three
+Maharashtra,Ratnagiri,2002,Rice,80822,716375,8.863613868,26.055,18.17,28.85,26.41,25.7,april,four
+Maharashtra,Ratnagiri,2002,Rice,68679,395563,5.759591724,22.955,26.68,29,22.98,22.93,may,one 
+Maharashtra,Ratnagiri,2002,Rice,80656,238684,2.959283872,22.42,27.91,20.69,19.48,25.36,may,two 
+Maharashtra,Ratnagiri,2002,Rice,99983,979755,9.799215867,22.535,17.24,27.58,19.25,25.82,may,three
+Maharashtra,Ratnagiri,2002,Rice,52848,216695,4.100344384,24.825,15.16,18.47,23.07,26.58,may,four
+Maharashtra,Ratnagiri,2002,Rice,59035,485148,8.217972389,20.47,24.79,16.09,25.72,15.22,june,one 
+Maharashtra,Ratnagiri,2002,Rice,71558,489276,6.837474496,22.82,23.87,22.94,19.37,26.27,june,two 
+Maharashtra,Ratnagiri,2002,Rice,88329,724765,8.205289316,26.725,26.54,18.09,23.55,29.9,june,three
+Maharashtra,Ratnagiri,2002,Rice,79291,619059,7.807430856,19.43,27.8,27.42,17,21.86,june,four
+Maharashtra,Ratnagiri,2002,Rice,94604,666200,7.04198554,25.22,18.64,24.04,23.16,27.28,july,one 
+Maharashtra,Ratnagiri,2002,Rice,71481,805152,11.26386033,23.645,28.78,20.1,21.23,26.06,july,two 
+Maharashtra,Ratnagiri,2002,Rice,89910,525811,5.848192637,27.9,19.39,20.83,27.64,28.16,july,three
+Maharashtra,Ratnagiri,2002,Rice,71091,423109,5.951653515,26.335,19.77,22.31,25.41,27.26,july,four
+Maharashtra,Ratnagiri,2002,Rice,59407,751333,12.64721329,27.24,24.66,16.31,25.34,29.14,august,one 
+Maharashtra,Ratnagiri,2002,Rice,86215,791809,9.184121093,28.69,28.12,19.68,28.97,28.41,august,two 
+Maharashtra,Ratnagiri,2002,Rice,66946,232203,3.468511935,24.905,27.06,16.71,23.59,26.22,august,three
+Maharashtra,Ratnagiri,2002,Rice,99187,258299,2.604161836,27.8,17.59,17.53,28.26,27.34,august,four
+Maharashtra,Ratnagiri,2002,Rice,64650,400510,6.195050271,23.87,16.5,19.43,27.45,20.29,september,one 
+Maharashtra,Ratnagiri,2002,Rice,74209,720322,9.706666307,26.15,23.99,20.07,27.53,24.77,september,two 
+Maharashtra,Ratnagiri,2002,Rice,52244,222501,4.258881403,24.94,21.83,18.28,28.55,21.33,september,three
+Maharashtra,Ratnagiri,2002,Rice,56108,579841,10.33437299,24.625,15.02,21.03,23.36,25.89,september,four
+Maharashtra,Ratnagiri,2002,Rice,59190,472828,7.988308836,20.78,23.56,22.14,21.5,20.06,october,one 
+Maharashtra,Ratnagiri,2002,Rice,56533,596226,10.54651266,20.395,20.61,29.43,21.78,19.01,october,two 
+Maharashtra,Ratnagiri,2002,Rice,83695,421626,5.037648605,25.715,22.63,25.15,24.33,27.1,october,three
+Maharashtra,Ratnagiri,2002,Rice,63329,436049,6.885455321,26.65,21.08,17.74,24.22,29.08,october,four
+Maharashtra,Ratnagiri,2002,Rice,61520,342136,5.561378414,25.52,23.88,28.25,22.83,28.21,november,one 
+Maharashtra,Ratnagiri,2002,Rice,62085,831146,13.38722719,23.445,27.18,29.36,23.88,23.01,november,two 
+Maharashtra,Ratnagiri,2002,Rice,63064,613806,9.733064823,22.32,22.39,19.5,19.03,25.61,november,three
+Maharashtra,Ratnagiri,2002,Rice,90065,884684,9.82272803,20.625,25.51,22.79,23.8,17.45,november,four
+Maharashtra,Ratnagiri,2002,Rice,57193,349275,6.106953648,22.98,18.44,15.3,26.48,19.48,december,one 
+Maharashtra,Ratnagiri,2002,Rice,74891,261548,3.492382262,23.945,27.47,29.15,27.52,20.37,december,two 
+Maharashtra,Ratnagiri,2002,Rice,78398,274459,3.500841858,19.635,17,22.07,17.31,21.96,december,three
+Maharashtra,Ratnagiri,2002,Rice,53933,466553,8.650603527,28.205,24.13,28.27,27.14,29.27,december,four
+Maharashtra,Ratnagiri,2003,Rice,61444,352789,5.741634659,18.435,29.85,17.8,19.26,17.61,january ,one 
+Maharashtra,Ratnagiri,2003,Rice,97916,354018,3.615527595,22.125,17.94,17.83,15.37,28.88,january ,two 
+Maharashtra,Ratnagiri,2003,Rice,97753,352128,3.602221927,24.5,23.73,18.15,23.83,25.17,january ,three
+Maharashtra,Ratnagiri,2003,Rice,91411,240119,2.626806402,22.155,25.61,20.19,18.29,26.02,january ,four
+Maharashtra,Ratnagiri,2003,Rice,90320,420944,4.660584588,22.75,16.71,21.07,22.55,22.95,february ,one 
+Maharashtra,Ratnagiri,2003,Rice,98252,983229,10.00721614,23.175,17.84,19.1,27.12,19.23,february ,two 
+Maharashtra,Ratnagiri,2003,Rice,98445,599748,6.092213927,18.025,22.92,29.54,19.15,16.9,february ,three
+Maharashtra,Ratnagiri,2003,Rice,94815,565727,5.9666403,22.765,18.39,24.83,26.46,19.07,february ,four
+Maharashtra,Ratnagiri,2003,Rice,57794,585968,10.13890715,24.24,25.81,16.45,26.11,22.37,march ,one 
+Maharashtra,Ratnagiri,2003,Rice,78974,757304,9.589282549,21.785,16.24,19.77,24.27,19.3,march ,two 
+Maharashtra,Ratnagiri,2003,Rice,72952,265166,3.634800965,26.46,26.12,25.57,28.31,24.61,march ,three
+Maharashtra,Ratnagiri,2003,Rice,80893,864034,10.68119615,22.015,23.33,17.53,18.77,25.26,march ,four
+Maharashtra,Ratnagiri,2003,Rice,65073,270790,4.16132651,21.985,24.2,17.9,20.63,23.34,april,one 
+Maharashtra,Ratnagiri,2003,Rice,77311,813671,10.5246472,20.975,18.74,20.09,20.48,21.47,april,two 
+Maharashtra,Ratnagiri,2003,Rice,97600,207861,2.129723361,19.96,24.61,25.23,20.65,19.27,april,three
+Maharashtra,Ratnagiri,2003,Rice,86114,838574,9.737952017,25.13,24.31,25.63,24.98,25.28,april,four
+Maharashtra,Ratnagiri,2003,Rice,70799,341005,4.816522832,16.88,19.98,17.22,18.09,15.67,may,one 
+Maharashtra,Ratnagiri,2003,Rice,53319,338634,6.351094357,26.5,19.86,20.88,28.53,24.47,may,two 
+Maharashtra,Ratnagiri,2003,Rice,71468,682676,9.55219119,25.61,16.43,18.8,24.43,26.79,may,three
+Maharashtra,Ratnagiri,2003,Rice,51925,731239,14.0825999,27.975,17.49,16.91,26.41,29.54,may,four
+Maharashtra,Ratnagiri,2003,Rice,90550,682193,7.533881833,25.845,27.2,18.31,27.63,24.06,june,one 
+Maharashtra,Ratnagiri,2003,Rice,77848,246451,3.165797451,22.17,26.72,29.02,26.25,18.09,june,two 
+Maharashtra,Ratnagiri,2003,Rice,89350,658739,7.372568551,25.595,15.07,22.7,23.26,27.93,june,three
+Maharashtra,Ratnagiri,2003,Rice,80324,631348,7.860016931,22.48,22.8,26.56,29.84,15.12,june,four
+Maharashtra,Ratnagiri,2003,Rice,93178,328280,3.523149241,23.485,18.37,22.25,17.43,29.54,july,one 
+Maharashtra,Ratnagiri,2003,Rice,86063,797751,9.269384056,25.915,21.34,17.45,27.36,24.47,july,two 
+Maharashtra,Ratnagiri,2003,Rice,72598,920430,12.67844844,27.275,26.83,18.78,25.61,28.94,july,three
+Maharashtra,Ratnagiri,2003,Rice,96975,963229,9.932755865,22.085,18.74,28.55,27.58,16.59,july,four
+Maharashtra,Ratnagiri,2003,Rice,96097,698769,7.271496509,23.3,28.82,23.09,19.46,27.14,august,one 
+Maharashtra,Ratnagiri,2003,Rice,70695,601323,8.50587736,28.075,22.8,18.54,29.92,26.23,august,two 
+Maharashtra,Ratnagiri,2003,Rice,68996,347057,5.030103194,22.14,29.12,28.68,27.76,16.52,august,three
+Maharashtra,Ratnagiri,2003,Rice,58132,603913,10.38864997,28.045,24.3,21.32,29.95,26.14,august,four
+Maharashtra,Ratnagiri,2003,Rice,75633,475986,6.293364008,24.16,29.56,16.2,26.11,22.21,september,one 
+Maharashtra,Ratnagiri,2003,Rice,88309,522740,5.919441959,23.885,21.5,26.13,21.68,26.09,september,two 
+Maharashtra,Ratnagiri,2003,Rice,69852,477376,6.834106396,21.92,28.52,26.91,16.13,27.71,september,three
+Maharashtra,Ratnagiri,2003,Rice,65109,842033,12.93266676,20.8,19.23,23.21,16.73,24.87,september,four
+Maharashtra,Ratnagiri,2003,Rice,59696,222784,3.731975342,26.52,29,16.49,25.8,27.24,october,one 
+Maharashtra,Ratnagiri,2003,Rice,79531,359878,4.525002829,25.525,21.46,17.07,24.05,27,october,two 
+Maharashtra,Ratnagiri,2003,Rice,66032,998014,15.1140962,19.315,19,28.25,20,18.63,october,three
+Maharashtra,Ratnagiri,2003,Rice,60889,869160,14.2744995,22.39,17.25,20.81,22.53,22.25,october,four
+Maharashtra,Ratnagiri,2003,Rice,85198,581217,6.821955914,24.915,27.55,19.13,23.75,26.08,november,one 
+Maharashtra,Ratnagiri,2003,Rice,68661,542691,7.903919255,28.025,26.27,25.44,29.39,26.66,november,two 
+Maharashtra,Ratnagiri,2003,Rice,87203,202594,2.32324576,23.42,27.78,16.8,21.72,25.12,november,three
+Maharashtra,Ratnagiri,2003,Rice,82878,381360,4.601462391,18.875,20.29,27.67,17.96,19.79,november,four
+Maharashtra,Ratnagiri,2003,Rice,63318,857320,13.53990966,23.14,17.42,18.54,16.88,29.4,december,one 
+Maharashtra,Ratnagiri,2003,Rice,50055,684920,13.68334832,19.595,22.11,16.62,16.94,22.25,december,two 
+Maharashtra,Ratnagiri,2003,Rice,80383,895509,11.14052723,23.655,17.53,26.78,25.98,21.33,december,three
+Maharashtra,Ratnagiri,2003,Rice,76806,357878,4.659505768,23.185,26.02,20.59,26.15,20.22,december,four
+Maharashtra,Ratnagiri,2004,Rice,67331,288116,4.279098781,28.525,22.29,23.45,28.88,28.17,january ,one 
+Maharashtra,Ratnagiri,2004,Rice,75227,710394,9.443338163,21.815,21.45,15.04,26.57,17.06,january ,two 
+Maharashtra,Ratnagiri,2004,Rice,60019,279222,4.652226795,25.55,29.05,29.87,21.64,29.46,january ,three
+Maharashtra,Ratnagiri,2004,Rice,84682,727071,8.58589783,22.295,28.87,23.31,16.2,28.39,january ,four
+Maharashtra,Ratnagiri,2004,Rice,75225,777748,10.33895646,22.205,22.58,21.69,25.9,18.51,february ,one 
+Maharashtra,Ratnagiri,2004,Rice,64814,860790,13.28092696,23.755,21.36,25.78,19.25,28.26,february ,two 
+Maharashtra,Ratnagiri,2004,Rice,63067,633601,10.04647438,25.73,24.04,19.34,28.9,22.56,february ,three
+Maharashtra,Ratnagiri,2004,Rice,85298,624806,7.324978311,17.2,20.41,23.45,15.56,18.84,february ,four
+Maharashtra,Ratnagiri,2004,Rice,73965,647138,8.749246265,27.185,20.04,25.05,28.74,25.63,march ,one 
+Maharashtra,Ratnagiri,2004,Rice,92982,910295,9.790013121,24.79,21.92,24.83,20.99,28.59,march ,two 
+Maharashtra,Ratnagiri,2004,Rice,66417,900452,13.55755304,26.635,15.22,23.79,29.15,24.12,march ,three
+Maharashtra,Ratnagiri,2004,Rice,58173,918470,15.78859608,21.9,15.11,19.3,28.52,15.28,march ,four
+Maharashtra,Ratnagiri,2004,Rice,88412,394661,4.463884993,17.105,15.56,24.78,16,18.21,april,one 
+Maharashtra,Ratnagiri,2004,Rice,55379,722601,13.04828545,18.665,28.42,29.2,16.26,21.07,april,two 
+Maharashtra,Ratnagiri,2004,Rice,93923,466004,4.961553613,22.865,18.57,20.4,24.56,21.17,april,three
+Maharashtra,Ratnagiri,2004,Rice,76022,767712,10.09855042,24.525,26.5,22.38,23.79,25.26,april,four
+Maharashtra,Ratnagiri,2004,Rice,61902,641439,10.36216924,19.81,25.03,19.05,17.16,22.46,may,one 
+Maharashtra,Ratnagiri,2004,Rice,82270,634842,7.7165674,16.815,18.65,18.69,16.57,17.06,may,two 
+Maharashtra,Ratnagiri,2004,Rice,83760,714645,8.532055874,27.105,24.12,27.71,26.27,27.94,may,three
+Maharashtra,Ratnagiri,2004,Rice,60337,947186,15.69826143,28.485,19.66,17.54,27.47,29.5,may,four
+Maharashtra,Ratnagiri,2004,Rice,71498,529438,7.404934404,21.02,26.25,26.23,24.66,17.38,june,one 
+Maharashtra,Ratnagiri,2004,Rice,72322,787153,10.88400487,25.35,16.64,22.29,27.92,22.78,june,two 
+Maharashtra,Ratnagiri,2004,Rice,73129,617862,8.448932708,17.82,26.01,22.58,19.41,16.23,june,three
+Maharashtra,Ratnagiri,2004,Rice,75559,626508,8.291639646,21.96,28.61,26.13,19.54,24.38,june,four
+Maharashtra,Ratnagiri,2004,Rice,66064,753916,11.41190361,24.035,19.77,29.89,29.28,18.79,july,one 
+Maharashtra,Ratnagiri,2004,Rice,97533,967564,9.920375668,18.23,15.11,17.18,16.85,19.61,july,two 
+Maharashtra,Ratnagiri,2004,Rice,82097,423607,5.159835317,28.465,28.75,27.42,27.4,29.53,july,three
+Maharashtra,Ratnagiri,2004,Rice,91380,687115,7.519314949,25.43,18.53,29.75,23.32,27.54,july,four
+Maharashtra,Ratnagiri,2004,Rice,90460,275795,3.048806102,28.025,25.09,27.61,29.87,26.18,august,one 
+Maharashtra,Ratnagiri,2004,Rice,71776,673330,9.38099086,20.92,17.17,24.07,15.22,26.62,august,two 
+Maharashtra,Ratnagiri,2004,Rice,94245,700700,7.434877182,20.695,26.86,23.12,19.55,21.84,august,three
+Maharashtra,Ratnagiri,2004,Rice,76979,924502,12.00979488,23.41,25.55,16.05,18.03,28.79,august,four
+Maharashtra,Ratnagiri,2004,Rice,98450,733070,7.446114779,18.765,24.88,18.3,20.22,17.31,september,one 
+Maharashtra,Ratnagiri,2004,Rice,76065,599147,7.876776441,22.165,15.31,25.42,16.16,28.17,september,two 
+Maharashtra,Ratnagiri,2004,Rice,68088,558755,8.206365292,26.905,21.7,17.51,28.93,24.88,september,three
+Maharashtra,Ratnagiri,2004,Rice,59752,437016,7.313830499,27.52,20.59,28.72,27.88,27.16,september,four
+Maharashtra,Ratnagiri,2004,Rice,62658,888188,14.17517316,23.72,27.29,23.77,29.48,17.96,october,one 
+Maharashtra,Ratnagiri,2004,Rice,56269,920317,16.35566653,23.18,19.58,27.41,26.35,20.01,october,two 
+Maharashtra,Ratnagiri,2004,Rice,51994,500412,9.624418202,21.14,22.34,25.38,17.19,25.09,october,three
+Maharashtra,Ratnagiri,2004,Rice,64971,953530,14.67624017,27.94,18.14,25.43,27.58,28.3,october,four
+Maharashtra,Ratnagiri,2004,Rice,95790,441034,4.604175801,23.81,29.12,16.78,22.35,25.27,november,one 
+Maharashtra,Ratnagiri,2004,Rice,76229,328759,4.312781225,22.665,23.75,27.36,28.49,16.84,november,two 
+Maharashtra,Ratnagiri,2004,Rice,94601,478199,5.054904282,23.515,29.05,27.51,17.76,29.27,november,three
+Maharashtra,Ratnagiri,2004,Rice,62993,562500,8.929563602,24.3,23.22,22.12,19.81,28.79,november,four
+Maharashtra,Ratnagiri,2004,Rice,98383,853446,8.67473039,18.235,20.83,27.8,18.84,17.63,december,one 
+Maharashtra,Ratnagiri,2004,Rice,92103,381253,4.139419997,22.835,18.38,25.53,15.87,29.8,december,two 
+Maharashtra,Ratnagiri,2004,Rice,95617,988661,10.33980359,27.14,25.88,19.15,26.23,28.05,december,three
+Maharashtra,Ratnagiri,2004,Rice,85327,608917,7.136275739,23.765,25.4,29.74,23.75,23.78,december,four
+Maharashtra,Ratnagiri,2005,Rice,59853,530545,8.864133794,21.38,21.53,15.46,18.39,24.37,january ,one 
+Maharashtra,Ratnagiri,2005,Rice,52045,358449,6.887289845,24.795,25.06,16.6,23.66,25.93,january ,two 
+Maharashtra,Ratnagiri,2005,Rice,73447,322466,4.390458426,22.6,26.77,22.42,27.21,17.99,january ,three
+Maharashtra,Ratnagiri,2005,Rice,90712,215248,2.372872387,24.49,18.24,15.89,19.01,29.97,january ,four
+Maharashtra,Ratnagiri,2005,Rice,63016,687074,10.90316745,24.525,20,28.26,28.16,20.89,february ,one 
+Maharashtra,Ratnagiri,2005,Rice,65453,661242,10.10254687,24.26,29.72,23.62,28.39,20.13,february ,two 
+Maharashtra,Ratnagiri,2005,Rice,69674,955212,13.7097339,28.37,26.94,22.43,29.97,26.77,february ,three
+Maharashtra,Ratnagiri,2005,Rice,80233,369777,4.608789401,22.835,28.76,22.87,19.01,26.66,february ,four
+Maharashtra,Ratnagiri,2005,Rice,80274,759426,9.460423051,24.485,16.4,28.68,22.61,26.36,march ,one 
+Maharashtra,Ratnagiri,2005,Rice,96073,278835,2.902324274,18.84,20.44,28.39,21.84,15.84,march ,two 
+Maharashtra,Ratnagiri,2005,Rice,85225,609237,7.148571429,25.63,29.26,23.87,22.99,28.27,march ,three
+Maharashtra,Ratnagiri,2005,Rice,73283,460029,6.277431328,25.98,18.89,17.41,22.67,29.29,march ,four
+Maharashtra,Ratnagiri,2005,Rice,85898,483309,5.626545438,17.195,26.02,17.6,16.94,17.45,april,one 
+Maharashtra,Ratnagiri,2005,Rice,55772,653765,11.7221007,20.945,18.43,17.25,20.7,21.19,april,two 
+Maharashtra,Ratnagiri,2005,Rice,53983,662547,12.27325269,18.655,22.05,17.35,15.75,21.56,april,three
+Maharashtra,Ratnagiri,2005,Rice,57426,865908,15.07867516,22.63,19.28,24.88,16.51,28.75,april,four
+Maharashtra,Ratnagiri,2005,Rice,73470,813722,11.07556826,24.79,27.2,20.91,20.16,29.42,may,one 
+Maharashtra,Ratnagiri,2005,Rice,94427,866136,9.172545988,22.205,24.94,17.14,25.45,18.96,may,two 
+Maharashtra,Ratnagiri,2005,Rice,52648,504205,9.576907005,27.105,24.86,19.26,28.68,25.53,may,three
+Maharashtra,Ratnagiri,2005,Rice,84248,914971,10.86044773,26.02,18.84,17.2,24.62,27.42,may,four
+Maharashtra,Ratnagiri,2005,Rice,98598,533689,5.412777135,17.055,27.46,29.79,17.63,16.48,june,one 
+Maharashtra,Ratnagiri,2005,Rice,67198,311628,4.637459448,21.1,21.6,17.02,27.01,15.19,june,two 
+Maharashtra,Ratnagiri,2005,Rice,75160,713123,9.48806546,25.335,19.2,18.56,24.05,26.62,june,three
+Maharashtra,Ratnagiri,2005,Rice,69521,621829,8.944477208,23.025,29.25,24.66,29.5,16.55,june,four
+Maharashtra,Ratnagiri,2005,Rice,74971,445882,5.947392992,25.965,17.57,24.53,24.11,27.82,july,one 
+Maharashtra,Ratnagiri,2005,Rice,63340,422804,6.675149984,22.88,22.01,28.42,26.23,19.53,july,two 
+Maharashtra,Ratnagiri,2005,Rice,75550,771147,10.20710788,24.555,15.92,29.09,25.51,23.6,july,three
+Maharashtra,Ratnagiri,2005,Rice,85170,339090,3.981331455,18.275,23.22,23.25,19.74,16.81,july,four
+Maharashtra,Ratnagiri,2005,Rice,82288,448830,5.454379739,22.755,20.53,16.55,16.36,29.15,august,one 
+Maharashtra,Ratnagiri,2005,Rice,74234,518155,6.980022631,20.7,15.59,21.23,16.46,24.94,august,two 
+Maharashtra,Ratnagiri,2005,Rice,53042,719284,13.56065005,21.04,20.53,23.66,27.04,15.04,august,three
+Maharashtra,Ratnagiri,2005,Rice,88014,642050,7.294862181,24.17,16.02,21.74,20.02,28.32,august,four
+Maharashtra,Ratnagiri,2005,Rice,51907,397126,7.650721483,19.96,23.4,28.05,15.94,23.98,september,one 
+Maharashtra,Ratnagiri,2005,Rice,80208,734345,9.155508179,19.755,18.95,28.32,23.3,16.21,september,two 
+Maharashtra,Ratnagiri,2005,Rice,85230,526522,6.177660448,26.51,20.48,25.36,26.02,27,september,three
+Maharashtra,Ratnagiri,2005,Rice,97186,242455,2.494752331,24.225,22.79,15.73,20.27,28.18,september,four
+Maharashtra,Ratnagiri,2005,Rice,79634,942514,11.83557275,23.08,26.4,15.35,21.05,25.11,october,one 
+Maharashtra,Ratnagiri,2005,Rice,79520,202271,2.543649396,17.795,28.32,15.96,15.9,19.69,october,two 
+Maharashtra,Ratnagiri,2005,Rice,84176,422553,5.019875024,16.245,28.33,17.42,15.4,17.09,october,three
+Maharashtra,Ratnagiri,2005,Rice,86248,365779,4.241014284,25.97,17.45,20.79,27.91,24.03,october,four
+Maharashtra,Ratnagiri,2005,Rice,91120,402160,4.413520632,18.975,26.05,28.09,19.9,18.05,november,one 
+Maharashtra,Ratnagiri,2005,Rice,68071,429443,6.308751157,20.71,25.05,24.6,26.17,15.25,november,two 
+Maharashtra,Ratnagiri,2005,Rice,71083,648267,9.119859882,26.575,25.05,15.93,27.67,25.48,november,three
+Maharashtra,Ratnagiri,2005,Rice,75571,658479,8.713382117,25.635,20.93,18.98,22.6,28.67,november,four
+Maharashtra,Ratnagiri,2005,Rice,96970,204486,2.108755285,25.3,21.41,15.6,27.85,22.75,december,one 
+Maharashtra,Ratnagiri,2005,Rice,73130,947829,12.96087789,23.29,23.8,22.95,29.04,17.54,december,two 
+Maharashtra,Ratnagiri,2005,Rice,91290,691906,7.579209114,24.45,19.13,22.47,29.01,19.89,december,three
+Maharashtra,Ratnagiri,2005,Rice,80403,636768,7.919704489,27.855,23.74,29.48,29.78,25.93,december,four
+Maharashtra,Ratnagiri,2006,Rice,50569,294991,5.833435504,17.32,16.94,29.17,17.93,16.71,january ,one 
+Maharashtra,Ratnagiri,2006,Rice,60408,572826,9.482618196,27.35,22.09,23.38,28.39,26.31,january ,two 
+Maharashtra,Ratnagiri,2006,Rice,85372,896068,10.49604086,19.765,27.57,22.79,18.56,20.97,january ,three
+Maharashtra,Ratnagiri,2006,Rice,74651,634232,8.495961206,24.455,16.95,21.77,22.67,26.24,january ,four
+Maharashtra,Ratnagiri,2006,Rice,56984,810923,14.23071388,22.605,22.72,17.3,24.49,20.72,february ,one 
+Maharashtra,Ratnagiri,2006,Rice,85888,213326,2.48376956,24.16,18.2,17.13,29.77,18.55,february ,two 
+Maharashtra,Ratnagiri,2006,Rice,66622,602120,9.037855363,24.45,23.3,28.52,21.78,27.12,february ,three
+Maharashtra,Ratnagiri,2006,Rice,51461,263898,5.128116438,25.56,24.18,17.85,29.89,21.23,february ,four
+Maharashtra,Ratnagiri,2006,Rice,65969,356354,5.401840258,19.365,22.64,27.77,19.43,19.3,march ,one 
+Maharashtra,Ratnagiri,2006,Rice,63430,569135,8.972647012,25.095,19.42,27.17,20.71,29.48,march ,two 
+Maharashtra,Ratnagiri,2006,Rice,93665,319572,3.411861421,17.155,22.56,15.19,15.43,18.88,march ,three
+Maharashtra,Ratnagiri,2006,Rice,62110,921349,14.83414909,20.82,16.56,20.54,15.37,26.27,march ,four
+Maharashtra,Ratnagiri,2006,Rice,78915,738759,9.361452195,27.585,26.55,18.95,29.19,25.98,april,one 
+Maharashtra,Ratnagiri,2006,Rice,89873,729181,8.113460105,16.84,23.76,15.59,15.36,18.32,april,two 
+Maharashtra,Ratnagiri,2006,Rice,69040,889156,12.87885284,23.15,28.98,20.71,23.78,22.52,april,three
+Maharashtra,Ratnagiri,2006,Rice,69228,896414,12.94872017,20.57,24.12,16.47,22.02,19.12,april,four
+Maharashtra,Ratnagiri,2006,Rice,63199,450853,7.133862878,26.75,19.08,18.71,24.19,29.31,may,one 
+Maharashtra,Ratnagiri,2006,Rice,78923,454271,5.75587598,27.705,18.31,16.36,29.62,25.79,may,two 
+Maharashtra,Ratnagiri,2006,Rice,63302,579276,9.15099049,26.525,15.05,24.02,29.83,23.22,may,three
+Maharashtra,Ratnagiri,2006,Rice,73531,968552,13.17202268,27.355,17.59,24.32,25.36,29.35,may,four
+Maharashtra,Ratnagiri,2006,Rice,54052,759573,14.0526345,18.215,22.86,15.87,19.47,16.96,june,one 
+Maharashtra,Ratnagiri,2006,Rice,78800,522458,6.630177665,29.575,17.05,19.89,29.98,29.17,june,two 
+Maharashtra,Ratnagiri,2006,Rice,73635,702124,9.535193862,27.84,29.8,18.24,29.02,26.66,june,three
+Maharashtra,Ratnagiri,2006,Rice,57639,559356,9.704470931,15.065,17.48,18.49,15.06,15.07,june,four
+Maharashtra,Ratnagiri,2006,Rice,71419,389323,5.451252468,23.42,18.64,21.52,18.65,28.19,july,one 
+Maharashtra,Ratnagiri,2006,Rice,58792,672088,11.43162335,26.705,16.8,16.86,26.05,27.36,july,two 
+Maharashtra,Ratnagiri,2006,Rice,61528,429149,6.974856976,22.6,28.88,21.1,28.43,16.77,july,three
+Maharashtra,Ratnagiri,2006,Rice,77901,437486,5.615922774,26.76,24.65,16.33,25.55,27.97,july,four
+Maharashtra,Ratnagiri,2006,Rice,80771,756656,9.367916703,20.995,20.42,18.14,21.16,20.83,august,one 
+Maharashtra,Ratnagiri,2006,Rice,60632,509042,8.395599683,26.06,19.54,15.15,27.83,24.29,august,two 
+Maharashtra,Ratnagiri,2006,Rice,82762,793673,9.589823832,19.205,23.14,23.94,16.67,21.74,august,three
+Maharashtra,Ratnagiri,2006,Rice,62397,259995,4.166786865,21.225,29.97,22.63,16.31,26.14,august,four
+Maharashtra,Ratnagiri,2006,Rice,58799,778695,13.24333747,26.175,29.31,20.6,23.5,28.85,september,one 
+Maharashtra,Ratnagiri,2006,Rice,90662,724820,7.99474973,21.24,25.06,27.86,17.44,25.04,september,two 
+Maharashtra,Ratnagiri,2006,Rice,88563,297910,3.363820105,20.51,25.72,28.65,16.03,24.99,september,three
+Maharashtra,Ratnagiri,2006,Rice,57469,890275,15.49139536,23.08,23.04,24.43,28.59,17.57,september,four
+Maharashtra,Ratnagiri,2006,Rice,86207,566228,6.568236918,24,22.04,24.17,23.2,24.8,october,one 
+Maharashtra,Ratnagiri,2006,Rice,65543,410936,6.269716064,24.175,23.63,25.37,28.12,20.23,october,two 
+Maharashtra,Ratnagiri,2006,Rice,85014,533276,6.272802127,25.24,23.01,26.22,28.43,22.05,october,three
+Maharashtra,Ratnagiri,2006,Rice,91342,725302,7.940509295,24.14,20.29,22.95,27.23,21.05,october,four
+Maharashtra,Ratnagiri,2006,Rice,97093,233224,2.40206812,23.33,17.81,21.13,21.2,25.46,november,one 
+Maharashtra,Ratnagiri,2006,Rice,61001,640184,10.49464763,24.01,25.6,27.62,23.86,24.16,november,two 
+Maharashtra,Ratnagiri,2006,Rice,51855,582873,11.24043969,21.735,16.99,20.97,15.92,27.55,november,three
+Maharashtra,Ratnagiri,2006,Rice,74869,289123,3.861718468,22.735,15.69,17.56,20.26,25.21,november,four
+Maharashtra,Ratnagiri,2006,Rice,83902,652997,7.782853806,27.085,29.32,18.02,29.71,24.46,december,one 
+Maharashtra,Ratnagiri,2006,Rice,84102,262679,3.123338327,21.035,16.56,15.96,18.45,23.62,december,two 
+Maharashtra,Ratnagiri,2006,Rice,64653,591004,9.14116901,24.265,26.04,20.8,23.66,24.87,december,three
+Maharashtra,Ratnagiri,2006,Rice,61881,810649,13.10012766,21.125,27.33,23.45,18.82,23.43,december,four
+Maharashtra,Ratnagiri,2007,Rice,59330,502231,8.46504298,19.52,22.86,28.43,16.69,22.35,january ,one 
+Maharashtra,Ratnagiri,2007,Rice,67614,717840,10.61673618,22.985,16.53,17.82,29.45,16.52,january ,two 
+Maharashtra,Ratnagiri,2007,Rice,83108,683466,8.223829234,19.435,18.98,22.33,21.78,17.09,january ,three
+Maharashtra,Ratnagiri,2007,Rice,81557,210873,2.585590446,18.005,28.65,24.26,20.42,15.59,january ,four
+Maharashtra,Ratnagiri,2007,Rice,83380,679605,8.15069561,19.75,18.1,23.11,21.8,17.7,february ,one 
+Maharashtra,Ratnagiri,2007,Rice,56075,523433,9.334516273,23.99,22.44,23.25,25.88,22.1,february ,two 
+Maharashtra,Ratnagiri,2007,Rice,94192,591379,6.278441906,25.83,28.73,26.87,29.64,22.02,february ,three
+Maharashtra,Ratnagiri,2007,Rice,98992,555778,5.614372879,23.82,27.01,28.19,28.68,18.96,february ,four
+Maharashtra,Ratnagiri,2007,Rice,74702,670873,8.980656475,24.25,21.44,22.35,23.53,24.97,march ,one 
+Maharashtra,Ratnagiri,2007,Rice,89082,260162,2.920477762,24.855,24.9,29.7,21.02,28.69,march ,two 
+Maharashtra,Ratnagiri,2007,Rice,93422,298154,3.191475241,22.72,27.13,21.48,27.71,17.73,march ,three
+Maharashtra,Ratnagiri,2007,Rice,70527,883053,12.52077928,20.62,15.06,18.55,23.38,17.86,march ,four
+Maharashtra,Ratnagiri,2007,Rice,72794,557131,7.653529137,22.92,27.2,29.69,25.56,20.28,april,one 
+Maharashtra,Ratnagiri,2007,Rice,60626,430999,7.109144591,15.685,15.2,25.77,15.77,15.6,april,two 
+Maharashtra,Ratnagiri,2007,Rice,77192,687403,8.905106747,22.12,28.07,28.01,17.72,26.52,april,three
+Maharashtra,Ratnagiri,2007,Rice,65366,404386,6.186488388,19.875,25.26,26.94,23.16,16.59,april,four
+Maharashtra,Ratnagiri,2007,Rice,54887,869842,15.84786926,26.765,20.04,18.62,28.84,24.69,may,one 
+Maharashtra,Ratnagiri,2007,Rice,62895,891568,14.17549885,25.48,21.17,21.72,22.36,28.6,may,two 
+Maharashtra,Ratnagiri,2007,Rice,86424,317374,3.672290105,23.98,23.7,26.15,23.84,24.12,may,three
+Maharashtra,Ratnagiri,2007,Rice,60115,923759,15.36653082,18.87,24.97,27.3,19.55,18.19,may,four
+Maharashtra,Ratnagiri,2007,Rice,54362,900134,16.55814724,22.635,24.73,18.87,18.92,26.35,june,one 
+Maharashtra,Ratnagiri,2007,Rice,77580,813961,10.49189224,24.83,28.66,20.37,22.86,26.8,june,two 
+Maharashtra,Ratnagiri,2007,Rice,78837,371909,4.717442318,19.205,16.85,24.73,18.87,19.54,june,three
+Maharashtra,Ratnagiri,2007,Rice,63558,816861,12.85221373,22.435,27.48,26.44,26.06,18.81,june,four
+Maharashtra,Ratnagiri,2007,Rice,94828,969572,10.22453284,19.775,16.51,20.69,22.95,16.6,july,one 
+Maharashtra,Ratnagiri,2007,Rice,80899,632334,7.816338892,18.655,21.93,18.34,15.78,21.53,july,two 
+Maharashtra,Ratnagiri,2007,Rice,67246,629468,9.360675728,26.79,20.58,28.27,26.24,27.34,july,three
+Maharashtra,Ratnagiri,2007,Rice,60983,514079,8.429873899,20.3,29.71,25.95,17.32,23.28,july,four
+Maharashtra,Ratnagiri,2007,Rice,57519,704252,12.24381509,19.41,18.72,23.76,15.51,23.31,august,one 
+Maharashtra,Ratnagiri,2007,Rice,83107,703353,8.463222111,21.605,15.14,18.46,16.09,27.12,august,two 
+Maharashtra,Ratnagiri,2007,Rice,83637,743180,8.885780217,25.395,22.35,22.54,26.85,23.94,august,three
+Maharashtra,Ratnagiri,2007,Rice,55580,396048,7.125728679,23.345,18.87,29.88,19.31,27.38,august,four
+Maharashtra,Ratnagiri,2007,Rice,87565,637501,7.280317478,21.32,21.85,27.07,16.97,25.67,september,one 
+Maharashtra,Ratnagiri,2007,Rice,51861,453198,8.738705386,22.145,15.5,22.33,21.41,22.88,september,two 
+Maharashtra,Ratnagiri,2007,Rice,63907,831725,13.01461499,21.96,25.72,17.37,24.24,19.68,september,three
+Maharashtra,Ratnagiri,2007,Rice,89748,866317,9.652772207,19.13,19.87,24,22.17,16.09,september,four
+Maharashtra,Ratnagiri,2007,Rice,69693,403860,5.794843098,27.44,20.5,26.34,28.82,26.06,october,one 
+Maharashtra,Ratnagiri,2007,Rice,90580,869201,9.595948333,21.025,15.86,21.69,19.88,22.17,october,two 
+Maharashtra,Ratnagiri,2007,Rice,63842,745719,11.68069609,23.61,29.4,29.41,29.97,17.25,october,three
+Maharashtra,Ratnagiri,2007,Rice,64566,736477,11.40657622,25.895,25.13,21.34,29.6,22.19,october,four
+Maharashtra,Ratnagiri,2007,Rice,56032,537691,9.596141491,21.945,16.19,24.27,27.23,16.66,november,one 
+Maharashtra,Ratnagiri,2007,Rice,63852,596304,9.338846082,24.545,21.29,20,20.05,29.04,november,two 
+Maharashtra,Ratnagiri,2007,Rice,85172,610162,7.163880148,24.215,24.68,27.59,19.86,28.57,november,three
+Maharashtra,Ratnagiri,2007,Rice,93650,337701,3.60599039,28.545,25.8,29.44,29.96,27.13,november,four
+Maharashtra,Ratnagiri,2007,Rice,71398,246684,3.455054763,21.38,20.6,25.13,22.72,20.04,december,one 
+Maharashtra,Ratnagiri,2007,Rice,72344,460885,6.370742563,21.125,23.44,28.42,15.84,26.41,december,two 
+Maharashtra,Ratnagiri,2007,Rice,83197,400749,4.816868397,27.61,23.05,28.93,28.09,27.13,december,three
+Maharashtra,Ratnagiri,2007,Rice,83577,828983,9.918793448,26.885,23.52,20.79,29.09,24.68,december,four
+Maharashtra,Ratnagiri,2008,Rice,64002,744182,11.62748039,20.445,27.62,26.23,19.63,21.26,january ,one 
+Maharashtra,Ratnagiri,2008,Rice,97695,977135,10.00189365,27.335,25.25,16.76,27.51,27.16,january ,two 
+Maharashtra,Ratnagiri,2008,Rice,64855,442606,6.824547067,23.28,22.64,17.39,19.87,26.69,january ,three
+Maharashtra,Ratnagiri,2008,Rice,93148,202352,2.172370851,19.6,15.54,25.76,18.07,21.13,january ,four
+Maharashtra,Ratnagiri,2008,Rice,73271,348120,4.751129369,23.615,25.65,22.68,22.05,25.18,february ,one 
+Maharashtra,Ratnagiri,2008,Rice,93876,585436,6.236269121,28.935,15.72,18.58,29.25,28.62,february ,two 
+Maharashtra,Ratnagiri,2008,Rice,93362,391865,4.197264412,26.195,19.7,18.86,26.29,26.1,february ,three
+Maharashtra,Ratnagiri,2008,Rice,87077,930532,10.68631211,20.67,19.97,16.48,17.3,24.04,february ,four
+Maharashtra,Ratnagiri,2008,Rice,84744,770337,9.090165675,22.385,29.33,19.77,26.09,18.68,march ,one 
+Maharashtra,Ratnagiri,2008,Rice,99848,566641,5.675036055,23.67,17.47,28.81,20.92,26.42,march ,two 
+Maharashtra,Ratnagiri,2008,Rice,63724,828448,13.00056494,26.985,15.36,22.53,27.54,26.43,march ,three
+Maharashtra,Ratnagiri,2008,Rice,70060,220656,3.149528975,18.77,26.66,21.57,18.08,19.46,march ,four
+Maharashtra,Ratnagiri,2008,Rice,64660,393688,6.088586452,23.585,24.1,27.8,23.69,23.48,april,one 
+Maharashtra,Ratnagiri,2008,Rice,56817,646005,11.36992449,22.105,29.14,24.92,19.34,24.87,april,two 
+Maharashtra,Ratnagiri,2008,Rice,83065,208888,2.514753506,24.87,19.91,18.86,26.68,23.06,april,three
+Maharashtra,Ratnagiri,2008,Rice,59763,453561,7.589327845,28.01,19.08,23.29,27.81,28.21,april,four
+Maharashtra,Ratnagiri,2008,Rice,58066,308163,5.30711604,25.85,24.75,25.79,27.11,24.59,may,one 
+Maharashtra,Ratnagiri,2008,Rice,55852,329325,5.89638688,17.045,15.7,22.02,15.03,19.06,may,two 
+Maharashtra,Ratnagiri,2008,Rice,93351,558722,5.985174235,16.87,22.09,20.35,15.75,17.99,may,three
+Maharashtra,Ratnagiri,2008,Rice,70570,571438,8.097463511,24.995,25.1,16.85,23.26,26.73,may,four
+Maharashtra,Ratnagiri,2008,Rice,54292,346256,6.377661534,19.33,23.79,22.16,23.33,15.33,june,one 
+Maharashtra,Ratnagiri,2008,Rice,86657,840227,9.696008401,27.415,24.91,24.06,26.84,27.99,june,two 
+Maharashtra,Ratnagiri,2008,Rice,75307,773801,10.27528649,20.755,26.6,29.58,16.83,24.68,june,three
+Maharashtra,Ratnagiri,2008,Rice,87505,388658,4.441551911,25.495,23.27,24.31,28.53,22.46,june,four
+Maharashtra,Ratnagiri,2008,Rice,62978,848279,13.46944965,23.91,19.36,21.84,24.7,23.12,july,one 
+Maharashtra,Ratnagiri,2008,Rice,83949,618812,7.371284947,18.105,19.31,26.15,21.15,15.06,july,two 
+Maharashtra,Ratnagiri,2008,Rice,98684,211033,2.138472295,21.45,22.74,25.88,27.48,15.42,july,three
+Maharashtra,Ratnagiri,2008,Rice,64637,996970,15.42413788,18.35,18.9,20.74,17.91,18.79,july,four
+Maharashtra,Ratnagiri,2008,Rice,51818,973775,18.79221506,18.155,15.96,27.58,16.73,19.58,august,one 
+Maharashtra,Ratnagiri,2008,Rice,97746,366403,3.748521679,17.81,17.3,17.09,18.84,16.78,august,two 
+Maharashtra,Ratnagiri,2008,Rice,98479,328848,3.339270301,22.01,28.16,26.23,17.46,26.56,august,three
+Maharashtra,Ratnagiri,2008,Rice,52421,614596,11.72423265,19.05,27.58,28.43,16.83,21.27,august,four
+Maharashtra,Ratnagiri,2008,Rice,67265,407974,6.065175054,21.555,21.4,18.39,24.57,18.54,september,one 
+Maharashtra,Ratnagiri,2008,Rice,99440,793424,7.978921963,15.76,29.25,25.57,15.95,15.57,september,two 
+Maharashtra,Ratnagiri,2008,Rice,64948,755085,11.6259931,20.4,24.92,29.88,22.86,17.94,september,three
+Maharashtra,Ratnagiri,2008,Rice,94071,672235,7.14603863,20.795,20.82,23.59,17.36,24.23,september,four
+Maharashtra,Ratnagiri,2008,Rice,93065,966287,10.38292591,24.13,24.25,15.38,21.63,26.63,october,one 
+Maharashtra,Ratnagiri,2008,Rice,54734,830893,15.18056418,16.785,22.62,29.86,17.29,16.28,october,two 
+Maharashtra,Ratnagiri,2008,Rice,69186,624915,9.032390946,18.94,20.17,24.7,22.71,15.17,october,three
+Maharashtra,Ratnagiri,2008,Rice,57389,532137,9.272456394,20.06,27.53,27.7,15.49,24.63,october,four
+Maharashtra,Ratnagiri,2008,Rice,84604,576041,6.808673349,26.25,22.62,20.79,25.15,27.35,november,one 
+Maharashtra,Ratnagiri,2008,Rice,95236,302770,3.179154941,24.97,24.41,20.87,28.58,21.36,november,two 
+Maharashtra,Ratnagiri,2008,Rice,55231,339893,6.154025819,25.05,17.15,24.46,21.97,28.13,november,three
+Maharashtra,Ratnagiri,2008,Rice,52637,696093,13.22440489,22.545,17.19,20.28,21.25,23.84,november,four
+Maharashtra,Ratnagiri,2008,Rice,57962,778366,13.42890169,22.355,20.36,16.83,18.37,26.34,december,one 
+Maharashtra,Ratnagiri,2008,Rice,58280,759487,13.03169183,21.195,18.51,24.98,18.41,23.98,december,two 
+Maharashtra,Ratnagiri,2008,Rice,84061,905096,10.76713339,22.725,25.53,24.73,26,19.45,december,three
+Maharashtra,Ratnagiri,2008,Rice,61783,474952,7.687422106,19.71,27.91,21.49,15.1,24.32,december,four
+Maharashtra,Ratnagiri,2009,Rice,84056,720602,8.572879985,24.735,29.19,29.32,28.06,21.41,january ,one 
+Maharashtra,Ratnagiri,2009,Rice,67700,871187,12.86834564,26.225,23.07,18.62,23.77,28.68,january ,two 
+Maharashtra,Ratnagiri,2009,Rice,80236,421148,5.248865846,22.92,17.18,20.21,25.23,20.61,january ,three
+Maharashtra,Ratnagiri,2009,Rice,95766,753751,7.870757889,24.56,21.92,20.07,26.3,22.82,january ,four
+Maharashtra,Ratnagiri,2009,Rice,94919,500139,5.269113665,20.48,18.59,15.6,18.34,22.62,february ,one 
+Maharashtra,Ratnagiri,2009,Rice,65306,521680,7.988239978,21.505,20.16,29.81,25.26,17.75,february ,two 
+Maharashtra,Ratnagiri,2009,Rice,68250,379025,5.553479853,21.295,22.48,21.46,19.86,22.73,february ,three
+Maharashtra,Ratnagiri,2009,Rice,92895,812490,8.746326498,23.54,24.74,26.03,29.5,17.58,february ,four
+Maharashtra,Ratnagiri,2009,Rice,60134,409546,6.810556424,21.87,16.3,21.65,26.02,17.72,march ,one 
+Maharashtra,Ratnagiri,2009,Rice,74942,408079,5.445264338,17.01,29.28,15.17,15.54,18.48,march ,two 
+Maharashtra,Ratnagiri,2009,Rice,88338,297406,3.366682515,22.985,16.55,26.18,28.04,17.93,march ,three
+Maharashtra,Ratnagiri,2009,Rice,91310,522892,5.72655788,19.04,23.48,23.34,18.74,19.34,march ,four
+Maharashtra,Ratnagiri,2009,Rice,52525,719988,13.70752975,18.425,26.48,17.47,21.66,15.19,april,one 
+Maharashtra,Ratnagiri,2009,Rice,56732,253999,4.477173377,24.165,23.78,15.79,25.85,22.48,april,two 
+Maharashtra,Ratnagiri,2009,Rice,79731,519323,6.513438938,22.455,29.95,25.1,28.37,16.54,april,three
+Maharashtra,Ratnagiri,2009,Rice,91617,858424,9.36970213,20.765,25.83,27.96,22.95,18.58,april,four
+Maharashtra,Ratnagiri,2009,Rice,62383,389255,6.239760832,24.53,26.04,18.54,28.42,20.64,may,one 
+Maharashtra,Ratnagiri,2009,Rice,92468,754581,8.160455509,24.61,26.84,27.19,23.63,25.59,may,two 
+Maharashtra,Ratnagiri,2009,Rice,99459,352098,3.540132115,17.835,23.15,19.54,17.91,17.76,may,three
+Maharashtra,Ratnagiri,2009,Rice,54372,317607,5.841370558,22.14,16.13,18.15,18.01,26.27,may,four
+Maharashtra,Ratnagiri,2009,Rice,84732,276012,3.257470613,27.39,29.01,16.62,25.03,29.75,june,one 
+Maharashtra,Ratnagiri,2009,Rice,94902,948457,9.994067564,25.225,23.29,22.66,21.66,28.79,june,two 
+Maharashtra,Ratnagiri,2009,Rice,95667,715447,7.478514012,20.85,24.62,25.97,18.19,23.51,june,three
+Maharashtra,Ratnagiri,2009,Rice,84090,443830,5.278035438,26.31,19.22,19.43,22.71,29.91,june,four
+Maharashtra,Ratnagiri,2009,Rice,79110,642489,8.121463785,18.51,22.15,27.99,15.12,21.9,july,one 
+Maharashtra,Ratnagiri,2009,Rice,88865,796749,8.965835818,23.36,20.09,15.11,24.8,21.92,july,two 
+Maharashtra,Ratnagiri,2009,Rice,50682,679525,13.40762006,26.015,27.27,20.75,27.22,24.81,july,three
+Maharashtra,Ratnagiri,2009,Rice,75244,252248,3.352400191,25.375,28.55,21.24,21.51,29.24,july,four
+Maharashtra,Ratnagiri,2009,Rice,78103,922184,11.80728013,23.795,22.54,18.63,20.53,27.06,august,one 
+Maharashtra,Ratnagiri,2009,Rice,59113,970541,16.41840204,20.55,22.55,27.76,18.27,22.83,august,two 
+Maharashtra,Ratnagiri,2009,Rice,82083,783173,9.541232655,23.585,15.16,28.86,28.26,18.91,august,three
+Maharashtra,Ratnagiri,2009,Rice,63671,698599,10.97201238,22.06,15.45,17.56,16.43,27.69,august,four
+Maharashtra,Ratnagiri,2009,Rice,79000,474313,6.003962025,25.19,16.05,17.64,27.52,22.86,september,one 
+Maharashtra,Ratnagiri,2009,Rice,58744,469822,7.997787008,21.59,15.52,26.47,19.68,23.5,september,two 
+Maharashtra,Ratnagiri,2009,Rice,70785,989983,13.98577382,26.395,23.93,26.88,29.21,23.58,september,three
+Maharashtra,Ratnagiri,2009,Rice,84894,846089,9.966416943,22.745,18.8,16,20.21,25.28,september,four
+Maharashtra,Ratnagiri,2009,Rice,76702,792358,10.33034341,24.875,16.42,28.11,20.2,29.55,october,one 
+Maharashtra,Ratnagiri,2009,Rice,50108,728994,14.54845534,24.655,16.02,15.17,22.87,26.44,october,two 
+Maharashtra,Ratnagiri,2009,Rice,65968,341319,5.17400861,18.78,29.21,15.15,22.31,15.25,october,three
+Maharashtra,Ratnagiri,2009,Rice,81580,612464,7.507526354,26.17,27.76,19.8,28.96,23.38,october,four
+Maharashtra,Ratnagiri,2009,Rice,71995,508878,7.06824085,16.97,24.52,19.53,15.23,18.71,november,one 
+Maharashtra,Ratnagiri,2009,Rice,92783,976643,10.52609853,24.985,26.71,23.68,21.76,28.21,november,two 
+Maharashtra,Ratnagiri,2009,Rice,76497,597322,7.808436932,17.12,23.23,26.95,17,17.24,november,three
+Maharashtra,Ratnagiri,2009,Rice,92356,975411,10.56142535,25.89,17.09,19.04,27.88,23.9,november,four
+Maharashtra,Ratnagiri,2009,Rice,51031,257929,5.054359115,21.805,21.91,29.28,25.04,18.57,december,one 
+Maharashtra,Ratnagiri,2009,Rice,94256,503992,5.347054829,21.72,22.99,16.23,16.34,27.1,december,two 
+Maharashtra,Ratnagiri,2009,Rice,56424,844670,14.97004821,28.585,17.15,16.44,29.26,27.91,december,three
+Maharashtra,Ratnagiri,2009,Rice,79364,770762,9.71173328,21.91,22.24,24.33,27.31,16.51,december,four
+Maharashtra,Ratnagiri,2010,Rice,98355,365781,3.718987342,27.2,28.62,18.15,27.77,26.63,january ,one 
+Maharashtra,Ratnagiri,2010,Rice,96794,684297,7.069622084,21.9,29.76,22.96,24.14,19.66,january ,two 
+Maharashtra,Ratnagiri,2010,Rice,54468,997706,18.31728721,25.765,17.69,24.39,25.87,25.66,january ,three
+Maharashtra,Ratnagiri,2010,Rice,85309,475256,5.570994854,23.255,27.33,15.1,23.74,22.77,january ,four
+Maharashtra,Ratnagiri,2010,Rice,54206,949126,17.50961148,19.97,19.16,28.72,19.61,20.33,february ,one 
+Maharashtra,Ratnagiri,2010,Rice,66193,436541,6.594972278,22.43,19.61,21.67,15.07,29.79,february ,two 
+Maharashtra,Ratnagiri,2010,Rice,69088,398522,5.768324456,25.085,16.81,20.07,22.44,27.73,february ,three
+Maharashtra,Ratnagiri,2010,Rice,91298,442836,4.850445793,22.195,27.6,17.66,17.56,26.83,february ,four
+Maharashtra,Ratnagiri,2010,Rice,75101,402277,5.35647994,17.225,20.59,24.13,18.11,16.34,march ,one 
+Maharashtra,Ratnagiri,2010,Rice,90623,355244,3.920020304,20.22,22.52,17.29,22.87,17.57,march ,two 
+Maharashtra,Ratnagiri,2010,Rice,72702,206432,2.839426701,23.395,22.7,18.78,26.38,20.41,march ,three
+Maharashtra,Ratnagiri,2010,Rice,93984,657727,6.998286942,23.675,26.57,24.09,24.72,22.63,march ,four
+Maharashtra,Ratnagiri,2010,Rice,98884,223521,2.260436471,20.37,17.32,21.25,23.17,17.57,april,one 
+Maharashtra,Ratnagiri,2010,Rice,72443,400328,5.526110183,26.445,22.67,21.04,29.78,23.11,april,two 
+Maharashtra,Ratnagiri,2010,Rice,84628,874377,10.33200596,21.585,17.58,19.69,23.13,20.04,april,three
+Maharashtra,Ratnagiri,2010,Rice,84636,774127,9.146545205,23.025,26.05,21.01,19.87,26.18,april,four
+Maharashtra,Ratnagiri,2010,Rice,71081,679690,9.562189615,22.17,15.87,21.49,21.73,22.61,may,one 
+Maharashtra,Ratnagiri,2010,Rice,77501,896532,11.56800557,28.99,22.31,20.11,29.28,28.7,may,two 
+Maharashtra,Ratnagiri,2010,Rice,56680,800413,14.12161256,22.45,19.33,17.63,24.59,20.31,may,three
+Maharashtra,Ratnagiri,2010,Rice,66800,803870,12.03398204,19.605,28.49,29.44,22.73,16.48,may,four
+Maharashtra,Ratnagiri,2010,Rice,87853,911948,10.38038542,21.255,16.01,27.88,20.6,21.91,june,one 
+Maharashtra,Ratnagiri,2010,Rice,81628,909748,11.14504827,20.11,23.75,18.41,20.54,19.68,june,two 
+Maharashtra,Ratnagiri,2010,Rice,94640,778060,8.22125951,22.085,22.98,22.59,26.77,17.4,june,three
+Maharashtra,Ratnagiri,2010,Rice,53448,847602,15.85844185,19.655,23.97,28.78,15.63,23.68,june,four
+Maharashtra,Ratnagiri,2010,Rice,85268,463279,5.433210583,20.85,22.84,20.98,25.03,16.67,july,one 
+Maharashtra,Ratnagiri,2010,Rice,70862,296065,4.178050295,22.58,24.72,22.99,29.21,15.95,july,two 
+Maharashtra,Ratnagiri,2010,Rice,84194,965463,11.46712355,22.495,28.44,15.86,18.32,26.67,july,three
+Maharashtra,Ratnagiri,2010,Rice,54333,272367,5.012920325,22.89,16.12,23.91,18.11,27.67,july,four
+Maharashtra,Ratnagiri,2010,Rice,99227,811777,8.181009201,25.58,25.32,28.6,28.15,23.01,august,one 
+Maharashtra,Ratnagiri,2010,Rice,85014,721424,8.485943492,26.305,17.24,17.66,27.36,25.25,august,two 
+Maharashtra,Ratnagiri,2010,Rice,91392,549771,6.015526523,22.515,23.03,19.69,15.08,29.95,august,three
+Maharashtra,Ratnagiri,2010,Rice,69843,284556,4.074223616,20.48,24.1,24.99,19.56,21.4,august,four
+Maharashtra,Ratnagiri,2010,Rice,79240,227588,2.872135285,25.885,25.58,22.72,27.68,24.09,september,one 
+Maharashtra,Ratnagiri,2010,Rice,53690,783556,14.59407711,22.325,29.6,17.07,19.75,24.9,september,two 
+Maharashtra,Ratnagiri,2010,Rice,58887,755940,12.83712874,19.345,15.7,26.31,16.84,21.85,september,three
+Maharashtra,Ratnagiri,2010,Rice,65209,264837,4.061356561,20.875,29.1,19.66,26.64,15.11,september,four
+Maharashtra,Ratnagiri,2010,Rice,82170,421512,5.129755385,21.975,18.25,19.47,24.45,19.5,october,one 
+Maharashtra,Ratnagiri,2010,Rice,91062,919588,10.09848235,25.595,24.91,16.81,26.82,24.37,october,two 
+Maharashtra,Ratnagiri,2010,Rice,98145,705081,7.184074584,24.085,20.39,18.28,23.5,24.67,october,three
+Maharashtra,Ratnagiri,2010,Rice,82282,390142,4.741523055,22.92,18.86,26.75,29.03,16.81,october,four
+Maharashtra,Ratnagiri,2010,Rice,93240,733785,7.869851995,20.2,21.35,17.19,17.05,23.35,november,one 
+Maharashtra,Ratnagiri,2010,Rice,63773,927535,14.54432126,25.865,28.37,23.19,26.24,25.49,november,two 
+Maharashtra,Ratnagiri,2010,Rice,79913,485294,6.072779147,19.035,27.14,29.59,19.38,18.69,november,three
+Maharashtra,Ratnagiri,2010,Rice,84768,959590,11.32019158,25.895,28.17,18.9,26.39,25.4,november,four
+Maharashtra,Ratnagiri,2010,Rice,67447,561097,8.319080167,16.635,16.77,17.97,16.01,17.26,december,one 
+Maharashtra,Ratnagiri,2010,Rice,66233,619098,9.347274017,21.65,15.62,29.23,22.91,20.39,december,two 
+Maharashtra,Ratnagiri,2010,Rice,59860,306292,5.11680588,17.34,16.24,16.46,15.91,18.77,december,three
+Maharashtra,Ratnagiri,2010,Rice,97203,889580,9.151775151,26.36,19.33,24.41,24.47,28.25,december,four
+Maharashtra,Ratnagiri,2011,Rice,67287,546740,8.125492294,27.855,27.59,15.49,26.6,29.11,january ,one 
+Maharashtra,Ratnagiri,2011,Rice,55646,465248,8.360852532,25.26,26.85,26.43,25.59,24.93,january ,two 
+Maharashtra,Ratnagiri,2011,Rice,74506,676791,9.083711379,19.26,15.11,19.47,19.62,18.9,january ,three
+Maharashtra,Ratnagiri,2011,Rice,98279,583863,5.940872414,25.965,18.85,25.1,24.1,27.83,january ,four
+Maharashtra,Ratnagiri,2011,Rice,59824,566615,9.471366007,22.875,15.19,25.85,23.24,22.51,february ,one 
+Maharashtra,Ratnagiri,2011,Rice,55423,623047,11.24166862,21.07,21.22,20.22,25.45,16.69,february ,two 
+Maharashtra,Ratnagiri,2011,Rice,54168,607337,11.21209939,24.175,19.28,15.14,26.98,21.37,february ,three
+Maharashtra,Ratnagiri,2011,Rice,95547,381017,3.987744252,26.42,27.03,25.9,24.71,28.13,february ,four
+Maharashtra,Ratnagiri,2011,Rice,60928,512781,8.416179753,22.155,24.9,18.89,15.27,29.04,march ,one 
+Maharashtra,Ratnagiri,2011,Rice,96353,683461,7.093302751,17.61,15.33,28.07,17.06,18.16,march ,two 
+Maharashtra,Ratnagiri,2011,Rice,53656,544094,10.140413,22.475,22.21,29.01,22.75,22.2,march ,three
+Maharashtra,Ratnagiri,2011,Rice,58314,277041,4.750848853,16.435,25.07,27.62,16.24,16.63,march ,four
+Maharashtra,Ratnagiri,2011,Rice,50184,326209,6.500259047,22.54,18.36,17.16,17.26,27.82,april,one 
+Maharashtra,Ratnagiri,2011,Rice,95192,469339,4.930445836,22.69,17.93,17.88,19.14,26.24,april,two 
+Maharashtra,Ratnagiri,2011,Rice,64778,308583,4.763700639,20.67,19,23.17,23.52,17.82,april,three
+Maharashtra,Ratnagiri,2011,Rice,73591,797326,10.83455857,24.44,23.61,21.45,25.46,23.42,april,four
+Maharashtra,Ratnagiri,2011,Rice,82791,969883,11.71483615,22.125,25.22,17.45,26.35,17.9,may,one 
+Maharashtra,Ratnagiri,2011,Rice,65086,319824,4.913867806,17.24,25.44,17.04,18.18,16.3,may,two 
+Maharashtra,Ratnagiri,2011,Rice,89567,372456,4.158406556,22.46,25.73,18.41,18.78,26.14,may,three
+Maharashtra,Ratnagiri,2011,Rice,90621,577371,6.37127156,20.095,28.84,25.07,20.78,19.41,may,four
+Maharashtra,Ratnagiri,2011,Rice,62599,996720,15.92229908,22.92,19.36,19.68,19.7,26.14,june,one 
+Maharashtra,Ratnagiri,2011,Rice,78661,674264,8.57177,19.28,27.77,17.53,21.11,17.45,june,two 
+Maharashtra,Ratnagiri,2011,Rice,68919,913931,13.26094401,27.905,16.29,23.31,26.53,29.28,june,three
+Maharashtra,Ratnagiri,2011,Rice,58250,529239,9.085648069,28.675,18.7,25.17,29.35,28,june,four
+Maharashtra,Ratnagiri,2011,Rice,92240,731942,7.935190807,19.515,15.72,22.28,23.01,16.02,july,one 
+Maharashtra,Ratnagiri,2011,Rice,61307,877181,14.30800724,22.37,24.63,21.98,15.3,29.44,july,two 
+Maharashtra,Ratnagiri,2011,Rice,61033,279481,4.579178477,29.31,15.23,21.51,29.14,29.48,july,three
+Maharashtra,Ratnagiri,2011,Rice,93827,223071,2.377471304,21.995,29.42,17.52,23.14,20.85,july,four
+Maharashtra,Ratnagiri,2011,Rice,81450,215269,2.64295887,21.71,21.34,23.93,18.37,25.05,august,one 
+Maharashtra,Ratnagiri,2011,Rice,94683,431294,4.555136614,23.885,22.23,18.47,23.97,23.8,august,two 
+Maharashtra,Ratnagiri,2011,Rice,57354,344859,6.012815148,21.285,18.13,26.59,24.02,18.55,august,three
+Maharashtra,Ratnagiri,2011,Rice,54636,271451,4.968354199,25.745,16.06,20.1,28.16,23.33,august,four
+Maharashtra,Ratnagiri,2011,Rice,82740,477155,5.766920474,21.645,20.53,27.54,20.88,22.41,september,one 
+Maharashtra,Ratnagiri,2011,Rice,56168,718032,12.78364905,19.615,21.02,23.65,18.76,20.47,september,two 
+Maharashtra,Ratnagiri,2011,Rice,69226,879741,12.70824546,24.33,26.17,20.76,22.44,26.22,september,three
+Maharashtra,Ratnagiri,2011,Rice,78087,425449,5.4483973,19.43,15.77,28.91,20.8,18.06,september,four
+Maharashtra,Ratnagiri,2011,Rice,64585,309028,4.784826198,24.385,18.26,23.37,19.56,29.21,october,one 
+Maharashtra,Ratnagiri,2011,Rice,81885,956615,11.68242047,16.235,24.03,23.4,17.2,15.27,october,two 
+Maharashtra,Ratnagiri,2011,Rice,64624,596113,9.224328423,24.2,20.34,15.09,22.31,26.09,october,three
+Maharashtra,Ratnagiri,2011,Rice,56288,825853,14.67191941,21.52,24.49,24.47,24.51,18.53,october,four
+Maharashtra,Ratnagiri,2011,Rice,97838,496553,5.075257058,23.82,19.99,19.32,27.51,20.13,november,one 
+Maharashtra,Ratnagiri,2011,Rice,72642,260129,3.58097244,19.63,15.52,27.42,15.63,23.63,november,two 
+Maharashtra,Ratnagiri,2011,Rice,55620,985183,17.71274721,26.82,29.21,23.3,25.65,27.99,november,three
+Maharashtra,Ratnagiri,2011,Rice,62762,986146,15.71246933,28.05,16.93,19.88,28.9,27.2,november,four
+Maharashtra,Ratnagiri,2011,Rice,76104,422584,5.552717334,23.335,25.3,25.85,28.88,17.79,december,one 
+Maharashtra,Ratnagiri,2011,Rice,99835,585285,5.862523163,21.925,19.63,26.09,17.12,26.73,december,two 
+Maharashtra,Ratnagiri,2011,Rice,50768,200809,3.955424677,20.51,29.19,16.44,19.82,21.2,december,three
+Maharashtra,Ratnagiri,2011,Rice,85802,662328,7.719260623,22.375,27.08,15.57,17.01,27.74,december,four
+Maharashtra,Ratnagiri,2012,Rice,69652,216458,3.107706886,17.335,16.38,20.34,16.46,18.21,january ,one 
+Maharashtra,Ratnagiri,2012,Rice,96892,493674,5.09509557,24.03,19.41,20.42,21.72,26.34,january ,two 
+Maharashtra,Ratnagiri,2012,Rice,52269,689318,13.1878934,24.65,27.93,26.26,23.68,25.62,january ,three
+Maharashtra,Ratnagiri,2012,Rice,57926,579399,10.00239961,18.805,20.99,21.22,16.4,21.21,january ,four
+Maharashtra,Ratnagiri,2012,Rice,71643,984245,13.73818796,26.155,24.02,18.86,28.82,23.49,february ,one 
+Maharashtra,Ratnagiri,2012,Rice,68468,648181,9.466918853,19.495,25.48,16.83,16.25,22.74,february ,two 
+Maharashtra,Ratnagiri,2012,Rice,52316,629915,12.04058032,19.6,24.45,16.88,21.13,18.07,february ,three
+Maharashtra,Ratnagiri,2012,Rice,65976,577285,8.749924215,25.04,25.82,17.15,24.61,25.47,february ,four
+Maharashtra,Ratnagiri,2012,Rice,57112,983658,17.22331559,18.895,16.61,18.94,21.53,16.26,march ,one 
+Maharashtra,Ratnagiri,2012,Rice,63064,717864,11.38310288,24.765,18.12,27.27,23.02,26.51,march ,two 
+Maharashtra,Ratnagiri,2012,Rice,89096,611916,6.868052438,17,20.63,24.54,18.51,15.49,march ,three
+Maharashtra,Ratnagiri,2012,Rice,87255,918134,10.52242278,23.89,23.6,28.36,26.2,21.58,march ,four
+Maharashtra,Ratnagiri,2012,Rice,69799,758791,10.87108698,22.015,24.45,25.82,17.98,26.05,april,one 
+Maharashtra,Ratnagiri,2012,Rice,92544,251861,2.721527057,23.86,16.07,17.44,22.78,24.94,april,two 
+Maharashtra,Ratnagiri,2012,Rice,72395,325592,4.497437668,22.765,25.42,16.43,21.02,24.51,april,three
+Maharashtra,Ratnagiri,2012,Rice,81875,563847,6.886680916,16.165,20.14,27.39,16.59,15.74,april,four
+Maharashtra,Ratnagiri,2012,Rice,53753,238335,4.433892062,23.075,18.35,19.16,25.51,20.64,may,one 
+Maharashtra,Ratnagiri,2012,Rice,97299,453585,4.661764252,20.85,23.95,26.19,20.86,20.84,may,two 
+Maharashtra,Ratnagiri,2012,Rice,95024,447867,4.713198771,21.93,26.99,15.05,15.92,27.94,may,three
+Maharashtra,Ratnagiri,2012,Rice,84698,575038,6.789274835,22.835,27.96,26.19,23.06,22.61,may,four
+Maharashtra,Ratnagiri,2012,Rice,72448,458106,6.323238737,23.6,21.04,23.29,20.9,26.3,june,one 
+Maharashtra,Ratnagiri,2012,Rice,68107,433019,6.357922093,17.64,22.8,20.4,16.72,18.56,june,two 
+Maharashtra,Ratnagiri,2012,Rice,75210,555984,7.392421221,15.28,28.83,20.79,15.27,15.29,june,three
+Maharashtra,Ratnagiri,2012,Rice,83861,543265,6.478160289,23.225,21.76,20.04,26.92,19.53,june,four
+Maharashtra,Ratnagiri,2012,Rice,90066,859736,9.545622099,20.83,21.76,18.52,19.25,22.41,july,one 
+Maharashtra,Ratnagiri,2012,Rice,51110,226164,4.425044023,19.34,29.19,22.66,18.96,19.72,july,two 
+Maharashtra,Ratnagiri,2012,Rice,92630,598209,6.458048149,22.315,20.07,26.1,27.97,16.66,july,three
+Maharashtra,Ratnagiri,2012,Rice,51031,777186,15.22968392,24.83,15.47,18.3,28.9,20.76,july,four
+Maharashtra,Ratnagiri,2012,Rice,53966,398904,7.391765185,24.1,15.31,22.83,25,23.2,august,one 
+Maharashtra,Ratnagiri,2012,Rice,74187,240870,3.246795261,21.66,26.7,20.13,25.98,17.34,august,two 
+Maharashtra,Ratnagiri,2012,Rice,98928,888194,8.978186156,22.985,15.32,29.87,29.57,16.4,august,three
+Maharashtra,Ratnagiri,2012,Rice,66569,308366,4.632276285,16.71,23.97,19.18,15.98,17.44,august,four
+Maharashtra,Ratnagiri,2012,Rice,63221,931568,14.73510384,25.94,26.72,22.21,25.64,26.24,september,one 
+Maharashtra,Ratnagiri,2012,Rice,68218,255728,3.74868803,24.98,21.77,28.26,24.42,25.54,september,two 
+Maharashtra,Ratnagiri,2012,Rice,62947,399756,6.350675965,21.48,23.39,22.17,21.36,21.6,september,three
+Maharashtra,Ratnagiri,2012,Rice,71995,541988,7.528133898,28.51,16.17,29.76,29.43,27.59,september,four
+Maharashtra,Ratnagiri,2012,Rice,63763,304858,4.781111303,23.635,21.04,24.03,28.41,18.86,october,one 
+Maharashtra,Ratnagiri,2012,Rice,77844,484841,6.22836699,24.76,25.59,29.07,22.25,27.27,october,two 
+Maharashtra,Ratnagiri,2012,Rice,89806,518116,5.769280449,25.78,24.62,20.68,23.21,28.35,october,three
+Maharashtra,Ratnagiri,2012,Rice,60494,674245,11.14565081,24.015,19.06,21.2,29.92,18.11,october,four
+Maharashtra,Ratnagiri,2012,Rice,64101,628922,9.811422599,19.715,24.05,19.64,16.67,22.76,november,one 
+Maharashtra,Ratnagiri,2012,Rice,70961,318489,4.488225927,20.74,23.32,29.59,17.23,24.25,november,two 
+Maharashtra,Ratnagiri,2012,Rice,88229,403274,4.570764715,25.575,21.28,23.76,27.13,24.02,november,three
+Maharashtra,Ratnagiri,2012,Rice,55938,368971,6.59607065,25.21,22.65,25.95,22.52,27.9,november,four
+Maharashtra,Ratnagiri,2012,Rice,57799,640941,11.08913649,20.385,16.98,29.57,17.59,23.18,december,one 
+Maharashtra,Ratnagiri,2012,Rice,62338,602272,9.661394334,22.295,25.53,19.5,17.63,26.96,december,two 
+Maharashtra,Ratnagiri,2012,Rice,60605,566182,9.342166488,23.94,29.37,27.66,27.39,20.49,december,three
+Maharashtra,Ratnagiri,2012,Rice,67904,814503,11.9949193,28.69,24.19,26.92,28.33,29.05,december,four
+Maharashtra,Ratnagiri,2013,Rice,55607,265696,4.778103476,27.64,23.82,17.76,29.42,25.86,january ,one 
+Maharashtra,Ratnagiri,2013,Rice,93330,509247,5.456412729,20.415,20.73,26.48,17.19,23.64,january ,two 
+Maharashtra,Ratnagiri,2013,Rice,88769,958387,10.79641542,25.685,25.39,29.93,25.85,25.52,january ,three
+Maharashtra,Ratnagiri,2013,Rice,56335,601712,10.6809621,21.29,26.04,25.77,15.19,27.39,january ,four
+Maharashtra,Ratnagiri,2013,Rice,79697,690389,8.662672372,23.16,24.53,20.16,23.87,22.45,february ,one 
+Maharashtra,Ratnagiri,2013,Rice,76643,797725,10.4083217,23.425,26.52,22.44,21.71,25.14,february ,two 
+Maharashtra,Ratnagiri,2013,Rice,70966,550996,7.764225122,20.19,26,21.06,23.93,16.45,february ,three
+Maharashtra,Ratnagiri,2013,Rice,76001,584783,7.694411916,21.365,26.16,20.91,22.71,20.02,february ,four
+Maharashtra,Ratnagiri,2013,Rice,55152,201341,3.650656368,17.39,16.82,26.69,19.33,15.45,march ,one 
+Maharashtra,Ratnagiri,2013,Rice,56867,895933,15.7548842,20.615,28.47,23.53,18.51,22.72,march ,two 
+Maharashtra,Ratnagiri,2013,Rice,73270,547511,7.472512625,24.32,25.11,22.84,29.18,19.46,march ,three
+Maharashtra,Ratnagiri,2013,Rice,62783,775037,12.34469522,24.365,25.45,16.39,22.28,26.45,march ,four
+Maharashtra,Ratnagiri,2013,Rice,79656,729229,9.15472783,17.895,25.62,22.98,18.04,17.75,april,one 
+Maharashtra,Ratnagiri,2013,Rice,50243,352153,7.008996278,23.63,23.46,29.33,17.83,29.43,april,two 
+Maharashtra,Ratnagiri,2013,Rice,79809,710347,8.900587653,23.195,22.89,26.84,24.61,21.78,april,three
+Maharashtra,Ratnagiri,2013,Rice,60240,467308,7.757436919,25.28,17.45,26.06,23.74,26.82,april,four
+Maharashtra,Ratnagiri,2013,Rice,77655,219368,2.824905029,27.275,23.9,21.99,29.52,25.03,may,one 
+Maharashtra,Ratnagiri,2013,Rice,82860,586216,7.074776732,26.63,21.76,28.87,24.37,28.89,may,two 
+Maharashtra,Ratnagiri,2013,Rice,85476,256815,3.004527587,17.24,18.91,17.95,15.65,18.83,may,three
+Maharashtra,Ratnagiri,2013,Rice,67164,238226,3.546929903,18.79,15.2,25.63,21.97,15.61,may,four
+Maharashtra,Ratnagiri,2013,Rice,62724,512733,8.17443084,28.93,19.84,18.99,29.41,28.45,june,one 
+Maharashtra,Ratnagiri,2013,Rice,97784,421935,4.314969729,25.865,27.53,19.57,29.97,21.76,june,two 
+Maharashtra,Ratnagiri,2013,Rice,73857,935615,12.66792586,23.655,25.97,21.7,22.82,24.49,june,three
+Maharashtra,Ratnagiri,2013,Rice,59860,546154,9.123855663,19.315,24.73,26.3,21.14,17.49,june,four
+Maharashtra,Ratnagiri,2013,Rice,71151,461624,6.487948167,24.33,22.07,27.03,26.42,22.24,july,one 
+Maharashtra,Ratnagiri,2013,Rice,93717,415550,4.434094134,16.835,24.53,22.52,15.77,17.9,july,two 
+Maharashtra,Ratnagiri,2013,Rice,73316,342564,4.672431666,23.97,17.55,19.84,18.64,29.3,july,three
+Maharashtra,Ratnagiri,2013,Rice,53177,601211,11.30584651,23.69,27.69,15.19,20.77,26.61,july,four
+Maharashtra,Ratnagiri,2013,Rice,77026,662563,8.601809779,23.96,19.77,17.06,26.44,21.48,august,one 
+Maharashtra,Ratnagiri,2013,Rice,73533,540941,7.356438606,22.835,29.51,16.94,28.88,16.79,august,two 
+Maharashtra,Ratnagiri,2013,Rice,95386,669452,7.018346508,23.37,19.18,22.91,25.04,21.7,august,three
+Maharashtra,Ratnagiri,2013,Rice,63041,446860,7.088402785,21.73,28.35,24.31,17.04,26.42,august,four
+Maharashtra,Ratnagiri,2013,Rice,98123,319744,3.258603997,21.925,15.25,27.83,20.2,23.65,september,one 
+Maharashtra,Ratnagiri,2013,Rice,94538,603009,6.378482727,23.21,19.12,16.03,28.47,17.95,september,two 
+Maharashtra,Ratnagiri,2013,Rice,80139,601041,7.499981283,16.7,15.92,23.41,17.71,15.69,september,three
+Maharashtra,Ratnagiri,2013,Rice,90278,704828,7.80730632,17.8,24.07,15.1,19.48,16.12,september,four
+Maharashtra,Ratnagiri,2013,Rice,72672,519665,7.15082838,18.395,27.29,24.78,16.12,20.67,october,one 
+Maharashtra,Ratnagiri,2013,Rice,77596,641694,8.269678849,18.845,21.31,21.92,19.68,18.01,october,two 
+Maharashtra,Ratnagiri,2013,Rice,93755,514581,5.488571276,19.7,29.02,26.33,15.36,24.04,october,three
+Maharashtra,Ratnagiri,2013,Rice,73521,467058,6.352715551,18.24,29.43,29.71,15.49,20.99,october,four
+Maharashtra,Ratnagiri,2013,Rice,78838,462796,5.870214871,25.525,23.72,23.72,25.19,25.86,november,one 
+Maharashtra,Ratnagiri,2013,Rice,73044,993696,13.60407426,25.11,18.1,29.33,28.4,21.82,november,two 
+Maharashtra,Ratnagiri,2013,Rice,92679,205184,2.213921169,24.96,17.15,22.08,24.93,24.99,november,three
+Maharashtra,Ratnagiri,2013,Rice,51031,419603,8.222511807,21.795,22.59,18.84,23.81,19.78,november,four
+Maharashtra,Ratnagiri,2013,Rice,81522,490945,6.022239396,26.175,25.74,20.13,24.24,28.11,december,one 
+Maharashtra,Ratnagiri,2013,Rice,99886,421532,4.220130949,24.295,25.46,18.64,19.94,28.65,december,two 
+Maharashtra,Ratnagiri,2013,Rice,65328,390504,5.977590007,23.39,19.43,27.54,17.23,29.55,december,three
+Maharashtra,Ratnagiri,2013,Rice,61793,373803,6.049277426,19.555,25.73,16.54,20.29,18.82,december,four
+Maharashtra,Ratnagiri,2014,Rice,82739,322360,3.896107035,24.115,19.73,15.22,20.07,28.16,january ,one 
+Maharashtra,Ratnagiri,2014,Rice,85459,792031,9.267964755,17.12,24.28,29.81,17.76,16.48,january ,two 
+Maharashtra,Ratnagiri,2014,Rice,97708,745610,7.631002579,18.735,17.83,23.73,18.72,18.75,january ,three
+Maharashtra,Ratnagiri,2014,Rice,99032,233482,2.357641974,17.065,17.33,27.13,18.03,16.1,january ,four
+Maharashtra,Ratnagiri,2014,Rice,94960,522741,5.504854676,18.095,17.54,17.69,20.76,15.43,february ,one 
+Maharashtra,Ratnagiri,2014,Rice,96210,610523,6.345733292,15.38,25.93,21.03,15.46,15.3,february ,two 
+Maharashtra,Ratnagiri,2014,Rice,93153,234873,2.521368072,25.57,24.05,16.74,28.43,22.71,february ,three
+Maharashtra,Ratnagiri,2014,Rice,84429,251216,2.975470514,19.81,20.01,27.5,21.77,17.85,february ,four
+Maharashtra,Ratnagiri,2014,Rice,95295,720695,7.56277874,18.205,18.85,28.95,15.14,21.27,march ,one 
+Maharashtra,Ratnagiri,2014,Rice,69006,420964,6.100397067,24.65,21.05,15.14,23.98,25.32,march ,two 
+Maharashtra,Ratnagiri,2014,Rice,99713,859261,8.617341771,25.455,23.23,17.42,27.79,23.12,march ,three
+Maharashtra,Ratnagiri,2014,Rice,84947,568039,6.686981294,18.7,23.14,15.57,16.93,20.47,march ,four
+Maharashtra,Ratnagiri,2014,Rice,72039,767101,10.64841267,24.505,29.66,23.08,20.41,28.6,april,one 
+Maharashtra,Ratnagiri,2014,Rice,58140,903606,15.54189886,25.87,17.44,28.22,23.71,28.03,april,two 
+Maharashtra,Ratnagiri,2014,Rice,98653,347141,3.518808348,22.07,22.56,22.9,21.24,22.9,april,three
+Maharashtra,Ratnagiri,2014,Rice,90552,788521,8.707935772,22.24,16.93,28.23,15.26,29.22,april,four
+Maharashtra,Ratnagiri,2014,Rice,68052,915548,13.45365309,24.755,20.99,20.22,26.79,22.72,may,one 
+Maharashtra,Ratnagiri,2014,Rice,61181,374219,6.116588483,21.525,16.16,23.58,23.47,19.58,may,two 
+Maharashtra,Ratnagiri,2014,Rice,74614,807243,10.81892138,26.975,22.48,29.85,28.04,25.91,may,three
+Maharashtra,Ratnagiri,2014,Rice,95277,706081,7.410823179,22.1,16.37,27.75,25.73,18.47,may,four
+Maharashtra,Ratnagiri,2014,Rice,88146,988982,11.21981712,24.935,29.81,15.75,29.23,20.64,june,one 
+Maharashtra,Ratnagiri,2014,Rice,69072,284899,4.124667014,22.895,19.31,25.96,18.5,27.29,june,two 
+Maharashtra,Ratnagiri,2014,Rice,64947,310558,4.781714321,18.88,25.3,20.46,16.11,21.65,june,three
+Maharashtra,Ratnagiri,2014,Rice,52987,814672,15.37494102,19.08,26.92,28.07,15.24,22.92,june,four
+Maharashtra,Ratnagiri,2014,Rice,68226,582724,8.541084044,28.02,28,16.05,26.35,29.69,july,one 
+Maharashtra,Ratnagiri,2014,Rice,79932,993860,12.43381875,23.1,22.39,16.3,18.11,28.09,july,two 
+Maharashtra,Ratnagiri,2014,Rice,51781,831576,16.05948128,18.48,15.96,25.88,17.73,19.23,july,three
+Maharashtra,Ratnagiri,2014,Rice,95107,754152,7.929510972,21.4,26.83,27.24,25.54,17.26,july,four
+Maharashtra,Ratnagiri,2014,Rice,89912,284502,3.164227244,23.745,27.82,21.8,20.59,26.9,august,one 
+Maharashtra,Ratnagiri,2014,Rice,63604,204220,3.210804352,23.715,29.87,26.57,22.7,24.73,august,two 
+Maharashtra,Ratnagiri,2014,Rice,53080,579948,10.92592313,25.285,25.27,29.36,24.04,26.53,august,three
+Maharashtra,Ratnagiri,2014,Rice,98578,725474,7.359390533,25.37,23.31,27.01,24.15,26.59,august,four
+Maharashtra,Ratnagiri,2014,Rice,62863,465314,7.402032992,22.9,16.65,24.53,26.43,19.37,september,one 
+Maharashtra,Ratnagiri,2014,Rice,83548,693215,8.297206396,22.785,22.87,17.76,23.36,22.21,september,two 
+Maharashtra,Ratnagiri,2014,Rice,72008,337474,4.686618154,21.165,29.54,28.89,22.73,19.6,september,three
+Maharashtra,Ratnagiri,2014,Rice,71372,382713,5.362228885,27.805,29.87,17.23,27.24,28.37,september,four
+Maharashtra,Ratnagiri,2014,Rice,97047,729310,7.515018496,19.18,25.64,16.17,21,17.36,october,one 
+Maharashtra,Ratnagiri,2014,Rice,60094,220441,3.668269711,20.805,15.92,18.6,21.54,20.07,october,two 
+Maharashtra,Ratnagiri,2014,Rice,90913,928549,10.21359982,21.795,27.79,16.41,26.43,17.16,october,three
+Maharashtra,Ratnagiri,2014,Rice,85155,594394,6.980142094,28.16,20.97,17.63,29.56,26.76,october,four
+Maharashtra,Ratnagiri,2014,Rice,67662,969068,14.32218971,21.535,26.36,18.15,17.39,25.68,november,one 
+Maharashtra,Ratnagiri,2014,Rice,85966,498596,5.799920899,17.735,29.12,21.65,20.24,15.23,november,two 
+Maharashtra,Ratnagiri,2014,Rice,71954,245275,3.408775051,22.295,24.19,19.46,16.85,27.74,november,three
+Maharashtra,Ratnagiri,2014,Rice,72591,782570,10.78053753,23.06,23.93,22.17,27.63,18.49,november,four
+Maharashtra,Ratnagiri,2014,Rice,87233,978993,11.22273681,25.01,18.44,15.41,25.78,24.24,december,one 
+Maharashtra,Ratnagiri,2014,Rice,89302,839954,9.405769188,15.59,26.03,21.58,15.22,15.96,december,two 
+Maharashtra,Ratnagiri,2014,Rice,65345,404595,6.191674956,22.59,29.29,19.49,16.11,29.07,december,three
+Maharashtra,Ratnagiri,2014,Rice,84366,886489,10.50765711,25.035,16.46,21.49,25.79,24.28,december,four
+Maharashtra,Ratnagiri,2015,Rice,93271,535450,5.740798319,20.275,18.51,25.81,24.79,15.76,january ,one 
+Maharashtra,Ratnagiri,2015,Rice,70826,860136,12.14435377,22.125,15.46,16.92,27.53,16.72,january ,two 
+Maharashtra,Ratnagiri,2015,Rice,54083,732469,13.543424,20.935,21.04,25.09,16.1,25.77,january ,three
+Maharashtra,Ratnagiri,2015,Rice,73441,991230,13.49695674,26.35,22.85,23.97,23.99,28.71,january ,four
+Maharashtra,Ratnagiri,2015,Rice,77577,615159,7.929656986,27.375,18.06,19.03,25.16,29.59,february ,one 
+Maharashtra,Ratnagiri,2015,Rice,92590,573797,6.197181121,23.785,15.95,15.04,22.16,25.41,february ,two 
+Maharashtra,Ratnagiri,2015,Rice,83189,975399,11.72509587,20.315,17.88,25.12,17.96,22.67,february ,three
+Maharashtra,Ratnagiri,2015,Rice,78920,377441,4.782577293,20.5,17.68,18.73,20.53,20.47,february ,four
+Maharashtra,Ratnagiri,2015,Rice,55368,366848,6.625632134,24.52,23.89,28.67,27.38,21.66,march ,one 
+Maharashtra,Ratnagiri,2015,Rice,60154,424014,7.048808059,25.205,20.38,27.33,27.52,22.89,march ,two 
+Maharashtra,Ratnagiri,2015,Rice,91271,355617,3.896275926,19.465,23.92,21.17,20.03,18.9,march ,three
+Maharashtra,Ratnagiri,2015,Rice,52269,543474,10.39763531,25.72,19.3,22.55,24.91,26.53,march ,four
+Maharashtra,Ratnagiri,2015,Rice,85271,805337,9.444441838,26.46,22.06,23.4,23.33,29.59,april,one 
+Maharashtra,Ratnagiri,2015,Rice,65781,282700,4.29759353,25.47,15.67,24.9,26.6,24.34,april,two 
+Maharashtra,Ratnagiri,2015,Rice,89271,793781,8.891812571,21.78,21.31,24.45,16.79,26.77,april,three
+Maharashtra,Ratnagiri,2015,Rice,65378,571444,8.740616109,16.645,27.27,27.9,15.3,17.99,april,four
+Maharashtra,Ratnagiri,2015,Rice,72650,887075,12.21025465,18.505,29.82,23.11,20.02,16.99,may,one 
+Maharashtra,Ratnagiri,2015,Rice,89251,872548,9.77633864,20.475,24.88,16.18,17.26,23.69,may,two 
+Maharashtra,Ratnagiri,2015,Rice,95663,658720,6.88583883,18.09,21.1,23.05,17.81,18.37,may,three
+Maharashtra,Ratnagiri,2015,Rice,94295,573580,6.082825176,24.79,18.21,29.72,27.58,22,may,four
+Maharashtra,Ratnagiri,2015,Rice,66267,536301,8.093032731,20.28,16.44,15.32,18.67,21.89,june,one 
+Maharashtra,Ratnagiri,2015,Rice,61797,678549,10.98029031,21.935,25.77,24.44,21.89,21.98,june,two 
+Maharashtra,Ratnagiri,2015,Rice,84420,355154,4.206988865,23.295,23.38,19.52,25.1,21.49,june,three
+Maharashtra,Ratnagiri,2015,Rice,90184,280411,3.109320944,22.27,29.28,16.97,18.91,25.63,june,four
+Maharashtra,Ratnagiri,2015,Rice,85048,215102,2.52918352,16.655,25.24,21.28,15.69,17.62,july,one 
+Maharashtra,Ratnagiri,2015,Rice,65685,900153,13.70408769,22.185,25.2,29.6,19.97,24.4,july,two 
+Maharashtra,Ratnagiri,2015,Rice,59559,473170,7.944559177,23.945,22.13,17.05,25.67,22.22,july,three
+Maharashtra,Ratnagiri,2015,Rice,94999,588939,6.199423152,26.135,15.6,27.12,29.48,22.79,july,four
+Maharashtra,Ratnagiri,2015,Rice,79063,281211,3.556796479,24.08,19.52,25.2,27.65,20.51,august,one 
+Maharashtra,Ratnagiri,2015,Rice,84272,241807,2.86936349,18.78,15.33,23.77,20.2,17.36,august,two 
+Maharashtra,Ratnagiri,2015,Rice,51990,410779,7.901115599,16.63,18.48,18.06,18.02,15.24,august,three
+Maharashtra,Ratnagiri,2015,Rice,80885,375107,4.637534772,26.37,27.85,20.36,23.96,28.78,august,four
+Maharashtra,Ratnagiri,2015,Rice,66179,973398,14.70856314,20.415,19,26.4,23.85,16.98,september,one 
+Maharashtra,Ratnagiri,2015,Rice,66810,433061,6.481978746,21.37,17.59,25.2,25.06,17.68,september,two 
+Maharashtra,Ratnagiri,2015,Rice,90962,530531,5.832446516,18.31,17.19,29.13,20.67,15.95,september,three
+Maharashtra,Ratnagiri,2015,Rice,63909,841461,13.16654931,24.54,21.51,16.15,28.24,20.84,september,four
+Maharashtra,Ratnagiri,2015,Rice,85241,700423,8.216973053,19.705,20.74,18.7,17.65,21.76,october,one 
+Maharashtra,Ratnagiri,2015,Rice,93973,744088,7.918104136,23.92,18.25,26.29,19.03,28.81,october,two 
+Maharashtra,Ratnagiri,2015,Rice,76472,884075,11.56076734,18.52,21.12,27.68,17.58,19.46,october,three
+Maharashtra,Ratnagiri,2015,Rice,56259,575496,10.2294033,20.985,16.47,26.44,22.21,19.76,october,four
+Maharashtra,Ratnagiri,2015,Rice,92236,740418,8.027429637,21.115,17.87,19.38,20.27,21.96,november,one 
+Maharashtra,Ratnagiri,2015,Rice,53426,441457,8.262961854,28.88,24.14,28.63,29.03,28.73,november,two 
+Maharashtra,Ratnagiri,2015,Rice,83529,445716,5.336062924,22.5,19.65,28.27,26.7,18.3,november,three
+Maharashtra,Ratnagiri,2015,Rice,77292,704402,9.11351757,23.715,21.82,20.75,28.4,19.03,november,four
+Maharashtra,Ratnagiri,2015,Rice,87738,434739,4.954968201,18.02,19.64,29.06,16.19,19.85,december,one 
+Maharashtra,Ratnagiri,2015,Rice,63944,665270,10.4039472,17.555,19.03,27.31,19.01,16.1,december,two 
+Maharashtra,Ratnagiri,2015,Rice,76153,254373,3.340288629,22.375,25.09,17.67,24.59,20.16,december,three
+Maharashtra,Ratnagiri,2015,Rice,66118,831074,12.56955746,16.725,15.72,22.61,17.18,16.27,december,four
+Maharashtra,Ratnagiri,2016,Rice,59783,678630,11.35155479,21.8,23.07,16.82,27.13,16.47,january ,one 
+Maharashtra,Ratnagiri,2016,Rice,84104,318134,3.782626272,23.18,16.57,15.83,29.87,16.49,january ,two 
+Maharashtra,Ratnagiri,2016,Rice,57207,315418,5.513625955,28.01,19.08,21.47,29.18,26.84,january ,three
+Maharashtra,Ratnagiri,2016,Rice,63098,804865,12.75579258,17.83,21.51,22.18,15.19,20.47,january ,four
+Maharashtra,Ratnagiri,2016,Rice,85460,936141,10.95414229,21.995,21.08,28.17,17.51,26.48,february ,one 
+Maharashtra,Ratnagiri,2016,Rice,61351,473665,7.720575052,27.48,23.49,23.95,28.29,26.67,february ,two 
+Maharashtra,Ratnagiri,2016,Rice,77870,766150,9.838833954,20.835,22.7,29.52,16.45,25.22,february ,three
+Maharashtra,Ratnagiri,2016,Rice,67665,782098,11.55838321,19.395,15.84,29.65,22.26,16.53,february ,four
+Maharashtra,Ratnagiri,2016,Rice,58945,294528,4.996657901,24.42,21.05,18.82,29.03,19.81,march ,one 
+Maharashtra,Ratnagiri,2016,Rice,71721,466065,6.498305936,25.92,21.64,22.75,28.11,23.73,march ,two 
+Maharashtra,Ratnagiri,2016,Rice,81347,558503,6.865686503,23.725,25.28,16.17,26.32,21.13,march ,three
+Maharashtra,Ratnagiri,2016,Rice,83711,935639,11.17701377,16.56,22.67,19.83,17.83,15.29,march ,four
+Maharashtra,Ratnagiri,2016,Rice,71678,629090,8.776612071,27.47,16.15,19.55,25.1,29.84,april,one 
+Maharashtra,Ratnagiri,2016,Rice,87225,960939,11.01678418,23.785,23.01,27.54,25.8,21.77,april,two 
+Maharashtra,Ratnagiri,2016,Rice,50389,462313,9.174879438,23.02,21.74,16.77,18.17,27.87,april,three
+Maharashtra,Ratnagiri,2016,Rice,90662,746478,8.233637025,24.39,15.45,29.49,23.11,25.67,april,four
+Maharashtra,Ratnagiri,2016,Rice,64525,569430,8.824951569,20.505,25.52,17.03,19.73,21.28,may,one 
+Maharashtra,Ratnagiri,2016,Rice,89180,592574,6.64469612,26.85,16.7,26.74,28.19,25.51,may,two 
+Maharashtra,Ratnagiri,2016,Rice,82562,216389,2.620927303,28.74,16.47,18.55,27.48,30,may,three
+Maharashtra,Ratnagiri,2016,Rice,73530,599129,8.148089215,24.57,15.11,18.25,21.73,27.41,may,four
+Maharashtra,Ratnagiri,2016,Rice,53164,353742,6.653788278,19.11,17.06,26.53,23.1,15.12,june,one 
+Maharashtra,Ratnagiri,2016,Rice,52210,378917,7.257556024,24.355,26.27,19.65,23.74,24.97,june,two 
+Maharashtra,Ratnagiri,2016,Rice,74529,793049,10.64081096,23.61,18.41,23.89,26.86,20.36,june,three
+Maharashtra,Ratnagiri,2016,Rice,87945,456313,5.188617886,22.475,15.94,16.14,20.49,24.46,june,four
+Maharashtra,Ratnagiri,2016,Rice,55571,759143,13.6607763,18.99,26.53,20.36,16.32,21.66,july,one 
+Maharashtra,Ratnagiri,2016,Rice,74951,224515,2.995490387,23.77,21.63,19.05,25.49,22.05,july,two 
+Maharashtra,Ratnagiri,2016,Rice,75811,821847,10.84073551,20.625,26.24,19.85,21.69,19.56,july,three
+Maharashtra,Ratnagiri,2016,Rice,80343,575367,7.16138307,22.69,20.53,21.46,29.28,16.1,july,four
+Maharashtra,Ratnagiri,2016,Rice,85001,378880,4.457359325,25.085,22.35,19.08,29.92,20.25,august,one 
+Maharashtra,Ratnagiri,2016,Rice,63431,425148,6.702527155,22.28,20.98,20.89,21.99,22.57,august,two 
+Maharashtra,Ratnagiri,2016,Rice,60632,909718,15.00392532,23.12,27.2,20.85,16.78,29.46,august,three
+Maharashtra,Ratnagiri,2016,Rice,83822,573922,6.846913698,23.425,19.98,29.94,17.66,29.19,august,four
+Maharashtra,Ratnagiri,2016,Rice,96359,888940,9.225292915,19.47,21.03,20.16,16.45,22.49,september,one 
+Maharashtra,Ratnagiri,2016,Rice,67121,424944,6.331014139,21.885,21.86,18.04,26.14,17.63,september,two 
+Maharashtra,Ratnagiri,2016,Rice,97218,386298,3.973523422,28.365,24.41,15.28,27.86,28.87,september,three
+Maharashtra,Ratnagiri,2016,Rice,50399,631110,12.52227227,24.095,24.66,18.36,26.23,21.96,september,four
+Maharashtra,Ratnagiri,2016,Rice,69887,225969,3.233348119,26.32,17.03,26.31,24.99,27.65,october,one 
+Maharashtra,Ratnagiri,2016,Rice,85849,293655,3.420598959,17.805,28.33,16.59,15.57,20.04,october,two 
+Maharashtra,Ratnagiri,2016,Rice,72248,509898,7.057607131,27.99,20.97,21.14,27.78,28.2,october,three
+Maharashtra,Ratnagiri,2016,Rice,64459,637934,9.896740564,19.71,18.1,20.99,23.44,15.98,october,four
+Maharashtra,Ratnagiri,2016,Rice,91160,943585,10.35086661,20.31,16.84,19.88,24.85,15.77,november,one 
+Maharashtra,Ratnagiri,2016,Rice,94037,574928,6.113848804,23.035,27.81,19.71,29.94,16.13,november,two 
+Maharashtra,Ratnagiri,2016,Rice,97153,679465,6.993762416,22.785,29.59,17.61,26.38,19.19,november,three
+Maharashtra,Ratnagiri,2016,Rice,82637,500237,6.053426431,22.88,26.26,29.16,26.32,19.44,november,four
+Maharashtra,Ratnagiri,2016,Rice,85458,240397,2.813042664,19.245,15.77,18.48,19.08,19.41,december,one 
+Maharashtra,Ratnagiri,2016,Rice,94669,866604,9.154041978,21.23,25.93,28.86,20.64,21.82,december,two 
+Maharashtra,Ratnagiri,2016,Rice,76495,454875,5.946467089,20.54,19.99,29.12,17.65,23.43,december,three
+Maharashtra,Ratnagiri,2016,Rice,65657,542317,8.259850435,19.59,16.23,24.55,24.07,15.11,december,four
+Maharashtra,Ratnagiri,2017,Rice,83225,637145,7.6556924,17.87,19.34,25.22,19.94,15.8,january ,one 
+Maharashtra,Ratnagiri,2017,Rice,59296,222858,3.758398543,27.055,21.75,16.64,28.81,25.3,january ,two 
+Maharashtra,Ratnagiri,2017,Rice,74055,659610,8.90702856,23.09,28.74,21.73,29.26,16.92,january ,three
+Maharashtra,Ratnagiri,2017,Rice,55603,498966,8.973724439,23.69,29.96,17.78,27.93,19.45,january ,four
+Maharashtra,Ratnagiri,2017,Rice,86596,390736,4.512171463,23.205,23.93,29.27,16.73,29.68,february ,one 
+Maharashtra,Ratnagiri,2017,Rice,66421,260991,3.929344635,23.305,26.32,22.87,22.04,24.57,february ,two 
+Maharashtra,Ratnagiri,2017,Rice,81153,861472,10.61540547,26.94,27.52,20.47,23.89,29.99,february ,three
+Maharashtra,Ratnagiri,2017,Rice,95287,575110,6.035555742,18.74,21.64,16.93,17,20.48,february ,four
+Maharashtra,Ratnagiri,2017,Rice,54962,688531,12.52740075,24.47,20.88,16.33,25.64,23.3,march ,one 
+Maharashtra,Ratnagiri,2017,Rice,64886,314039,4.839857596,20.495,19.5,15.45,23.26,17.73,march ,two 
+Maharashtra,Ratnagiri,2017,Rice,98590,498384,5.055117152,19.75,28.04,23.42,16.69,22.81,march ,three
+Maharashtra,Ratnagiri,2017,Rice,93643,852043,9.09884348,26.29,15.75,16,23.06,29.52,march ,four
+Maharashtra,Ratnagiri,2017,Rice,77867,672626,8.638139392,21.135,21.93,20.98,19.86,22.41,april,one 
+Maharashtra,Ratnagiri,2017,Rice,81363,541661,6.657338102,23.285,20.88,24.41,30,16.57,april,two 
+Maharashtra,Ratnagiri,2017,Rice,66255,437345,6.600935778,26.14,26.59,22.13,24.55,27.73,april,three
+Maharashtra,Ratnagiri,2017,Rice,83906,836195,9.965854647,24.38,17.45,20.01,26.03,22.73,april,four
+Maharashtra,Ratnagiri,2017,Rice,73690,434314,5.893798344,20.64,26.23,22.34,24.83,16.45,may,one 
+Maharashtra,Ratnagiri,2017,Rice,73242,505823,6.906187707,18.105,16.99,26.29,21.16,15.05,may,two 
+Maharashtra,Ratnagiri,2017,Rice,72819,552483,7.587072055,19.865,27.6,23.04,20.47,19.26,may,three
+Maharashtra,Ratnagiri,2017,Rice,60861,294619,4.840850463,28.305,27.7,24.68,28.1,28.51,may,four
+Maharashtra,Ratnagiri,2017,Rice,82957,829282,9.996528322,26.73,24.26,18.9,25.97,27.49,june,one 
+Maharashtra,Ratnagiri,2017,Rice,85298,761235,8.924417923,22.33,20.39,24.7,23.61,21.05,june,two 
+Maharashtra,Ratnagiri,2017,Rice,83604,400283,4.787845079,25.255,18.86,15.14,25.25,25.26,june,three
+Maharashtra,Ratnagiri,2017,Rice,51790,909314,17.55771384,23.02,15.68,19.17,27.09,18.95,june,four
+Maharashtra,Ratnagiri,2017,Rice,83450,876320,10.50113841,22.095,21.41,23.72,22.73,21.46,july,one 
+Maharashtra,Ratnagiri,2017,Rice,59292,839834,14.16437293,24.39,19.13,25.92,28.21,20.57,july,two 
+Maharashtra,Ratnagiri,2017,Rice,93631,625212,6.677403851,23.03,20.28,26.21,17.9,28.16,july,three
+Maharashtra,Ratnagiri,2017,Rice,64255,347513,5.408341763,21.49,17.86,17.83,18.66,24.32,july,four
+Maharashtra,Ratnagiri,2017,Rice,59805,425927,7.121929605,26.725,25.4,23.21,29.14,24.31,august,one 
+Maharashtra,Ratnagiri,2017,Rice,79756,918254,11.51329054,25.315,27.16,25.17,28.29,22.34,august,two 
+Maharashtra,Ratnagiri,2017,Rice,92422,310610,3.360779901,21.98,26.44,15.62,26.03,17.93,august,three
+Maharashtra,Ratnagiri,2017,Rice,51191,980909,19.16174718,25.945,17.39,20.58,26.6,25.29,august,four
+Maharashtra,Ratnagiri,2017,Rice,82660,342929,4.148669248,21.725,17.28,17.03,15,28.45,september,one 
+Maharashtra,Ratnagiri,2017,Rice,88357,815399,9.228459545,18.375,28.81,28.51,18.81,17.94,september,two 
+Maharashtra,Ratnagiri,2017,Rice,63525,273527,4.305816608,18.495,23.22,21.63,16.64,20.35,september,three
+Maharashtra,Ratnagiri,2017,Rice,88657,427187,4.818423813,24.18,19.01,23.66,26.02,22.34,september,four
+Maharashtra,Ratnagiri,2017,Rice,58067,677254,11.66331996,26.17,29.06,16.28,23.62,28.72,october,one 
+Maharashtra,Ratnagiri,2017,Rice,71215,898042,12.61029278,20.815,15.6,23.92,15.34,26.29,october,two 
+Maharashtra,Ratnagiri,2017,Rice,91866,972164,10.58241352,16.93,18.92,18.15,15.36,18.5,october,three
+Maharashtra,Ratnagiri,2017,Rice,96802,420399,4.342875147,27.355,27.22,23.08,27.25,27.46,october,four
+Maharashtra,Ratnagiri,2017,Rice,87351,839738,9.61337592,17.695,27.2,26.53,15.85,19.54,november,one 
+Maharashtra,Ratnagiri,2017,Rice,72425,897601,12.39352434,24.6,24.08,17.33,20.8,28.4,november,two 
+Maharashtra,Ratnagiri,2017,Rice,63077,388258,6.15530225,26.74,17.53,25.88,24.58,28.9,november,three
+Maharashtra,Ratnagiri,2017,Rice,93544,688015,7.354988027,23.09,21.27,29.11,24.19,21.99,november,four
+Maharashtra,Ratnagiri,2017,Rice,66503,986115,14.82812805,23.585,27.08,24.47,18.87,28.3,december,one 
+Maharashtra,Ratnagiri,2017,Rice,79922,594646,7.440329321,17.55,25.98,25.58,17.14,17.96,december,two 
+Maharashtra,Ratnagiri,2017,Rice,80031,358925,4.48482463,21.98,15.68,29.64,15.18,28.78,december,three
+Maharashtra,Ratnagiri,2017,Rice,78382,663976,8.471026511,25.35,19.76,26.66,25.27,25.43,december,four
+Maharashtra,Ratnagiri,2018,Rice,98989,905696,9.149461051,21.475,26.35,16.75,17.03,25.92,january ,one 
+Maharashtra,Ratnagiri,2018,Rice,50348,250954,4.984388655,18.52,25.82,27.57,19.68,17.36,january ,two 
+Maharashtra,Ratnagiri,2018,Rice,81660,556959,6.820462895,25.225,17.58,16.89,25.25,25.2,january ,three
+Maharashtra,Ratnagiri,2018,Rice,70369,544636,7.739714931,24.74,27.29,29.6,29.96,19.52,january ,four
+Maharashtra,Ratnagiri,2018,Rice,89810,527697,5.875704265,21.09,21.1,26.77,17.46,24.72,february ,one 
+Maharashtra,Ratnagiri,2018,Rice,57093,697735,12.22102534,22.785,15.96,26.87,26.56,19.01,february ,two 
+Maharashtra,Ratnagiri,2018,Rice,99683,465907,4.673886219,19.365,17.02,18.94,20.73,18,february ,three
+Maharashtra,Ratnagiri,2018,Rice,72915,305003,4.182993897,25.82,29.04,19.63,29.57,22.07,february ,four
+Maharashtra,Ratnagiri,2018,Rice,82516,257340,3.118667895,21.755,15.72,27.81,15.82,27.69,march ,one 
+Maharashtra,Ratnagiri,2018,Rice,58229,207365,3.561198028,19.03,20.75,16.45,17.06,21,march ,two 
+Maharashtra,Ratnagiri,2018,Rice,92105,773275,8.39558113,21.455,20.35,25.71,19.27,23.64,march ,three
+Maharashtra,Ratnagiri,2018,Rice,50292,213768,4.250536865,17.36,18.44,18.72,19.06,15.66,march ,four
+Maharashtra,Ratnagiri,2018,Rice,67393,209297,3.105619278,27.21,16.11,24.45,27.68,26.74,april,one 
+Maharashtra,Ratnagiri,2018,Rice,92230,712771,7.728190394,28.315,19.72,27.92,26.76,29.87,april,two 
+Maharashtra,Ratnagiri,2018,Rice,82993,442678,5.333919728,21.805,25,18.5,16.02,27.59,april,three
+Maharashtra,Ratnagiri,2018,Rice,86797,358856,4.134428609,25.425,19.85,22.08,28.42,22.43,april,four
+Maharashtra,Ratnagiri,2018,Rice,96896,280829,2.898251734,23.765,16.87,15.52,28.88,18.65,may,one 
+Maharashtra,Ratnagiri,2018,Rice,50783,354296,6.97666542,26.575,23.72,27.75,24.14,29.01,may,two 
+Maharashtra,Ratnagiri,2018,Rice,95596,363773,3.805316122,28.395,26.5,20.26,29.83,26.96,may,three
+Maharashtra,Ratnagiri,2018,Rice,95347,923812,9.688946689,19.87,27.84,20.01,19.05,20.69,may,four
+Maharashtra,Ratnagiri,2018,Rice,95718,255299,2.667199482,23.975,26.02,23.98,26.46,21.49,june,one 
+Maharashtra,Ratnagiri,2018,Rice,93000,517956,5.569419355,18.52,23.92,24.82,19.64,17.4,june,two 
+Maharashtra,Ratnagiri,2018,Rice,80898,392999,4.857956933,27.37,21.82,17.48,28.22,26.52,june,three
+Maharashtra,Ratnagiri,2018,Rice,61740,375665,6.08462909,27.355,29.95,29.94,25.77,28.94,june,four
+Maharashtra,Ratnagiri,2018,Rice,55385,290185,5.239415004,27.79,17.6,15.88,28.34,27.24,july,one 
+Maharashtra,Ratnagiri,2018,Rice,99009,266872,2.695431728,25.165,20.1,17.22,29.33,21,july,two 
+Maharashtra,Ratnagiri,2018,Rice,86666,480061,5.539207994,21.81,21.79,26.52,25.39,18.23,july,three
+Maharashtra,Ratnagiri,2018,Rice,70602,983289,13.92721169,26.685,18.1,24.75,27.8,25.57,july,four
+Maharashtra,Ratnagiri,2018,Rice,78638,538417,6.846778911,22.78,19.75,27.96,18.2,27.36,august,one 
+Maharashtra,Ratnagiri,2018,Rice,86130,232193,2.695843492,24.95,26.86,20.64,21.99,27.91,august,two 
+Maharashtra,Ratnagiri,2018,Rice,99589,253191,2.542359096,24.59,28.3,16.25,21.66,27.52,august,three
+Maharashtra,Ratnagiri,2018,Rice,73297,801792,10.93894702,19.475,17.23,24.34,17.83,21.12,august,four
+Maharashtra,Ratnagiri,2018,Rice,90432,536221,5.929549275,20.255,19.78,20.55,15,25.51,september,one 
+Maharashtra,Ratnagiri,2018,Rice,70344,959785,13.64416297,19.61,16.53,17.51,23.88,15.34,september,two 
+Maharashtra,Ratnagiri,2018,Rice,95815,946882,9.882398372,23.385,15.05,22.2,23.91,22.86,september,three
+Maharashtra,Ratnagiri,2018,Rice,98961,752527,7.604278453,26.055,29.31,23.96,28.4,23.71,september,four
+Maharashtra,Ratnagiri,2018,Rice,69602,749915,10.7743312,20.345,27.87,26.79,22.56,18.13,october,one 
+Maharashtra,Ratnagiri,2018,Rice,53056,823966,15.53011912,20.57,27.58,21.78,20.21,20.93,october,two 
+Maharashtra,Ratnagiri,2018,Rice,95621,732333,7.658704678,22.73,18.23,20.44,25.51,19.95,october,three
+Maharashtra,Ratnagiri,2018,Rice,69134,635812,9.196806202,19.235,22.94,16.33,22.57,15.9,october,four
+Maharashtra,Ratnagiri,2018,Rice,70426,875597,12.4328657,23.005,20.51,29.22,29.12,16.89,november,one 
+Maharashtra,Ratnagiri,2018,Rice,90141,615156,6.824375146,23.495,28.81,21.35,18.86,28.13,november,two 
+Maharashtra,Ratnagiri,2018,Rice,73273,903897,12.33601736,28.43,25.87,26.7,28.78,28.08,november,three
+Maharashtra,Ratnagiri,2018,Rice,62801,424270,6.755784144,18.995,16.62,15.1,19.37,18.62,november,four
+Maharashtra,Ratnagiri,2018,Rice,59447,510296,8.584049658,24.275,19.88,22.93,27.75,20.8,december,one 
+Maharashtra,Ratnagiri,2018,Rice,95159,378238,3.974800071,15.59,28.53,22.49,15.32,15.86,december,two 
+Maharashtra,Ratnagiri,2018,Rice,71209,516006,7.246359309,27.195,17.97,27.21,25.66,28.73,december,three
+Maharashtra,Ratnagiri,2018,Rice,69842,477277,6.833667421,21.16,27.35,22.98,24.5,17.82,december,four
+Maharashtra,Ratnagiri,2019,Rice,63709,704385,11.05628718,22.125,29.24,27.57,15.2,29.05,january ,one 
+Maharashtra,Ratnagiri,2019,Rice,62926,657745,10.45267457,20.91,21.27,15.75,21.61,20.21,january ,two 
+Maharashtra,Ratnagiri,2019,Rice,72447,977976,13.49919251,18.55,16.85,19.67,15.23,21.87,january ,three
+Maharashtra,Ratnagiri,2019,Rice,87680,424039,4.836211223,22.035,20.62,15.89,27.12,16.95,january ,four
+Maharashtra,Ratnagiri,2019,Rice,65251,968508,14.84280701,29.145,18.92,28.44,28.67,29.62,february ,one 
+Maharashtra,Ratnagiri,2019,Rice,97695,221185,2.264036031,21.455,28.18,27.18,22.52,20.39,february ,two 
+Maharashtra,Ratnagiri,2019,Rice,66557,842537,12.65887886,24.48,28.43,25.26,26.29,22.67,february ,three
+Maharashtra,Ratnagiri,2019,Rice,62585,739334,11.81327794,18.315,18.06,17.15,20.92,15.71,february ,four
+Maharashtra,Ratnagiri,2019,Rice,52171,774061,14.83699757,28.885,20.94,27.36,28.09,29.68,march ,one 
+Maharashtra,Ratnagiri,2019,Rice,86638,417715,4.821383227,25.815,19.58,25.76,27.53,24.1,march ,two 
+Maharashtra,Ratnagiri,2019,Rice,51989,274538,5.280693993,27.27,17.43,25.25,24.64,29.9,march ,three
+Maharashtra,Ratnagiri,2019,Rice,86974,340160,3.911053878,19.175,24,25.46,15.48,22.87,march ,four

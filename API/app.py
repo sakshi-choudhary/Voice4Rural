@@ -5,12 +5,14 @@ import uvicorn
 import json, requests
 from pydantic import BaseModel
 from models import PostJob, Market, Vaccine
+from tensorflow.keras.models import load_model
 import pymongo
 from pymongo import MongoClient
 #import settings
 from bson import ObjectId
 from bson.json_util import loads, dumps
 import datetime
+import numpy as np
 
 # class JSONEncoder(json.JSONEncoder):
 #     def default(self, o):
@@ -164,9 +166,38 @@ async def resetslots(response: Response):
     response.status_code = status.HTTP_205_RESET_CONTENT
     return dlist
 
-@app.get('/vaccine/reset',status_code=200, name = "Reset slots")
-async def resetslots(response: Response):
-    pass
+
+'''
+--------CROPS API----------
+'''
+def predict_ratio(temp,area):
+    model = load_model('src/rice_ratio_lstm_model.h5')
+
+    # temp=float(input("Enter the average temperature of your area to predict the ratio :"))  
+
+    # area=int(input("Enter the value of area used for farming in sq.mtrs :"))
+    
+    X=np.array([[[temp]]],np.float32)
+    pred = model.predict(X, verbose=0)
+    print("Predicted Ratio For Land to Crop Output is :")
+    print(pred[0])
+    pred_final=pred[0]
+    ratio=pred_final[0]
+    print("The Possible production of Rice is :",area*ratio)
+    ratio_value=pred_final[0]
+    prod_value=area*ratio
+    crop = dict()
+    crop['ratio-value'] = str(ratio_value)
+    crop['Production-value'] = str(prod_value)
+    return parse_json(crop)
+
+@app.get('/crop/{temp}/{area}',status_code=200, name = "Temperature and Area for Crop predictions")
+async def cropped(temp:float, area:float, response: Response):
+    res = predict_ratio(temp, area)
+    return res
+
+    
+
 
 if __name__ == "__main__":
     uvicorn.run(app, host="localhost", port=8000)
