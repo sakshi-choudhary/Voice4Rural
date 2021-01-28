@@ -127,44 +127,42 @@ async def deletejobs(item_id: str, response: Response):
 '''
 sl = [50,50,50,50,50]
 dates = dict()
+dlist = []
 base = datetime.datetime.today()
 for x in range(0, 5):
+    dates = {}    
     d = (base + datetime.timedelta(days=x+1))
-    fd = d.strftime("%d/%m/%y")
-    dates[fd] = sl[x]
+    fd = d.strftime("%d-%m-%y")
+    dates['date'] = fd
+    dates['slots'] = sl[x]
+    dlist.append(dates)
 
 @app.get('/vaccine', status_code=200, name = "Get slots remaining")
 async def showslots(response: Response):
-    return parse_json(dates)
-
+    return dlist
 
 
 @app.post('/vaccine',status_code=200, name = "Book and update slots")
 async def bookslots(v: Vaccine, response: Response):
     dt = v.date
-    m = v.members    
-    if dt in dates.keys(): 
-        if dates[dt]>=m:       
-            dates[dt]-=m
-            if dates[dt] <= 0:
-                dates[dt] = 0    
-        else:
-            return HTTP_406_NOT_ACCEPTABLE    
+    m = v.members
+    print(dlist)
+    for dl in dlist:
+        if dl['date'] == dt:
+            if dl['slots']>=m:
+                dl['slots']-=m  
+            else:
+                return HTTP_406_NOT_ACCEPTABLE    
     response.status_code = status.HTTP_201_CREATED
-    slots.insert_one(parse_json(v.__dict__))
-    return dates           
+    #slots.insert_one(parse_json(v.__dict__))
+    return dlist          
     
 @app.get('/vaccine/reset',status_code=200, name = "Reset slots")
 async def resetslots(response: Response):
-    sl = [50,50,50,50,50]
-    base = datetime.datetime.today()
-    for x in range(0, 5):
-        d = (base + datetime.timedelta(days=x+1))
-        fd = d.strftime("%d/%m/%y")
-        dates[fd] = sl[x]
+    for dl in dlist:
+            dl['slots'] = 50
     response.status_code = status.HTTP_205_RESET_CONTENT
-    return parse_json(dates)
-
+    return dlist
 
 if __name__ == "__main__":
     uvicorn.run(app, host="localhost", port=8000)
