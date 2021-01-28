@@ -1,20 +1,29 @@
 from fastapi import FastAPI, status, Response
-from starlette.status import HTTP_200_OK, HTTP_404_NOT_FOUND
+from fastapi.middleware.cors import CORSMiddleware
+from starlette.status import HTTP_200_OK, HTTP_404_NOT_FOUND, HTTP_406_NOT_ACCEPTABLE
 import uvicorn
 import json, requests
 from pydantic import BaseModel
-from models import PostJob, Market
+from models import PostJob, Market, Vaccine
 import pymongo
 from pymongo import MongoClient
 #import settings
 from bson import ObjectId
 from bson.json_util import loads, dumps
+import datetime
 
 # class JSONEncoder(json.JSONEncoder):
 #     def default(self, o):
 #         if isinstance(o, ObjectId):
 #             return str(o)
 #         return json.JSONEncoder.default(self, o)
+origins = [
+    "http://localhost.tiangolo.com",
+    "https://localhost.tiangolo.com",
+    "http://localhost",
+    "http://localhost:8080",
+    "http://localhost:3001"
+]
 
 def parse_json(data):
     return json.loads(dumps(data))
@@ -26,12 +35,19 @@ market = db['market']
 social = db['social']
 tracker = db['tracker']
 vaccine = db['vaccine']
+slots = db['slots']
 
 app = FastAPI(debug = True,
                 title="Voice4Rural",
                 description="API endpoints for accessing database info",
                 version="1.0")
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 '''
 --------JOBS API----------
 '''
@@ -105,6 +121,49 @@ async def deletejobs(item_id: str, response: Response):
         return f
     except Exception:
         return HTTP_404_NOT_FOUND
+
+'''
+--------VACCINE API----------
+'''
+sl = [50,50,50,50,50]
+dates = dict()
+base = datetime.datetime.today()
+for x in range(0, 5):
+    d = (base + datetime.timedelta(days=x+1))
+    fd = d.strftime("%d/%m/%y")
+    dates[fd] = sl[x]
+
+@app.get('/vaccine', status_code=200, name = "Get slots remaining")
+async def showslots(response: Response):
+    return parse_json(dates)
+
+
+
+@app.post('/vaccine',status_code=200, name = "Book and update slots")
+async def bookslots(v: Vaccine, response: Response):
+    dt = v.date
+    m = v.members    
+    if dt in dates.keys(): 
+        if dates[dt]>=m:       
+            dates[dt]-=m
+            if dates[dt] <= 0:
+                dates[dt] = 0    
+        else:
+            return HTTP_406_NOT_ACCEPTABLE    
+    response.status_code = status.HTTP_201_CREATED
+    slots.insert_one(parse_json(v.__dict__))
+    return dates           
+    
+@app.get('/vaccine/reset',status_code=200, name = "Reset slots")
+async def resetslots(response: Response):
+    base = datetime.datetime.today()
+    for x in range(0, 5):
+        d = (base + datetime.timedelta(days=x+1))
+        fd = d.strftime("%d/%m/%y")
+        dates[fd] = slots[x]
+    response.status_code = status.HTTP_205_RESET_CONTENT
+    return parse_json(dates)
+
 
 if __name__ == "__main__":
     uvicorn.run(app, host="localhost", port=8000)

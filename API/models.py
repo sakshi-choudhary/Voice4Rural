@@ -14,3 +14,9 @@ class Market(BaseModel):
     phone: str = None
     price: str = None
     location: str = None
+
+class Vaccine(BaseModel):
+    name: str=None
+    members: int=None
+    date: str = None
+    
