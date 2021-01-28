@@ -1,26 +1,27 @@
-# import pymongo
-# from pymongo import MongoClient
-# import settings
-# client = MongoClient(settings.mongoconnect)
-# db = client['User1']
-# jobs = db['jobs']
-# market = db['market']
-# social = db['social']
-# tracker = db['tracker']
-# vaccine = db['vaccine']
-# dictjobs = dict()
-# listjobs = []
-# count = 0
-# for j in jobs.find():
-#     count+=1
-#     listjobs.append(j)
-# dictjobs['job-count'] = count
-# dictjobs['jobs'] = listjobs
-# print(dictjobs)
-# print(type(dictjobs))
-import datetime
-base = datetime.datetime.today()
-for x in range(0, 5):
-      d = (base + datetime.timedelta(days=x+1))
-      fd = (d.strftime("%d/%m/%y"))
-      print(fd)
+from bs4 import BeautifulSoup as BS 
+import requests 
+  
+  
+# method to get the price of gold 
+def get_price(url): 
+      
+    # getting the request from url  
+    data = requests.get(url) 
+  
+    # converting the text  
+    soup = BS(data.text, 'html.parser') 
+  
+    # finding metha info for the current price 
+    ans = soup.find("div", class_ = "BNeawe s3v9rd AP7Wnd").text 
+      
+    # returnng the price 
+    return ans 
+   
+# url of the gold price 
+url = "https://www.google.com / search?q = gold + price"
+  
+# calling the get_price method 
+ans = get_price(url) 
+  
+# printing the ans 
+print(ans) 

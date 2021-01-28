@@ -19,4 +19,4 @@ class Vaccine(BaseModel):
     name: str=None
     members: int=None
     date: str = None
-    
+    phone: str = None

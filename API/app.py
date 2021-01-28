@@ -156,11 +156,12 @@ async def bookslots(v: Vaccine, response: Response):
     
 @app.get('/vaccine/reset',status_code=200, name = "Reset slots")
 async def resetslots(response: Response):
+    sl = [50,50,50,50,50]
     base = datetime.datetime.today()
     for x in range(0, 5):
         d = (base + datetime.timedelta(days=x+1))
         fd = d.strftime("%d/%m/%y")
-        dates[fd] = slots[x]
+        dates[fd] = sl[x]
     response.status_code = status.HTTP_205_RESET_CONTENT
     return parse_json(dates)
 
