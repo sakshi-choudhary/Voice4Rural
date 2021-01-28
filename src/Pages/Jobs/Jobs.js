@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
@@ -9,6 +9,9 @@ import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
 import { Card, Badge, Collapse, Row, Col, Nav, Navbar } from "react-bootstrap";
 import Navbarr from "../../UI/Navbar";
+import axios from "axios";
+import { Component } from "react";
+import FormJob from "./PostJob";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -33,16 +36,22 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(1),
     backgroundColor: theme.palette.secondary.main,
   },
-  form: {
-    width: "100%", // Fix IE 11 issue.
-    marginTop: theme.spacing(1),
-  },
-  submit: {
-    margin: theme.spacing(3, 0, 2),
-  },
 }));
 
 export default function Jobs() {
+  const [jobs, setJobs] = useState([]);
+  useEffect(() => {
+    axios
+      .get("https://voice4rural.herokuapp.com/jobs")
+      .then((res) => {
+        console.log(res.data.jobs);
+        setJobs(res.data.jobs);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
   const classes = useStyles();
 
   return (
@@ -65,165 +74,45 @@ export default function Jobs() {
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-      <Grid container component="main" className={classes.root}>
+      <Grid container component="main">
         <CssBaseline />
         <Grid
           item
-          xs={false}
+          xs={10}
           sm={4}
           md={7}
           className={classes.image}
           data-spy="scroll"
         >
-          <Card className="m-2">
-            <Card.Header style={{ backgroundColor: "#f50057", color: "#fff" }}>
-              Company Name
-            </Card.Header>
-            <Card.Body>
-              <Card.Title>Role Name</Card.Title>
-              <Card.Text>
-                description of work description of work description of work
-                description of work description of work{" "}
-              </Card.Text>
-              <h3>
-                Location: <strong> Mirzapur</strong>
-              </h3>
-              <h3>
-                Salary: <strong> Rs. 4783</strong>
-              </h3>
-            </Card.Body>
-          </Card>
-          <Card className="m-2">
-            <Card.Header style={{ backgroundColor: "#f50057", color: "#fff" }}>
-              Company Name
-            </Card.Header>
-            <Card.Body>
-              <Card.Title>Role Name</Card.Title>
-              <Card.Text>
-                description of work description of work description of work
-                description of work description of work description of work
-              </Card.Text>
-              <h3>
-                Location: <strong> Mirzapur</strong>
-              </h3>
-              <h3>
-                Salary: <strong> Rs. 4783</strong>
-              </h3>
-            </Card.Body>
-          </Card>
-          <Card className="m-2">
-            <Card.Header style={{ backgroundColor: "#f50057", color: "#fff" }}>
-              Company Name
-            </Card.Header>
-            <Card.Body>
-              <Card.Title>Role Name</Card.Title>
-              <Card.Text>
-                description of work description of work description of work
-                description of work
-              </Card.Text>
-              <h3>
-                Location: <strong> Mirzapur</strong>
-              </h3>
-              <h3>
-                Salary: <strong> Rs. 4783</strong>
-              </h3>
-            </Card.Body>
-          </Card>
-          <Card className="m-2">
-            <Card.Header style={{ backgroundColor: "#f50057", color: "#fff" }}>
-              Company Name
-            </Card.Header>
-            <Card.Body>
-              <Card.Title>Role Name</Card.Title>
-              <Card.Text>
-                description of work description of work description of work
-                description of work description of work description of work
-                description of work
-              </Card.Text>
-              <h3>
-                Location: <strong> Mirzapur</strong>
-              </h3>
-              <h3>
-                Salary: <strong> Rs. 4783</strong>
-              </h3>
-            </Card.Body>
-          </Card>
+          {jobs.map((job) => (
+            <row>
+              <Card className="m-1" key={job._id.$oid}>
+                <Card.Header
+                  style={{ backgroundColor: "#f50057", color: "#fff" }}
+                >
+                  {job.organisation}
+                </Card.Header>
+                <Card.Body>
+                  <Card.Title>{job.designation}</Card.Title>
+                  <Card.Text>
+                    Location: <strong> {job.location} </strong>
+                    <br />
+                    Contact No: <strong> {job.contactNo} </strong> <br />
+                    Work hours: <strong> {job.workhours} </strong>
+                    <br />
+                    Base Salary: <strong> Rs. {job.basesalary} </strong>
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </row>
+          ))}
         </Grid>
         <Grid item xs={12} sm={8} md={5} component={Paper} elevation={6} square>
           <div className={classes.paper}>
-            {/* <Avatar className={classes.avatar}>
-              <BreifcaseIcon />
-            </Avatar> */}
             <Typography component="h1" variant="h5">
-              Post a Job!
+              Post a Job Vacany!
             </Typography>
-            <form className={classes.form} noValidate>
-              <TextField
-                variant="outlined"
-                margin="normal"
-                required
-                fullWidth
-                id="item"
-                label="Company Name"
-                name="item"
-                type="text"
-                autoComplete="item"
-                autoFocus
-              />
-              <TextField
-                variant="outlined"
-                margin="normal"
-                halfWidth
-                required
-                name="number"
-                label="Job Role"
-                type="text"
-                id="margin-normal"
-                autoComplete="number"
-                className="mr-5"
-              />
-              <TextField
-                variant="outlined"
-                margin="normal"
-                required
-                halfWidth
-                name="number"
-                label="Location"
-                type="text"
-                id="margin-normal"
-                autoComplete="number"
-                className="mr-5"
-              />
-              <TextField
-                variant="outlined"
-                margin="normal"
-                halfWidth
-                required
-                name="number"
-                label="Salary"
-                type="number"
-                id="margin-normal"
-                autoComplete="number"
-              />
-              <TextField
-                id="outlined-multiline-static"
-                label="Work Description"
-                multiline
-                rows={4}
-                className="my-3"
-                variant="outlined"
-                fullWidth
-              />
-              <Button
-                type="submit"
-                fullWidth
-                variant="contained"
-                color="primary"
-                className={classes.submit}
-              >
-                Post
-              </Button>
-            </form>
+            <FormJob />
           </div>
         </Grid>
       </Grid>
