@@ -21,7 +21,7 @@ class Vaccine extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      times: [],
+      slots: {},
       date: "",
       name: "",
       members: "",
@@ -38,7 +38,7 @@ class Vaccine extends Component {
     const { name, members, date, phone } = this.state;
     axios
       .get("https://voice4rural.herokuapp.com/vaccine")
-      .then((res) => this.setState({ times: res.data[0] }))
+      .then((res) => this.setState({ slots: res.data }))
       .catch(alert);
     axios.post("https://voice4rural.herokuapp.com/vaccine", {
       name,
@@ -52,7 +52,7 @@ class Vaccine extends Component {
   };
 
   render() {
-    const { name, members, times, date, phone } = this.state;
+    const { name, members, slots, date, phone } = this.state;
     return (
       <>
         <Navbarr />
@@ -76,7 +76,7 @@ class Vaccine extends Component {
               </div>
             </Grid>
             <Typography component="h1" variant="h5">
-              Book Your Vaccination Slot {times.date}
+              Book Your Vaccination Slot
             </Typography>
             <form
               style={{ width: "100%" }}
