@@ -63,8 +63,12 @@ export default function Jobs() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="/githubjobs">Other Jobs</Nav.Link>
-            <Nav.Link href="/jobs">Rural Jobs</Nav.Link>
+            <Nav.Link>
+              <Link to="/githubjobs">Other Jobs</Link>
+            </Nav.Link>
+            <Nav.Link>
+              <Link to="/jobs">Rural Jobs</Link>
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

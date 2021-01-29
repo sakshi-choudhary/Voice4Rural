@@ -14,7 +14,9 @@ function Navbarr() {
           boxShadow: "1px 1px 3px #336699",
         }}
       >
-        <Navbar.Brand href="/">voice4rural</Navbar.Brand>
+        <Navbar.Brand>
+          <Link to="/">voice4rural</Link>
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
@@ -25,7 +27,7 @@ function Navbarr() {
               <Link to="/vaccine">Vaccine</Link>
             </Nav.Link>
             <Nav.Link>
-              <Link to="/news">News</Link>
+              <Link to="/">News</Link>
             </Nav.Link>
             <Nav.Link>
               <Link to="/market">Market</Link>
@@ -33,9 +35,6 @@ function Navbarr() {
             <Nav.Link>
               <Link to="/">Crop</Link>
             </Nav.Link>
-          </Nav>
-          <Nav>
-            <Nav.Link href="#deets">Social</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
