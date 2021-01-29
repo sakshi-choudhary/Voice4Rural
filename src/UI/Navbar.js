@@ -1,5 +1,6 @@
 import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 function Navbarr() {
   return (
@@ -17,11 +18,21 @@ function Navbarr() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="/jobs">Jobs</Nav.Link>
-            <Nav.Link href="/vaccine">Vaccine</Nav.Link>
-            <Nav.Link href="/news">News</Nav.Link>
-            <Nav.Link href="/market">Market</Nav.Link>
-            <Nav.Link href="/crop">Crop</Nav.Link>
+            <Nav.Link>
+              <Link to="/jobs">Jobs</Link>
+            </Nav.Link>
+            <Nav.Link>
+              <Link to="/vaccine">Vaccine</Link>
+            </Nav.Link>
+            <Nav.Link>
+              <Link to="/news">News</Link>
+            </Nav.Link>
+            <Nav.Link>
+              <Link to="/market">Market</Link>
+            </Nav.Link>
+            <Nav.Link>
+              <Link to="/">Crop</Link>
+            </Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link href="#deets">Social</Nav.Link>
