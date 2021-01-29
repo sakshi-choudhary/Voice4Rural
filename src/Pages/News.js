@@ -15,8 +15,14 @@ class News extends Component {
     super(props);
     this.state = {
       tweets: [],
-      hashtag: "",
+      hashtag: "farmers",
     };
+  }
+
+  componentDidMount() {
+    axios
+      .get("https://voice4rural.herokuapp.com/tweethash/" + this.state.hashtag)
+      .then((res) => this.setState({ tweets: res.data.tweets }));
   }
 
   onSubmit = (e) => {
@@ -77,7 +83,7 @@ class News extends Component {
                 type="submit"
                 fullWidth
                 variant="contained"
-                color="primary"
+                style={{ backgroundColor: "rgb(245, 0, 87)", color: "#fff" }}
                 className="my-5"
               >
                 get news
@@ -91,7 +97,7 @@ class News extends Component {
               <Card
                 className="m-2"
                 key={Math.random()}
-                style={{ backgroundColor: "rgb(245, 0, 87)", color: "white" }}
+                style={{ backgroundColor: "rgb(63, 81, 181)", color: "white" }}
               >
                 <CardContent>
                   <p>{tweet}</p>

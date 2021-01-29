@@ -96,7 +96,7 @@ export default function Market() {
               <StorefrontIcon />
             </Avatar>
             <Typography component="h1" variant="h5">
-              Sell it out!
+              Sell your Handmade Products!
             </Typography>
             <FormMarket />
           </div>

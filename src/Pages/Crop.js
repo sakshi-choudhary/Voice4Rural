@@ -14,9 +14,20 @@ class Crop extends Component {
     super(props);
     this.state = {
       output: {},
-      temperature: "",
-      area: "",
+      temperature: "34",
+      area: "2000",
     };
+  }
+
+  componentDidMount() {
+    axios
+      .get(
+        "https://voice4rural-ml.herokuapp.com/crop/" +
+          this.state.temperature +
+          "/" +
+          this.state.area
+      )
+      .then((res) => this.setState({ output: res.data }));
   }
 
   onSubmit = (e) => {
