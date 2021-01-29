@@ -12,6 +12,13 @@ from bson import ObjectId
 from bson.json_util import loads, dumps
 import datetime
 import numpy as np
+from twilio.rest import Client
+
+account_sid = "AC3837dc86ec3c158fba0a73b8e696e309"
+auth_token = "4d92ff7b75caf1ac5710b30441410cfb"
+
+clientt = Client(account_sid, auth_token)
+
 
 # class JSONEncoder(json.JSONEncoder):
 #     def default(self, o):
@@ -24,8 +31,8 @@ origins = [
     "http://localhost",
     "http://localhost:8080",
     "http://localhost:3001",
-    "https://voice4rural.netlify.app/",
-    "http://localhost:3000/"
+    "https://voice4rural.netlify.app",
+    "http://localhost:3000"
 
 ]
 
@@ -154,10 +161,15 @@ async def bookslots(v: Vaccine, response: Response):
     for dl in dlist:
         if dl['date'] == dt:
             if dl['slots']>=m:
-                dl['slots']-=m  
+                dl['slots']-=m                  
             else:
                 return HTTP_406_NOT_ACCEPTABLE    
     response.status_code = status.HTTP_201_CREATED
+    clientt.messages.create(
+                to="+919836088355",  #v.phone
+                from_="+17206694147",
+                body=f"\nHello {v.name},\nYour booking for Covid Vaccination has been received for {v.members} people on {v.date}.\n Regards,\nVoice4Rural(Team Binary Fetchers)"
+                )
     slots.insert_one(parse_json(v.__dict__))
     return dlist          
     
