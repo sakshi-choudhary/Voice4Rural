@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+body {
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  font-size: 3em !important;
+  font-weight: 600;
+  line-height: 1.5em;
+  color: rgba(0, 0, 0, 0.747);
+}
+li {
+  font-size: 1.3em;
+  font-weight: 300 !important;
+}
+p {
+  font-size: 1.3em;
+  font-weight: 300 !important;
+}
