@@ -137,7 +137,7 @@ class Vaccine extends Component {
                       {bookings.map((book) => (
                         <FormControlLabel
                           control={<Radio />}
-                          label={`${book.date} (Slots available: ${book.slots})`}
+                          label={`${book.date} (Vaccines left: ${book.slots})`}
                           value={book.date}
                           name="date"
                           onChange={this.onChange}
