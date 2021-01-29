@@ -6,6 +6,7 @@ import JobsPagination from "./JobsPagination";
 import SearchForm from "./SearchForm";
 import Footer from "../../UI/Footer";
 import Navbarr from "../../UI/Navbar";
+import { Link } from "react-router-dom";
 
 function GithubJobs() {
   const [params, setParams] = useState({});
