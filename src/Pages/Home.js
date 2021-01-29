@@ -11,6 +11,7 @@ export default function Home() {
     <>
       <Navbarr />
       <div>
+        <div id="google_translate_element"></div>
         <div className="container py-2">
           <div className="row ">
             <div className="col-lg-8 pt-3 pt-lg-3 order-1 order-lg-1 d-flex flex-column justify-content-center">

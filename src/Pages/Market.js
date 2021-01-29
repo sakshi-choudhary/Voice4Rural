@@ -52,6 +52,7 @@ export default function Market() {
   return (
     <>
       <Navbarr />
+
       <Grid container component="main" className={classes.root}>
         <CssBaseline />
         <Grid
@@ -91,10 +92,12 @@ export default function Market() {
         </Grid>
 
         <Grid item xs={12} sm={8} md={5} component={Paper} elevation={6} square>
+          <div id="google_translate_element"></div>
           <div className={classes.paper}>
             <Avatar className={classes.avatar}>
               <StorefrontIcon />
             </Avatar>
+
             <Typography component="h1" variant="h5">
               Sell your Handmade Products!
             </Typography>

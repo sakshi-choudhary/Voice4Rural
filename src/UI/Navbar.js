@@ -27,6 +27,7 @@ function Navbarr() {
                 Rural Jobs
               </Link>
             </Nav.Link>
+
             <Nav.Link>
               <Link to="/vaccine" className="a">
                 Vaccination Booking

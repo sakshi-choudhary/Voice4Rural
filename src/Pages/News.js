@@ -41,6 +41,7 @@ class News extends Component {
     return (
       <>
         <Navbarr />
+        <div id="google_translate_element"></div>
         <Container
           component="main"
           maxWidth="md"

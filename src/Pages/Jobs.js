@@ -62,6 +62,7 @@ export default function Jobs() {
           boxShadow: "2px 1px 3px lightgray",
         }}
       >
+        <div id="google_translate_element"></div>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
