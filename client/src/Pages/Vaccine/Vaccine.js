@@ -21,14 +21,19 @@ class Vaccine extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      slots: {},
+      bookings: [],
       date: "",
       name: "",
       members: "",
       phone: "",
     };
   }
-
+  componentDidMount() {
+    axios
+      .get("https://voice4rural.herokuapp.com/vaccine")
+      .then((res) => this.setState({ bookings: res.data }))
+      .catch(alert);
+  }
   onChange = (e) => {
     this.setState({ [e.target.name]: e.target.value });
   };
@@ -36,10 +41,7 @@ class Vaccine extends Component {
   onSubmit = (e) => {
     e.preventDefault();
     const { name, members, date, phone } = this.state;
-    axios
-      .get("https://voice4rural.herokuapp.com/vaccine")
-      .then((res) => this.setState({ slots: res.data }))
-      .catch(alert);
+
     axios.post("https://voice4rural.herokuapp.com/vaccine", {
       name,
       members,
@@ -52,7 +54,7 @@ class Vaccine extends Component {
   };
 
   render() {
-    const { name, members, slots, date, phone } = this.state;
+    const { name, members, bookings, date, phone } = this.state;
     return (
       <>
         <Navbarr />
@@ -75,9 +77,11 @@ class Vaccine extends Component {
                 <img src={vaccine} alt="vaccine" style={{ width: "50%" }} />
               </div>
             </Grid>
+
             <Typography component="h1" variant="h5">
-              Book Your Vaccination Slot
+              Book your Vaccination Slot!
             </Typography>
+
             <form
               style={{ width: "100%" }}
               noValidate
@@ -130,51 +134,16 @@ class Vaccine extends Component {
                   <FormControl component="fieldset">
                     <FormLabel component="legend">Choose a Date </FormLabel>
 
-                    <RadioGroup
-                      name="dates"
-                      //value={value}
-                      //onChange={handleChange}
-                    >
-                      <FormControlLabel
-                        //value="female"
-                        control={<Radio />}
-                        label="29/01/21"
-                        value="29/01/21"
-                        name="date"
-                        onChange={this.onChange}
-                      />
-                      <FormControlLabel
-                        //value="female"
-                        control={<Radio />}
-                        label="30/01/21"
-                        value="30/01/21"
-                        name="date"
-                        onChange={this.onChange}
-                      />
-                      <FormControlLabel
-                        //value="female"
-                        control={<Radio />}
-                        value="31/01/21"
-                        label="31/01/21"
-                        name="date"
-                        onChange={this.onChange}
-                      />
-                      <FormControlLabel
-                        //value="female"
-                        control={<Radio />}
-                        label="01/02/21"
-                        value="01/02/21"
-                        name="date"
-                        onChange={this.onChange}
-                      />
-                      <FormControlLabel
-                        //value="female"
-                        control={<Radio />}
-                        label="02/02/21"
-                        value="02/02/21"
-                        name="date"
-                        onChange={this.onChange}
-                      />
+                    <RadioGroup name="dates">
+                      {bookings.map((book) => (
+                        <FormControlLabel
+                          control={<Radio />}
+                          label={`${book.date} (Slots available: ${book.slots})`}
+                          value={book.date}
+                          name="date"
+                          onChange={this.onChange}
+                        />
+                      ))}
                     </RadioGroup>
                   </FormControl>
                 </Grid>

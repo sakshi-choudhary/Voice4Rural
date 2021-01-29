@@ -101,7 +101,7 @@ export default class FormMarket extends Component {
         <TextField
           variant="outlined"
           margin="normal"
-          halfWidth
+          fullWidth
           required
           name="location"
           value={location}
