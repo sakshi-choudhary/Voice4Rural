@@ -2,18 +2,22 @@
 
 import pandas as pd
 import numpy as np
-
+from numpy import array
+import datetime as dt
+import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
-from tensorflow.keras.layers import LSTM
-from numpy import array
+from tensorflow.keras.layers import LSTM,Conv1D,Bidirectional
+
 from tensorflow.keras.models import load_model
 
 from sklearn.preprocessing import MinMaxScaler
 
 train_path='datasets/farm_train.csv'
 
-
+df=pd.read_csv(train_path)
+df.info()
+df.corrwith()
 
 train_path='datasets/farm_train.csv'
 def get_train_data():
@@ -32,9 +36,12 @@ def get_train_data():
 
 
 X,y=get_train_data()
+print(X,y)
 
 
 model = Sequential()
+#model.add(Conv1D(25,3,1,input_shape=(1,1)))
+model.add(LSTM(60, input_shape=(1,1)))
 model.add(LSTM(25, input_shape=(1,1)))
 model.add(Dense(10, activation='linear'))
 model.add(Dense(1, activation='relu'))
@@ -59,7 +66,7 @@ def predict_ratio():
     print(pred[0])
     pred_final=pred[0]
     ratio=pred_final[0]
-    print("The Possible production of Rice is :",area*ratio)
+    print("The Possible production yield of crop is :",area*ratio)
     ratio_value=pred_final[0]
     prod_value=area*ratio
 
