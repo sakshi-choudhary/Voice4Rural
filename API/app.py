@@ -166,11 +166,11 @@ async def bookslots(v: Vaccine, response: Response):
                 return HTTP_406_NOT_ACCEPTABLE    
     response.status_code = status.HTTP_201_CREATED
     clientt.messages.create(
-                to="+919836088355",  #v.phone
+                to="+91"+str(v.phone),  #v.phone
                 from_="+17206694147",
                 body=f"\nHello {v.name},\nYour booking for Covid Vaccination has been received for {v.members} people on {v.date}.\n Regards,\nVoice4Rural(Team Binary Fetchers)"
                 )
-    slots.insert_one(parse_json(v.__dict__))
+    #slots.insert_one(parse_json(v.__dict__))
     return dlist          
     
 @app.get('/vaccine/reset',status_code=200, name = "Reset slots")
@@ -181,25 +181,30 @@ async def resetslots(response: Response):
     return dlist
 
 
-# '''
-# --------TRENDS API----------
-# '''   
+'''
+--------TRENDS API----------
+'''   
 
+import main_trends as mt
 
-# @app.get('/trends/{name}',status_code=200, name = "Check Trends/Cumulative details for a Crop")
-# async def trends(name: str, response: Response):
-#     cropname="bajra"
-#     details = (get_crop_profile(cropname))
-#     return parse_json(details)
+@app.get('/trends/{name}',status_code=200, name = "Past and Future details of a Crop")
+async def cropdetails(name:str, response: Response):
+    try:
+        res = mt.get_crop_profile(name)
+        response.status_code = status.HTTP_200_OK
+        return parse_json(res.__dict__)
+    except Exception :
+        return HTTP_404_NOT_FOUND
+
 
 # @app.get('/trends/top5',status_code=200, name = "Top 5 crops")
 # async def trendstop5(response: Response):
-#     details = TopFiveCrops()    
+#     details = mt.TopFiveCrops()    
 #     return parse_json({"top5": details})
 
 # @app.get('/trends/bottom5',status_code=200, name = "Bottom 5 crops")
 # async def trendsbottom5(response: Response):
-#     details = BottomFiveCrops()
+#     details = mt.BottomFiveCrops()
 #     return parse_json({"bottom5": details})
 
 '''
