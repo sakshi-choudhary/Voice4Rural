@@ -4,20 +4,17 @@ import Navbarr from "../UI/Navbar";
 import farmer2 from "../assets/Farmer2.gif";
 import Button from "@material-ui/core/Button";
 import { Link } from "react-router-dom";
+import logo from "../assets/voicelogo.png";
 
-function Home() {
+export default function Home() {
   return (
     <>
       <Navbarr />
       <div>
         <div className="container py-2">
           <div className="row ">
-            <div className="col-lg-8 pt-3 pt-lg-3 order-2 order-lg-1 d-flex flex-column justify-content-center">
-              <h1 className="my-4">
-                {" "}
-                <strong> Voice4Rural</strong>
-              </h1>
-
+            <div className="col-lg-8 pt-3 pt-lg-3 order-1 order-lg-1 d-flex flex-column justify-content-center">
+              <img src={logo} className="img-fluid my-1 mx-3" alt="" />
               <span>
                 <ol>
                   <li>
@@ -36,8 +33,18 @@ function Home() {
                     roof that matches the profile of the user.
                   </li>
                   <li>
-                    A machine learning and deep learning based Crop Growth
-                    Prediction Model to help Farmers.
+                    Apart from newspapers, news from social media isn’t
+                    accessible by majority of the rural people. Instead of
+                    showing all, if we display messages based on their
+                    interests/any major announcements that would surely help the
+                    people.
+                  </li>
+                  <li>
+                    The middle men often take advantage of the farmer’s/rural
+                    people’s inability to catch up with the latest fluctuations
+                    in price, this keeps the farmers at a loss. Hence with
+                    proper hourly updates displayed in our webapp, it won’t
+                    stand a problem anymore.
                   </li>
                 </ol>
               </span>
@@ -52,10 +59,11 @@ function Home() {
                 color="secondary"
                 className="m-3 px-5"
               >
-                <Link to="/jobs" className="m-2 mx-5 a">
-                  Rural Jobs
+                <Link to="/news" className="m-2 mx-5 a">
+                  Twitter Based News
                 </Link>
               </Button>
+
               <Button
                 variant="contained"
                 color="secondary"
@@ -83,6 +91,15 @@ function Home() {
                   MarketPlace for Local sellers
                 </Link>
               </Button>
+              <Button
+                variant="contained"
+                color="secondary"
+                className="m-3 px-5"
+              >
+                <Link to="/jobs" className="m-2 mx-5 a">
+                  Rural Jobs
+                </Link>
+              </Button>
             </div>
           </div>
         </div>
@@ -92,5 +109,3 @@ function Home() {
     </>
   );
 }
-
-export default Home;

@@ -10,6 +10,7 @@ import axios from "axios";
 import FormJob from "../Components/Jobs/PostJob";
 import job from "../assets/Job.gif";
 import { Link } from "react-router-dom";
+import Button from "@material-ui/core/Button";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -96,10 +97,13 @@ export default function Jobs() {
                   <Card.Text>
                     Location: <strong> {job.location} </strong>
                     <br />
-                    Contact No: <strong> {job.contactNo} </strong> <br />
                     Work hours: <strong> {job.workhours} </strong>
                     <br />
                     Base Salary: <strong> Rs. {job.basesalary} </strong>
+                    <br />
+                    <Button variant="contained" color="primary">
+                      <a href={`tel:${job.contactNo}`}>Apply</a>
+                    </Button>
                   </Card.Text>
                 </Card.Body>
               </Card>
