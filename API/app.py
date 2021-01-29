@@ -157,21 +157,23 @@ async def showslots(response: Response):
 async def bookslots(v: Vaccine, response: Response):
     dt = v.date
     m = v.members
-    print(dlist)
-    for dl in dlist:
-        if dl['date'] == dt:
-            if dl['slots']>=m:
-                dl['slots']-=m                  
-            else:
-                return HTTP_406_NOT_ACCEPTABLE    
-    response.status_code = status.HTTP_201_CREATED
-    clientt.messages.create(
-                to="+91"+str(v.phone),  #v.phone
-                from_="+17206694147",
-                body=f"\nHello {v.name},\nYour booking for Covid Vaccination has been received for {v.members} people on {v.date}.\n Regards,\nVoice4Rural(Team Binary Fetchers)"
-                )
-    #slots.insert_one(parse_json(v.__dict__))
-    return dlist          
+    try:
+        for dl in dlist:
+            if dl['date'] == dt:
+                if dl['slots']>=m:
+                    dl['slots']-=m                  
+                else:
+                    return HTTP_406_NOT_ACCEPTABLE    
+        response.status_code = status.HTTP_201_CREATED
+        # clientt.messages.create(
+        #             to="+91"+str(v.phone),  #v.phone
+        #             from_="+17206694147",
+        #             body=f"\nHello {v.name},\nYour booking for Covid Vaccination has been received for {v.members} people on {v.date}.\n Regards,\nVoice4Rural(Team Binary Fetchers)"
+        #             )
+        slots.insert_one(parse_json(v.__dict__))
+        return dlist    
+    except Exception:
+        return HTTP_406_NOT_ACCEPTABLE 
     
 @app.get('/vaccine/reset',status_code=200, name = "Reset slots")
 async def resetslots(response: Response):
@@ -192,8 +194,9 @@ async def cropdetails(name:str, response: Response):
     try:
         res = mt.get_crop_profile(name)
         response.status_code = status.HTTP_200_OK
-        return parse_json(res.__dict__)
-    except Exception :
+        print(type(res))
+        return parse_json(res)
+    except Exception as e:
         return HTTP_404_NOT_FOUND
 
 
