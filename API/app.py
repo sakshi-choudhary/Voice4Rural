@@ -23,7 +23,10 @@ origins = [
     "https://localhost.tiangolo.com",
     "http://localhost",
     "http://localhost:8080",
-    "http://localhost:3001"
+    "http://localhost:3001",
+    "https://voice4rural.netlify.app/",
+    "http://localhost:3000/"
+
 ]
 
 def parse_json(data):
@@ -155,7 +158,7 @@ async def bookslots(v: Vaccine, response: Response):
             else:
                 return HTTP_406_NOT_ACCEPTABLE    
     response.status_code = status.HTTP_201_CREATED
-    #slots.insert_one(parse_json(v.__dict__))
+    slots.insert_one(parse_json(v.__dict__))
     return dlist          
     
 @app.get('/vaccine/reset',status_code=200, name = "Reset slots")
