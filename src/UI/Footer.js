@@ -8,7 +8,7 @@ function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary">
       {"Copyright © "}
-      Team Binary Fetchers {new Date().getFullYear()}
+      Team Binary Fetch {new Date().getFullYear()}
       {"."}
     </Typography>
   );

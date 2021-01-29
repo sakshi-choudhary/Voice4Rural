@@ -47,7 +47,7 @@ export default function Market() {
       .catch((err) => {
         console.log(err);
       });
-  }, []);
+  }, [listings]);
 
   return (
     <>

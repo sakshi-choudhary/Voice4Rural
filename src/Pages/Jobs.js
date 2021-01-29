@@ -45,7 +45,7 @@ export default function Jobs() {
       .catch((err) => {
         console.log(err);
       });
-  }, []);
+  }, [jobs]);
 
   const classes = useStyles();
 

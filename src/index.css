@@ -8,6 +8,12 @@ h1 {
   line-height: 1.5em;
   color: rgba(0, 0, 0, 0.747);
 }
+h2 {
+  font-size: 2.5em !important;
+  font-weight: 600;
+  line-height: 1.5em;
+  color: rgba(0, 0, 0, 0.747);
+}
 li {
   font-size: 1.3em;
   font-weight: 300 !important;
@@ -15,4 +21,9 @@ li {
 p {
   font-size: 1.3em;
   font-weight: 300 !important;
+}
+.a:hover {
+  text-decoration: none !important;
+  border-bottom: 3px solid whitesmoke;
+  color: white !important;
 }
