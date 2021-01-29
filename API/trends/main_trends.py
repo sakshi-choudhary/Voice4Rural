@@ -448,7 +448,7 @@ if __name__ == "__main__":
 
 
 
-
+if __name__ == "__main__":
     #Pass the name of crop to get its full profile info in JSON format ; example->bajra
     cropname="bajra"
     print(get_crop_profile(cropname))

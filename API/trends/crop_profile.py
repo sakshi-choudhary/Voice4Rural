@@ -1,5 +1,6 @@
-from forecast_helper import CurrentMonth,TwelveMonthPrevious,TwelveMonthsForecast
-import crops_areas
+from .forecast_helper import CurrentMonth,TwelveMonthPrevious,TwelveMonthsForecast
+from . import crops_areas 
+
 
 def get_crop_profile(name):
     #To Get Crop Information in JSON Format

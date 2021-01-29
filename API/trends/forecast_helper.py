@@ -6,7 +6,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.tree import DecisionTreeRegressor
 import random
 
-from commodity import Commodity
+from .commodity import Commodity
 
 commodity_list = []
 

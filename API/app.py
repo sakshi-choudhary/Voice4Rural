@@ -191,12 +191,48 @@ def predict_ratio(temp,area):
     crop['Production-value'] = str(prod_value)
     return parse_json(crop)
 
+
 @app.get('/crop/{temp}/{area}',status_code=200, name = "Temperature and Area for Crop predictions")
 async def cropped(temp:float, area:float, response: Response):
     res = predict_ratio(temp, area)
     return res
 
-    
+# '''
+# --------TRENDS API----------
+# '''   
+
+
+# @app.get('/trends/{name}',status_code=200, name = "Check Trends/Cumulative details for a Crop")
+# async def trends(name: str, response: Response):
+#     cropname="bajra"
+#     details = (get_crop_profile(cropname))
+#     return parse_json(details)
+
+# @app.get('/trends/top5',status_code=200, name = "Top 5 crops")
+# async def trendstop5(response: Response):
+#     details = TopFiveCrops()    
+#     return parse_json({"top5": details})
+
+# @app.get('/trends/bottom5',status_code=200, name = "Bottom 5 crops")
+# async def trendsbottom5(response: Response):
+#     details = BottomFiveCrops()
+#     return parse_json({"bottom5": details})
+
+'''
+--------TWEETs API----------
+'''
+from tweets import twitter_scraper as ts
+
+@app.get('/tweetacc/{h}',status_code=200, name = "Account based seaching")
+async def t_account(h: str, response: Response):
+    ta = ts.get_tweets(h)
+    return parse_json({"tweets": ta})
+
+@app.get('/tweethash/{h}',status_code=200, name = "hashtag based seaching")
+async def t_account(h: str, response: Response):
+    ta = ts.get_hashtag(h)
+    return parse_json({"tweets": ta})
+
 
 
 if __name__ == "__main__":
