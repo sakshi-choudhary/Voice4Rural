@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/sd2001/Desktop/Programming/Codebreak/API/env"
+VIRTUAL_ENV="/home/sd2001/Desktop/Programming/Voice4Rural/API/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

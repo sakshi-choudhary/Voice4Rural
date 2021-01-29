@@ -5,7 +5,7 @@ from tweepy import OAuthHandler
 from tweepy import API
 from tweepy import Cursor
 from datetime import datetime, date, time, timedelta
-from collections import Counter
+#from collections import Counter
 import sys
 import tweepy as tw
 import numpy as np

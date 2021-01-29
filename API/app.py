@@ -5,7 +5,6 @@ import uvicorn
 import json, requests
 from pydantic import BaseModel
 from models import PostJob, Market, Vaccine
-from tensorflow.keras.models import load_model
 import pymongo
 from pymongo import MongoClient
 #import settings
@@ -167,36 +166,6 @@ async def resetslots(response: Response):
     return dlist
 
 
-'''
---------CROPS API----------
-'''
-def predict_ratio(temp,area):
-    model = load_model('src/rice_ratio_lstm_model.h5')
-
-    # temp=float(input("Enter the average temperature of your area to predict the ratio :"))  
-
-    # area=int(input("Enter the value of area used for farming in sq.mtrs :"))
-    
-    X=np.array([[[temp]]],np.float32)
-    pred = model.predict(X, verbose=0)
-    print("Predicted Ratio For Land to Crop Output is :")
-    print(pred[0])
-    pred_final=pred[0]
-    ratio=pred_final[0]
-    print("The Possible production of Rice is :",area*ratio)
-    ratio_value=pred_final[0]
-    prod_value=area*ratio
-    crop = dict()
-    crop['ratio-value'] = str(ratio_value)
-    crop['Production-value'] = str(prod_value)
-    return parse_json(crop)
-
-
-@app.get('/crop/{temp}/{area}',status_code=200, name = "Temperature and Area for Crop predictions")
-async def cropped(temp:float, area:float, response: Response):
-    res = predict_ratio(temp, area)
-    return res
-
 # '''
 # --------TRENDS API----------
 # '''   
@@ -225,13 +194,23 @@ from tweets import twitter_scraper as ts
 
 @app.get('/tweetacc/{h}',status_code=200, name = "Account based seaching")
 async def t_account(h: str, response: Response):
-    ta = ts.get_tweets(h)
-    return parse_json({"tweets": ta})
+    try:    
+        ta = ts.get_tweets(h)
+        response.status_code = status.HTTP_200_OK
+        return parse_json({"tweets": ta})
+    except Exception as e:
+        return HTTP_404_NOT_FOUND
+    
 
 @app.get('/tweethash/{h}',status_code=200, name = "hashtag based seaching")
 async def t_account(h: str, response: Response):
-    ta = ts.get_hashtag(h)
-    return parse_json({"tweets": ta})
+    try:
+        ta = ts.get_hashtag(h)
+        response.status_code = status.HTTP_200_OK
+        return parse_json({"tweets": ta})
+
+    except Exception as e:
+        return HTTP_404_NOT_FOUND
 
 
 
