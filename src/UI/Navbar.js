@@ -33,18 +33,13 @@ function Navbarr() {
               </Link>
             </Nav.Link>
             <Nav.Link>
-              <Link to="/" className="a">
-                News
+              <Link to="/crop" className="a">
+                Crop
               </Link>
             </Nav.Link>
             <Nav.Link>
               <Link to="/market" className="a">
                 Market
-              </Link>
-            </Nav.Link>
-            <Nav.Link>
-              <Link to="/crop" className="a">
-                Crop
               </Link>
             </Nav.Link>
           </Nav>
