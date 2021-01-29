@@ -109,7 +109,7 @@ export default function Jobs() {
         <Grid item xs={12} sm={8} md={5} component={Paper} elevation={6} square>
           <div className={classes.paper}>
             <Typography component="h1" variant="h5">
-              Post a Job Vacany!
+              Post a Job Vacancy!
             </Typography>
             <FormJob />
           </div>

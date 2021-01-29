@@ -24,22 +24,27 @@ function Navbarr() {
           <Nav className="mr-auto">
             <Nav.Link>
               <Link to="/jobs" className="a">
-                Jobs
+                Rural Jobs
               </Link>
             </Nav.Link>
             <Nav.Link>
               <Link to="/vaccine" className="a">
-                Vaccine
+                Vaccination Booking
               </Link>
             </Nav.Link>
             <Nav.Link>
               <Link to="/crop" className="a">
-                Crop
+                Crop Prediction
+              </Link>
+            </Nav.Link>
+            <Nav.Link>
+              <Link to="/news" className="a">
+                Twitter Based News
               </Link>
             </Nav.Link>
             <Nav.Link>
               <Link to="/market" className="a">
-                Market
+                Handicraft Market
               </Link>
             </Nav.Link>
           </Nav>
