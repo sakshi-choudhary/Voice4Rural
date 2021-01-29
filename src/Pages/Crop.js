@@ -15,6 +15,10 @@ class Crop extends Component {
     this.state = {
       output: {},
       details: {},
+      maxmon: "",
+      maxprice: "",
+      minmon: "",
+      minprice: "",
       temperature: "34",
       area: "2000",
       cropname: "bajra",
@@ -33,6 +37,18 @@ class Crop extends Component {
     axios
       .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
       .then((res) => this.setState({ details: res.data }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ maxmon: res.data.max_crop[0] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ maxprice: res.data.max_crop[1] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ minmon: res.data.min_crop[0] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ minprice: res.data.min_crop[1] }));
   }
 
   onSubmit = (e) => {
@@ -53,6 +69,20 @@ class Crop extends Component {
     axios
       .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
       .then((res) => this.setState({ details: res.data }));
+
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ maxmon: res.data.maxs_crop[0] }));
+
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ maxprice: res.data.maxs_crop[1] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ minmon: res.data.min_crop[0] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ minprice: res.data.min_crop[1] }));
   };
   onChange = (e) => {
     this.setState({ [e.target.name]: e.target.value });
@@ -61,7 +91,17 @@ class Crop extends Component {
     this.setState({ [e.target.name]: e.target.value });
   };
   render() {
-    const { temperature, area, output, details, cropname } = this.state;
+    const {
+      temperature,
+      area,
+      output,
+      details,
+      cropname,
+      maxmon,
+      maxprice,
+      minmon,
+      minprice,
+    } = this.state;
     return (
       <>
         <Navbarr />
@@ -156,7 +196,7 @@ class Crop extends Component {
                 </span>{" "}
               </h2>
               <h2 className="my-3">
-                Production value:{" "}
+                Predicted Production value:{" "}
                 <span
                   style={{
                     backgroundColor: "whitesmoke",
@@ -225,8 +265,8 @@ class Crop extends Component {
                 <strong>{details.current_price} INR</strong>
               </span>{" "}
             </h2>
-            {/* <h2 className="my-3">
-              Max:{" "}
+            <h2 className="my-3">
+              Max Price of crop :{" "}
               <span
                 style={{
                   backgroundColor: "whitesmoke",
@@ -235,10 +275,44 @@ class Crop extends Component {
                   borderRadius: "20px",
                 }}
               >
-                <strong>{details.max_crop} </strong>
-              </span>{" "}
-            </h2> */}
+                <strong>{maxprice} INR</strong>
+              </span>
+              &nbsp; on &nbsp;
+              <span
+                style={{
+                  backgroundColor: "whitesmoke",
 
+                  padding: "0.2em",
+                  borderRadius: "20px",
+                }}
+              >
+                <strong>{maxmon} </strong>
+              </span>{" "}
+            </h2>
+            <h2 className="my-3">
+              Min Price of crop :{" "}
+              <span
+                style={{
+                  backgroundColor: "whitesmoke",
+                  color: "red",
+                  padding: "0.2em",
+                  borderRadius: "20px",
+                }}
+              >
+                <strong>{minprice} INR</strong>
+              </span>
+              &nbsp; on &nbsp;
+              <span
+                style={{
+                  backgroundColor: "whitesmoke",
+
+                  padding: "0.2em",
+                  borderRadius: "20px",
+                }}
+              >
+                <strong>{minmon} </strong>
+              </span>{" "}
+            </h2>
             <h2 className="my-3">
               Type of crop:{" "}
               <span
