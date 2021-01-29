@@ -1,6 +1,10 @@
 from forecast_helper import CurrentMonth,TwelveMonthPrevious,TwelveMonthsForecast
 import crops_areas
 
+from update_commodities import update_list
+ 
+commodity_list=update_list()
+
 def get_crop_profile(name):
     #To Get Crop Information in JSON Format
     
@@ -22,8 +26,8 @@ def get_crop_profile(name):
         "forecast_x": str(forecast_x),
         "forecast_y":forecast_y,
         "current_price": current_price,
-        "prime_loc":crop_data[1],
-        "type_c":crop_data[2],
-        "export":crop_data[3]
+        "prime_loc":crop_data[0],
+        "type_c":crop_data[1],
+        "export":crop_data[2]
     }
     return context_json

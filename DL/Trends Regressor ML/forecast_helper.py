@@ -8,7 +8,7 @@ import random
 
 from commodity import Commodity
 
-commodity_list = []
+#commodity_list = []
 
 annual_rainfall = [29, 21, 37.5, 30.7, 52.6, 150, 299, 251.7, 179.2, 70.5, 39.8, 10.9]
 
@@ -66,6 +66,12 @@ commodity_dict = {
     "urad": "crop_data/Urad.csv",
     "wheat": "crop_data/Wheat.csv"
 }
+
+
+from update_commodities import update_list
+ 
+commodity_list=update_list()
+
 
 def SixMonthsForecast():
     month1=[]
@@ -256,3 +262,5 @@ def TwelveMonthPrevious(name):
     for i in range(len(crop_price)-1,-1,-1):
         new_crop_price.append(crop_price[i])
     return new_crop_price
+
+

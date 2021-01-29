@@ -6,7 +6,11 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.tree import DecisionTreeRegressor
 import random
 
-commodity_list = []
+#commodity_list = []
+
+from update_commodities import update_list
+ 
+commodity_list=update_list()
 
 annual_rainfall = [29, 21, 37.5, 30.7, 52.6, 150, 299, 251.7, 179.2, 70.5, 39.8, 10.9]
 
