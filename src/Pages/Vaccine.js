@@ -53,7 +53,7 @@ class Vaccine extends Component {
   };
 
   render() {
-    const { name, members, bookings, date, phone } = this.state;
+    const { name, members, bookings, phone } = this.state;
     return (
       <>
         <Navbarr />

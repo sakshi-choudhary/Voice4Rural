@@ -1,14 +1,12 @@
-import React from "react";
-import Avatar from "@material-ui/core/Avatar";
+import React, { Component } from "react";
+
 import Button from "@material-ui/core/Button";
-import CssBaseline from "@material-ui/core/CssBaseline";
+
 import TextField from "@material-ui/core/TextField";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { Card, Badge, Collapse, Row, Col, Nav, Navbar } from "react-bootstrap";
-import Navbarr from "../../UI/Navbar";
+
 import axios from "axios";
-import { Component } from "react";
 
 export default class FormJob extends Component {
   constructor(props) {

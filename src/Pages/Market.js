@@ -2,13 +2,12 @@ import React, { useState, useEffect } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import TextField from "@material-ui/core/TextField";
 import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import StorefrontIcon from "@material-ui/icons/Storefront";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
-import { Card, Row, Col } from "react-bootstrap";
+import { Card, Row } from "react-bootstrap";
 import Navbarr from "../UI/Navbar";
 import axios from "axios";
 import FormMarket from "../Components/Market/PostProduct";
@@ -20,10 +19,6 @@ const useStyles = makeStyles((theme) => ({
   },
   image: {
     backgroundColor: "white",
-    backgroundColor:
-      theme.palette.type === "light"
-        ? theme.palette.grey[50]
-        : theme.palette.grey[900],
     backgroundSize: "cover",
     backgroundPosition: "center",
   },

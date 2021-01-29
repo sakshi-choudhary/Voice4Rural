@@ -1,7 +1,6 @@
 import React from "react";
 import Footer from "../UI/Footer";
 import Navbarr from "../UI/Navbar";
-import farmer from "../assets/Farmer.gif";
 import farmer2 from "../assets/Farmer2.gif";
 function Home() {
   return (
