@@ -115,6 +115,7 @@ Looking at the current market conditions, we thought that it was the right time 
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/shop%20areana.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/twitter%20based%20news.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/ml%20ss.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/forecast%20with%20app.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss-2%20landing.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss.jpeg">
   
