@@ -58,12 +58,16 @@ Looking at the current market conditions, we thought that it was the right time 
 
 <hr>
 
+- Native Multilingual Support so that User Can use this app with their own native language hassle-free
 - Booking done in the nearest hospital on basis of available slots.  A simple setup to assist people who aren’t much familiar with technology.
 - Another easy to use setup to post the handmade-items along with the negotiable price and the contact details. This will be a really good step up in turning India atmanirbhar and will also in turn help the needy.
 - Matching jobs based on the user profile and giving updates based on that. Almost everyone in villages are looking for jobs and this would surely help them in the run.
 - Apart from newspapers, news from social media isn’t accessible by majority of the rural people. Instead of showing all, if we display messages based on their interests/any major announcements that would surely help the people.
 - The middle men often take advantage of the farmer’s/rural people’s inability to catch up with the latest fluctuations in price, this keeps the farmers at a loss. Hence with proper hourly updates displayed in our webapp, it won’t stand a problem anymore.
 - Prior updates about weather, storms or natural calamities, can keep the people prepared beforehand.
+- Crop Yield Production Prediction So that Farmer Can Invest Time and Money Accordingly
+- Full Crop Profile Details Retrieval so that Farmers Can have full access to details of crops - Like Exporting Countries , Major Price in states and so on
+- Foecasted Prediction of Crop Prices So that Farmers can have certain estimation about which crop would be more beneficial to grow and invest.
 - Social media based feature to bring one’s problem(which went unaddressed) on a larger platform.
 
 
