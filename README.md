@@ -5,23 +5,19 @@
 ## Team Binary Fetch  
 
 
-<hr>
+
+
 <img align="left"  width="400" height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/logo%20main.jpeg">
 <img align="right" width="400"  height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/team%20logo.jpeg">
 
-<hr>
-
-<hr>
-
-<br>
-
-
-
 
 <br>
 <br>
 <br>
+<br>
 
+<br>
+<br>
 
 ### **Abstract**
 
@@ -108,13 +104,14 @@ Looking at the current market conditions, we thought that it was the right time 
   <hr>
   
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/main%20landing%20eng.jpeg">
-    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20-%20buy%20ss.jpeg">
+
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20book%20slot%20ss.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-jobs%20find%20ss.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-vaacine%20slot%20ss.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/shop%20areana.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/twitter%20based%20news.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/ml%20ss.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/forecast%20with%20app.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss-2%20landing.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss.jpeg">
   
@@ -128,7 +125,7 @@ Looking at the current market conditions, we thought that it was the right time 
   
   ```
   
-## **Link to Presentation** : [Click Here]()
+## **Link to Presentation** : [Click Here](https://docs.google.com/presentation/d/1wyjjPa3VD-SF4B090dLIcCj3xnWzgWWa8-q3leTfeaE/edit?usp=sharing)
 
 ## **Tech Stack:**
 
@@ -157,7 +154,7 @@ Looking at the current market conditions, we thought that it was the right time 
 ##### Backend Tech Stack :
 
 
-1. ReactJS which is a NodeJS Framework
+1. ReactJS 
 2. FastAPI
 
 ##### Database Tech Stack:
@@ -170,7 +167,6 @@ Looking at the current market conditions, we thought that it was the right time 
    
      
  
-  #### Challenges we ran into:
 
 
   
