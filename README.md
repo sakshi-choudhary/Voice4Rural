@@ -6,12 +6,19 @@
 
 
 <hr>
+<img align="left"  width="450" height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/logo%20main.jpeg">
+<img align="right" width="450"  height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/team%20logo.jpeg">
 
-<img align="left"  width="400" height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/logo%20main.jpeg">
-<img align="right" width="400"  height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/team%20logo.jpeg">
+<hr>
+
+<hr>
+
+<br>
 
 
 
+
+<br><br><br>
 
 
 ### **Abstract**
