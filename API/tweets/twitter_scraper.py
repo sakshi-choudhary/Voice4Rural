@@ -20,13 +20,14 @@ import plotly
 #import constants as ct
 from textblob import TextBlob
 from .Tweet import Tweet
+from decouple import config
 
 
 num_of_tweets=20
-consumer_key="SvrmVjZ527gKMocaCIdS8ArZo"
-consumer_secret="mFjrSeMr6TU7qOxQHTrtyPGt2BeA4RnBK4XzIHo1SH4jGebyl2"
-access_token="2555973745-UzdXECQl5iom7CLhLVvsSEPZLdPC6kWsVHR3O4o"
-access_token_secret="8sJRoJgPTxkqNt5fFe37nOq8fsMSVNABqv9VyTuYCqnrI"
+consumer_key=config('consumer_key')
+consumer_secret=config('consumer_secret')
+access_token=config('access_token')
+access_token_secret=('access_token_secret')
 
 
 def tweet_to_data_frame(tweets):

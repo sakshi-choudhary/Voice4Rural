@@ -13,9 +13,10 @@ from bson.json_util import loads, dumps
 import datetime
 import numpy as np
 from twilio.rest import Client
+from decouple import config
 
-account_sid = "AC3837dc86ec3c158fba0a73b8e696e309"
-auth_token = "4d92ff7b75caf1ac5710b30441410cfb"
+account_sid = config('account_sid')
+auth_token = config('auth_token')
 
 clientt = Client(account_sid, auth_token)
 
@@ -39,7 +40,7 @@ origins = [
 def parse_json(data):
     return json.loads(dumps(data))
 
-client = MongoClient("mongodb+srv://codebreak:codebreak2021@cluster0.t9bjr.mongodb.net/User1?retryWrites=true&w=majority")
+client = MongoClient(config('mongoconnect'))
 db = client['User1']
 jobs = db['jobs']
 market = db['market']
