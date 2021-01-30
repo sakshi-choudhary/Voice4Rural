@@ -7,7 +7,7 @@ import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 import Container from "@material-ui/core/Container";
 import Navbarr from "../UI/Navbar";
-// import crop from "../assets/crop.gif";
+import Chartt from "../Components/Chartt";
 
 class Crop extends Component {
   constructor(props) {
@@ -22,6 +22,18 @@ class Crop extends Component {
       temperature: "34",
       area: "2000",
       cropname: "bajra",
+      feb: "",
+      mar: "",
+      apr: "",
+      may: "",
+      jun: "",
+      jul: "",
+      aug: "",
+      sep: "",
+      oct: "",
+      nov: "",
+      dec: "",
+      jan: "",
     };
   }
 
@@ -49,6 +61,43 @@ class Crop extends Component {
     axios
       .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
       .then((res) => this.setState({ minprice: res.data.min_crop[1] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ feb: res.data.forecast_y[0] }));
+
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ mar: res.data.forecast_y[1] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ apr: res.data.forecast_y[2] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ may: res.data.forecast_y[3] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ jun: res.data.forecast_y[4] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ jul: res.data.forecast_y[5] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ aug: res.data.forecast_y[6] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ sep: res.data.forecast_y[7] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ oct: res.data.forecast_y[8] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ nov: res.data.forecast_y[9] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ dec: res.data.forecast_y[10] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ jan: res.data.forecast_y[11] }));
   }
 
   onSubmit = (e) => {
@@ -72,11 +121,11 @@ class Crop extends Component {
 
     axios
       .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
-      .then((res) => this.setState({ maxmon: res.data.maxs_crop[0] }));
+      .then((res) => this.setState({ maxmon: res.data.max_crop[0] }));
 
     axios
       .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
-      .then((res) => this.setState({ maxprice: res.data.maxs_crop[1] }));
+      .then((res) => this.setState({ maxprice: res.data.max_crop[1] }));
     axios
       .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
       .then((res) => this.setState({ minmon: res.data.min_crop[0] }));
@@ -95,6 +144,18 @@ class Crop extends Component {
       temperature,
       area,
       output,
+      feb,
+      mar,
+      apr,
+      may,
+      jun,
+      jul,
+      aug,
+      sep,
+      oct,
+      nov,
+      dec,
+      jan,
       details,
       cropname,
       maxmon,
@@ -102,9 +163,11 @@ class Crop extends Component {
       minmon,
       minprice,
     } = this.state;
+
     return (
       <>
         <Navbarr />
+
         <div id="google_translate_element"></div>
         <Container
           component="main"
@@ -341,6 +404,23 @@ class Crop extends Component {
               </span>{" "}
             </h2>
           </Grid>
+          <div className="App">
+            <canvas id="myChart" width="400" height="400" />
+          </div>
+          <Chartt
+            feb={feb}
+            mar={mar}
+            apr={apr}
+            may={may}
+            jun={jun}
+            jul={jul}
+            aug={aug}
+            sep={sep}
+            oct={oct}
+            nov={nov}
+            dec={dec}
+            jan={jan}
+          />
         </Container>
       </>
     );
