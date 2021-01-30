@@ -104,16 +104,7 @@ Looking at the current market conditions, we thought that it was the right time 
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/forecast%20with%20app.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss-2%20landing.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss.jpeg">
-  
-  ### Setup:
-  You Need to Set-up an Virtual environment by installing dependencies mentioned in [requirements.txt]() First.
-  
-  ```
-  1. start ML/app.py
-  
-  2.Open build/index.html
-  
-  ```
+
   
 ## **Link to Presentation** : [Click Here](https://docs.google.com/presentation/d/1wyjjPa3VD-SF4B090dLIcCj3xnWzgWWa8-q3leTfeaE/edit?usp=sharing)
 
@@ -153,7 +144,7 @@ Looking at the current market conditions, we thought that it was the right time 
 
 
 
-
+## Live at : <a href="https://voice4rural.netlify.app/">Click here</a>
    
      
  
