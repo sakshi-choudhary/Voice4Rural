@@ -6,7 +6,7 @@
 
 
 <hr>
-<img align="left"  width="450" height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/logo%20main.jpeg">
+<img align="left"  width="460" height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/logo%20main.jpeg">
 <img align="right" width="450"  height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/team%20logo.jpeg">
 
 <hr>
@@ -22,8 +22,7 @@
 
 
 ### **Abstract**
-
-<hr><br><br>
+<hr>
 
 Indian Farmers contributes to nearly one third of India GDP. It provides livelihood for the major Indian population. Some of the challenges they faces are old, some are new. Government must give farmers the same importance as industries. If the proper care won't be taken, the words like "small farmer" will become a history.
 
