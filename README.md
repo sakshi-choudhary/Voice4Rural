@@ -154,7 +154,7 @@ Looking at the current market conditions, we thought that it was the right time 
 ##### Backend Tech Stack :
 
 
-1. ReactJS which is a NodeJS Framework
+1. ReactJS 
 2. FastAPI
 
 ##### Database Tech Stack:
@@ -167,7 +167,6 @@ Looking at the current market conditions, we thought that it was the right time 
    
      
  
-  #### Challenges we ran into:
 
 
   
