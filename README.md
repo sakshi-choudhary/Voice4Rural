@@ -104,7 +104,7 @@ Looking at the current market conditions, we thought that it was the right time 
   <hr>
   
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/main%20landing%20eng.jpeg">
-    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20-%20buy%20ss.jpeg">
+
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20book%20slot%20ss.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-jobs%20find%20ss.jpeg">
     <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-vaacine%20slot%20ss.jpeg">
