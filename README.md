@@ -17,6 +17,7 @@
 <br>
 
 <br>
+<br>
 
 ### **Abstract**
 
@@ -124,7 +125,7 @@ Looking at the current market conditions, we thought that it was the right time 
   
   ```
   
-## **Link to Presentation** : [Click Here]()
+## **Link to Presentation** : [Click Here](https://docs.google.com/presentation/d/1wyjjPa3VD-SF4B090dLIcCj3xnWzgWWa8-q3leTfeaE/edit?usp=sharing)
 
 ## **Tech Stack:**
 
