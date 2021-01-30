@@ -18,10 +18,13 @@
 
 
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 
 ### **Abstract**
+
 <hr>
 
 Indian Farmers contributes to nearly one third of India GDP. It provides livelihood for the major Indian population. Some of the challenges they faces are old, some are new. Government must give farmers the same importance as industries. If the proper care won't be taken, the words like "small farmer" will become a history.
