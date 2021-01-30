@@ -132,6 +132,43 @@ class Crop extends Component {
     axios
       .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
       .then((res) => this.setState({ minprice: res.data.min_crop[1] }));
+     axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ feb: res.data.forecast_y[0] }));
+
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ mar: res.data.forecast_y[1] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ apr: res.data.forecast_y[2] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ may: res.data.forecast_y[3] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ jun: res.data.forecast_y[4] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ jul: res.data.forecast_y[5] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ aug: res.data.forecast_y[6] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ sep: res.data.forecast_y[7] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ oct: res.data.forecast_y[8] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ nov: res.data.forecast_y[9] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ dec: res.data.forecast_y[10] }));
+    axios
+      .get("https://voice4rural.herokuapp.com/trends/" + this.state.cropname)
+      .then((res) => this.setState({ jan: res.data.forecast_y[11] }));
   };
   onChange = (e) => {
     this.setState({ [e.target.name]: e.target.value });
