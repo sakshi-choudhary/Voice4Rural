@@ -3,10 +3,17 @@
 
 # Voice4Rural
 ## Team Binary Fetch  
-<img src="">
+<br><hr>
+<img align="left"  width="400" height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/logo%20main.jpeg">
+<img align="right" width="400"  height="150" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/team%20logo.jpeg">
 
+
+
+<hr><br><br><br><br>
 
 ### **Abstract**
+
+<hr><br><br>
 
 Indian Farmers contributes to nearly one third of India GDP. It provides livelihood for the major Indian population. Some of the challenges they faces are old, some are new. Government must give farmers the same importance as industries. If the proper care won't be taken, the words like "small farmer" will become a history.
 
@@ -19,6 +26,8 @@ Looking at the current market conditions, we thought that it was the right time 
 
 
 ### **The Problem**
+
+<hr>
   -  Starting the covid vaccination drive in rural areas is a problem and spreading an awareness about vaccines.
   -  Starting their own business is often troublesome due to lack of buyers.
   -  Finding new jobs in the city is often a tedious task for rural people.
@@ -32,16 +41,17 @@ Looking at the current market conditions, we thought that it was the right time 
 
 ### **The Solution**
 
+<hr>
 - Connect people to nearby vaccination centres to book their places from the available booking slots.
 - Connecting with buyers to facilitate selling of handmade products made by the village people to make use of their self-learned skills and make some money.
 - Collect various job recommendations that have been posted in various social platforms and bringing them under a single roof that matches the profile of the user.
 - Scraping information from twitter about changes in policy or any existing setups. Also displaying news of deemed importance from ministry or any national authority.
 - Providing hourly updates about changes/fluctuations in the prices of essential commodities, sensex, petrol, diesel, gold.
-- Predicting the weather
 - A social media platform where people can post their problems so that users from all around can jointly provide a solution or provide support.
 
 ### **Features :**
 
+<hr>
 - Booking done in the nearest hospital on basis of available slots.  A simple setup to assist people who aren’t much familiar with technology.
 - Another easy to use setup to post the handmade-items along with the negotiable price and the contact details. This will be a really good step up in turning India atmanirbhar and will also in turn help the needy.
 - Matching jobs based on the user profile and giving updates based on that. Almost everyone in villages are looking for jobs and this would surely help them in the run.
@@ -54,6 +64,7 @@ Looking at the current market conditions, we thought that it was the right time 
 
 ### **Unique Selling Point**
 
+<hr>
 - A smartphone and internet is all you need. This is something everyone has these days.
 - This is a big step up towards Atmanirbhar Bharat where Indians can use their own traditional handcrafts instead of relying on foreign products.
 - Perfect opportunity for rural men and especially women to uplift themselves using these skills and get a job.
@@ -64,8 +75,25 @@ Looking at the current market conditions, we thought that it was the right time 
 
   <br><br>
   ## **Flowchart**:
-  <br>
-  <img align="center" src="">
+  
+  <hr>
+  <img align="center" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Flowchart.jpeg">
+  
+   <br> 
+   
+  ### Live Snapshots Demo :
+  
+  <hr>
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/main%20landing%20eng.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20-%20buy%20ss.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20book%20slot%20ss.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-jobs%20find%20ss.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-vaacine%20slot%20ss.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/shop%20areana.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/twitter%20based%20news.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/ml%20ss.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss-2%20landing.jpeg">
+    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Multilinugal%20ss.jpeg">
   
   ### Setup:
   You Need to Set-up an Virtual environment by installing dependencies mentioned in [requirements.txt]() First.
@@ -80,7 +108,7 @@ Looking at the current market conditions, we thought that it was the right time 
 ## **Link to Presentation** : [Click Here]()
 
 ## **Tech Stack:**
-<img src="">
+
 
 
 ##### ML :
@@ -97,14 +125,16 @@ Looking at the current market conditions, we thought that it was the right time 
 
 ##### Frontend Tech Stack :
 
-1. Html and CSS
-2. ReactJS
+1. ReactJs
+2. ChartJs
+3. Material UI
+
 
 ##### Backend Tech Stack :
 
-1. NodeJS
-2. ReactJS which is a NodeJS Framework
-3. Flask which is a Python Framework
+
+1. ReactJS which is a NodeJS Framework
+2. FastAPI
 
 ##### Database Tech Stack:
 
@@ -112,12 +142,7 @@ Looking at the current market conditions, we thought that it was the right time 
 
 
 
-  
-  ### Demo :
-   <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20-%20buy%20ss.jpeg">
-  <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo%20book%20slot%20ss.jpeg">
-    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-jobs%20find%20ss.jpeg">
-    <img src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/demo-vaacine%20slot%20ss.jpeg">
+
    
      
  
