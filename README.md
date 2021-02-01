@@ -129,7 +129,7 @@ Looking at the current market conditions, we thought that it was the right time 
 
 1. ReactJs
 2. ChartJs
-3. Material UI, Chakra UI, React Bootstrap
+3. Material UI
 
 
 ##### Backend Tech Stack :
@@ -141,12 +141,6 @@ Looking at the current market conditions, we thought that it was the right time 
 ##### Database Tech Stack:
 
 1. MongoDB
-
-
-
-## Live at : <a href="https://voice4rural.netlify.app/">Click here</a>
-   
-     
  
 
 
