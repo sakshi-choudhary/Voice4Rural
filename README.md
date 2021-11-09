@@ -4,10 +4,16 @@
 <img align="right" width="300"  height="100" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/team%20logo.jpeg">
 
 
+
+
+
+
 <br>
 <br>
 <br>
 <br>
+
+<video src="https://user-images.githubusercontent.com/66865329/140896426-e6d1efb0-ca63-4201-811d-121fc5bde25e.mp4"></video>
 
 <br>
 <br>
