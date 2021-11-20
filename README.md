@@ -18,6 +18,14 @@
 <br>
 <br>
 
+  
+  ## **System Design**:
+  
+  <hr>
+  
+  <img align="center" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Flowchart.jpeg">
+  <br><br>
+  
 ### **Abstract**
 
 <hr>
@@ -85,14 +93,7 @@ Looking at the current market conditions, we thought that it was the right time 
 
 
 
-  <br><br>
-  
-  ## **System Design**:
-  
-  <hr>
-  
-  <img align="center" src="https://github.com/sakshi-choudhary/Voice4Rural/blob/hs/dl/Visual%20Content/Flowchart.jpeg">
-  
+  <br>
    <br> 
    
   ### Live Snapshots Demo :
