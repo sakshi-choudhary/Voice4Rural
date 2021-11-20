@@ -13,12 +13,7 @@
 
 <br>
 <br>
-<br>
-<br>
 
-Live at : [https://voice4-rural.vercel.app/](https://voice4-rural.vercel.app/)
-<br>
-<br>
 
 <video src="https://user-images.githubusercontent.com/66865329/140896426-e6d1efb0-ca63-4201-811d-121fc5bde25e.mp4"></video>
 
